@@ -129,6 +129,8 @@ include(PHPWG_ROOT_PATH . 'include/template.php');
 // Database connection
 mysql_connect( $cfgHote, $cfgUser, $cfgPassword )
 or die ( "Could not connect to database server" );
+mysql_query("SET CHARACTER SET 'utf8'")
+or die ( "Could not set database charset" );
 mysql_select_db( $cfgBase )
 or die ( "Could not connect to database" );
 

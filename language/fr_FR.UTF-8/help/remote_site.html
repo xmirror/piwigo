@@ -1,47 +1,47 @@
 <h2>Sites distant</h2>
 
-<p>PhpWebGallery offre la possibilité d'utiliser plusieurs sites pour
-stocker les fichiers qui composeront votre galerie. Cela peut être utile si
-votre galerie est installée sur un espace de stockage limité et que vous
-avez de nombreux fichiers à montrer.</p>
+<p>PhpWebGallery offre la possibilitÃ© d'utiliser plusieurs sites pour
+stocker les fichiers qui composeront votre galerie. Cela peut Ãªtre utile si
+votre galerie est installÃ©e sur un espace de stockage limitÃ© et que vous
+avez de nombreux fichiers Ã  montrer.</p>
 
 
 <ol>
 
-  <li>éditer le fichier <span
+  <li>Ã©diter le fichier <span
 class="filename">tools/create_listing_file.php</span> en modifiant la
-section des paramètres comme <code>$conf['prefix_thumbnail']</code> ou
+section des paramÃ¨tres comme <code>$conf['prefix_thumbnail']</code> ou
 <code>$conf['use_exif']</code>.</li>
 
   <li>placer le fichier <span
-class="filename">tools/create_listing_file.php</span> modifié sur votre site
-distant, dans le même répertoire que les répertoires représentant vos
-catégories (comme le répertoire <span class="filename">galleries</span> de
-ce site) par FTP. Par exemple, disons que vous pouvez accéder à <span
+class="filename">tools/create_listing_file.php</span> modifiÃ© sur votre site
+distant, dans le mÃªme rÃ©pertoire que les rÃ©pertoires reprÃ©sentant vos
+catÃ©gories (comme le rÃ©pertoire <span class="filename">galleries</span> de
+ce site) par FTP. Par exemple, disons que vous pouvez accÃ©der Ã  <span
 class="filename">http://exemple.com/galleries/create_listing_file.php</span>.</li>
 
-  <li>Se rendre sur <span class="pwgScreen">Administration, Général,
-Gestionnaire des sites</span>. Demander à créer un nouveau site, par exemple <span
+  <li>Se rendre sur <span class="pwgScreen">Administration, GÃ©nÃ©ral,
+Gestionnaire des sites</span>. Demander Ã  crÃ©er un nouveau site, par exemple <span
 class="filename">http://exemple.com/galleries</span>.</li>
 
   <li>
 
-    <p>un nouveau site distant est enregistré. 4 actions possibles :</p>
+    <p>un nouveau site distant est enregistrÃ©. 4 actions possibles :</p>
 
     <ol>
 
-      <li><strong>générer la liste</strong> : lance une requête distante pour
-générer le fichier de listing distant</li>
+      <li><strong>gÃ©nÃ©rer la liste</strong> : lance une requÃªte distante pour
+gÃ©nÃ©rer le fichier de listing distant</li>
 
       <li><strong>synchroniser</strong> : lit le fichier distant <span
-class="filename">listing.xml</span> et synchronise avec la base de données
+class="filename">listing.xml</span> et synchronise avec la base de donnÃ©es
 locale</li>
 
       <li><strong>nettoyer</strong> : supprime le fichier distant de
 listing</li>
 
-      <li><strong>détruire</strong> : supprime le site (et tous les éléments
-qui y sont associés) dans la base de données</li>
+      <li><strong>dÃ©truire</strong> : supprime le site (et tous les Ã©lÃ©ments
+qui y sont associÃ©s) dans la base de donnÃ©es</li>
 
     </ol>
 
@@ -49,8 +49,8 @@ qui y sont associés) dans la base de données</li>
 
 </ol>
 
-<!--<p>Vous pouvez également effectuer ces opérations manuellement en éditant
-le fichier <span class="filename">listing.xml</span> à la main et en le
-déplaçant vers votre répertoire racine. Se rendre sur <span
-class="pwgScreen">Administration, Général, Sites distant</span> :
-PhpWebGallery détecte le fichier et propose de s'en servir.</p>-->
+<!--<p>Vous pouvez Ã©galement effectuer ces opÃ©rations manuellement en Ã©ditant
+le fichier <span class="filename">listing.xml</span> Ã  la main et en le
+dÃ©plaÃ§ant vers votre rÃ©pertoire racine. Se rendre sur <span
+class="pwgScreen">Administration, GÃ©nÃ©ral, Sites distant</span> :
+PhpWebGallery dÃ©tecte le fichier et propose de s'en servir.</p>-->

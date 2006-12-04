@@ -1,44 +1,44 @@
 <h2>Aide</h2>
 
-<h3>Démarrage rapide</h3>
+<h3>DÃ©marrage rapide</h3>
 
 <ol>
 
-  <li>Créer un répertoire local "categorie_test".</li>
+  <li>CrÃ©er un rÃ©pertoire local "categorie_test".</li>
 
-  <li>Remplir le répetoire "categorie_test" avec des photos.</li>
+  <li>Remplir le rÃ©petoire "categorie_test" avec des photos.</li>
 
   <li>Ouvrir une connexion FTP vers la galerie distante.</li>
 
-  <li>Télécharger le répertoire local "categorie_test" dans le répertoire
-distant "galleries". Donner tous les droits (777) au nouveau répertoire
+  <li>TÃ©lÃ©charger le rÃ©pertoire local "categorie_test" dans le rÃ©pertoire
+distant "galleries". Donner tous les droits (777) au nouveau rÃ©pertoire
 "galleries/categorie_test".</li>
 
-  <li>Se connecter à votre installation de PhpWebGallery en tant
+  <li>Se connecter Ã  votre installation de PhpWebGallery en tant
 qu'administrateur.</li>
 
   <li>Se rendre sur <span class="pwgScreen">Administration, Images,
-Miniatures</span>. Demander à créer les miniatures absentes selon l'analyse
+Miniatures</span>. Demander Ã  crÃ©er les miniatures absentes selon l'analyse
 de PhpWebGallery.</li>
 
-  <li>Se rendre sur <span class="pwgScreen">Administration, Général,
-Synchroniser</span>. Cocher "répertoires + fichiers", décocher "Simuler
+  <li>Se rendre sur <span class="pwgScreen">Administration, GÃ©nÃ©ral,
+Synchroniser</span>. Cocher "rÃ©pertoires + fichiers", dÃ©cocher "Simuler
 uniquement" et valider la synchronisation.</li>
 
-  <li>Et voilà. Vous avez créer la catégorie "categorie_test" à la racine de
+  <li>Et voilÃ . Vous avez crÃ©er la catÃ©gorie "categorie_test" Ã  la racine de
 votre galerie.</li>
   
 </ol>
 
-<h3>Ajouts d'éléments</h3>
+<h3>Ajouts d'Ã©lÃ©ments</h3>
 
 <ul>
 
   <li>
 
-    <p>Les répertoires représentant les catégories sont dans le répertoire
-"galleries". Ci-dessous l'arbre des répertoires d'une très petite galerie
-(mais utilisant de nombreuses fonctionnalités) : </p>
+    <p>Les rÃ©pertoires reprÃ©sentant les catÃ©gories sont dans le rÃ©pertoire
+"galleries". Ci-dessous l'arbre des rÃ©pertoires d'une trÃ¨s petite galerie
+(mais utilisant de nombreuses fonctionnalitÃ©s) : </p>
   
 <pre>
 .
@@ -76,45 +76,45 @@ votre galerie.</li>
 
   </li>
   
-  <li>Fondamentalement, une catégorie est représentée par un répertoire à
-n'importe quel niveau sous le répertoire "galleries" de votre installation
-de PhpWebGallery. Chaque catégorie peut contenir autant de sous-niveaux que
-désiré. Dans l'exemple ci-dessus, categorie-1.1.1.1 est à un niveau 4 de
+  <li>Fondamentalement, une catÃ©gorie est reprÃ©sentÃ©e par un rÃ©pertoire Ã 
+n'importe quel niveau sous le rÃ©pertoire "galleries" de votre installation
+de PhpWebGallery. Chaque catÃ©gorie peut contenir autant de sous-niveaux que
+dÃ©sirÃ©. Dans l'exemple ci-dessus, categorie-1.1.1.1 est Ã  un niveau 4 de
 profondeur.</li>
 
-  <li>Fondamentalement, un élément est représenté par un fichier. Un fichier
-peut être un élément pour PhpWebGallery si l'extension du nom du fichier est
-parmi la liste du paramètre de configuration <code>file_ext</code> (voir
+  <li>Fondamentalement, un Ã©lÃ©ment est reprÃ©sentÃ© par un fichier. Un fichier
+peut Ãªtre un Ã©lÃ©ment pour PhpWebGallery si l'extension du nom du fichier est
+parmi la liste du paramÃ¨tre de configuration <code>file_ext</code> (voir
 fichier <span class="filename">include/config.inc.php</span>). Un fichier
-peut être une image si son extension est parmi le paramètre de configuration
+peut Ãªtre une image si son extension est parmi le paramÃ¨tre de configuration
 <code>picture_ext</code>.</li>
 
-  <li>Les éléments de type image doivent avoir une miniature associée (voir la
-section suivante à propos des miniatures).</li>
+  <li>Les Ã©lÃ©ments de type image doivent avoir une miniature associÃ©e (voir la
+section suivante Ã  propos des miniatures).</li>
 
-  <li>Les éléments de type image peuvent avoir un image en grand format
-associé.  Comme pour le fichier <span class="filename">mariage.jpg</span>
-dans l'exemple ci-dessus. Aucun préfixe n'est nécessaire sur le nom du
+  <li>Les Ã©lÃ©ments de type image peuvent avoir un image en grand format
+associÃ©.  Comme pour le fichier <span class="filename">mariage.jpg</span>
+dans l'exemple ci-dessus. Aucun prÃ©fixe n'est nÃ©cessaire sur le nom du
 fichier.</li>
 
-  <li>Les éléments non image (vidéos, sons, fichiers texte, tout ce que vous
-voulez...) sont par défaut représentés par un icône correspondant à
+  <li>Les Ã©lÃ©ments non image (vidÃ©os, sons, fichiers texte, tout ce que vous
+voulez...) sont par dÃ©faut reprÃ©sentÃ©s par un icÃ´ne correspondant Ã 
 l'extension du nom du fichier. Optionnellement, une miniature et un
-représentant peuvent être associés (voir le fichier <span
+reprÃ©sentant peuvent Ãªtre associÃ©s (voir le fichier <span
 class="filename">video.avi</span> dans l'exemple).</li>
 
-  <li><em>Attention</em> : le nom d'un répertoire ou d'un fichier ne doit
-être composé que de lettres, de chiffres, de "-", "_" ou ".". Pas d'espace
-ou de caractères accentués.</li>
+  <li><em>Attention</em> : le nom d'un rÃ©pertoire ou d'un fichier ne doit
+Ãªtre composÃ© que de lettres, de chiffres, de "-", "_" ou ".". Pas d'espace
+ou de caractÃ¨res accentuÃ©s.</li>
 
-  <li><em>Conseil</em> : une catégorie peut contenir des éléments et des
-sous-catégories à la fois. Néanmoins, il est fortement conseillé pour chaque
-catégorie de choisir entre contenir des éléments <strong>ou bien</strong>
-des sous-catégories.</li>
+  <li><em>Conseil</em> : une catÃ©gorie peut contenir des Ã©lÃ©ments et des
+sous-catÃ©gories Ã  la fois. NÃ©anmoins, il est fortement conseillÃ© pour chaque
+catÃ©gorie de choisir entre contenir des Ã©lÃ©ments <strong>ou bien</strong>
+des sous-catÃ©gories.</li>
 
-  <li>Une fois que les fichiers, les miniatures et les représentants sont
-correctement placés dans les répertoires, se rendre sur l'écran <span
-class="pwgScreen">Administration, Général, Synchroniser</span>.</li>
+  <li>Une fois que les fichiers, les miniatures et les reprÃ©sentants sont
+correctement placÃ©s dans les rÃ©pertoires, se rendre sur l'Ã©cran <span
+class="pwgScreen">Administration, GÃ©nÃ©ral, Synchroniser</span>.</li>
 
 </ul>
 
@@ -122,32 +122,32 @@ class="pwgScreen">Administration, Général, Synchroniser</span>.</li>
 
 <ul>
   
-  <li>Comme mentionné précédemment, chaque élément de type image doit être
-associé à une miniature.</li>
+  <li>Comme mentionnÃ© prÃ©cÃ©demment, chaque Ã©lÃ©ment de type image doit Ãªtre
+associÃ© Ã  une miniature.</li>
 
-  <li>Les miniatures sont stockées dans le sous-répertoire "thumbnail" de
-chaque répertoire représentant une catégorie. Une miniature est un fichier
-de type image (même extension du nom du fichier) dont le nom de fichier est
-préfixé par le paramètre de configuration <code>prefix_thumbnail</code>
+  <li>Les miniatures sont stockÃ©es dans le sous-rÃ©pertoire "thumbnail" de
+chaque rÃ©pertoire reprÃ©sentant une catÃ©gorie. Une miniature est un fichier
+de type image (mÃªme extension du nom du fichier) dont le nom de fichier est
+prÃ©fixÃ© par le paramÃ¨tre de configuration <code>prefix_thumbnail</code>
 (voir <span class="filename">include/config.inc.php</span>).</li>
 
-  <li>Les miniatures n'ont pas besoin d'avoir la même extension que leur
-image associée (une image avec ".jpg" comme extension peut avoir une
+  <li>Les miniatures n'ont pas besoin d'avoir la mÃªme extension que leur
+image associÃ©e (une image avec ".jpg" comme extension peut avoir une
 miniature en ".GIF" par exemple).</li>
 
-  <li>Il est conseillé d'utiliser un outil externe pour la création des
-miniatures (comme ThumbClic ou PhpMyVignettes, voir le site de présentation
+  <li>Il est conseillÃ© d'utiliser un outil externe pour la crÃ©ation des
+miniatures (comme ThumbClic ou PhpMyVignettes, voir le site de prÃ©sentation
 de PhpWebGallery).</li>
 
-  <li>Vous pouvez également utiliser l'outil de création de miniature
-intégré à PhpWebGallery mais cela est déconseillé car la qualité risque
-d'être décevante et cela utilise inutilement les ressources du serveur (ce
-qui peut être un grave problème sur un serveur mutualisé).</li>
+  <li>Vous pouvez Ã©galement utiliser l'outil de crÃ©ation de miniature
+intÃ©grÃ© Ã  PhpWebGallery mais cela est dÃ©conseillÃ© car la qualitÃ© risque
+d'Ãªtre dÃ©cevante et cela utilise inutilement les ressources du serveur (ce
+qui peut Ãªtre un grave problÃ¨me sur un serveur mutualisÃ©).</li>
 
-  <li>Si vous choisissez d'utiliser le serveur web pour générer les
-miniatures, vous devez donner les droits en écriture sur tous les
-répertoires représentant les catégories pour tous les utilisateurs
-(propriétaire, groupe, autre).</li>
+  <li>Si vous choisissez d'utiliser le serveur web pour gÃ©nÃ©rer les
+miniatures, vous devez donner les droits en Ã©criture sur tous les
+rÃ©pertoires reprÃ©sentant les catÃ©gories pour tous les utilisateurs
+(propriÃ©taire, groupe, autre).</li>
 
 </ul>
 
@@ -155,16 +155,16 @@ répertoires représentant les catégories pour tous les utilisateurs
 
 <ul>
 
-  <li>Vous pouvez interdire l'accès aux catégories. Les catégories peuvent
-être publiques ou privées. Les autorisations (valables pour les groupes et
-les utilisateurs) sont gérables uniquement pour les catégories privées.</li>
+  <li>Vous pouvez interdire l'accÃ¨s aux catÃ©gories. Les catÃ©gories peuvent
+Ãªtre publiques ou privÃ©es. Les autorisations (valables pour les groupes et
+les utilisateurs) sont gÃ©rables uniquement pour les catÃ©gories privÃ©es.</li>
   
-  <li>Vous pouvez rendre une catégorie privée en l'éditant (<span
-class="pwgScreen">Administration, Catégories, Gestion, Editer</span>) ou en
-gérant les options pour votre arbre complet des catégories (<span
-class="pwgScreen">Administration, Catégories, Publique/Privée</span>).</li>
+  <li>Vous pouvez rendre une catÃ©gorie privÃ©e en l'Ã©ditant (<span
+class="pwgScreen">Administration, CatÃ©gories, Gestion, Editer</span>) ou en
+gÃ©rant les options pour votre arbre complet des catÃ©gories (<span
+class="pwgScreen">Administration, CatÃ©gories, Publique/PrivÃ©e</span>).</li>
 
-  <li>Une fois que certaines catégories sont privées, vous pouvez gérer les
+  <li>Une fois que certaines catÃ©gories sont privÃ©es, vous pouvez gÃ©rer les
 autorisations pour les groupes et les utilisateurs (<span
 class="pwgScreen">Administration, Autorisations</span>).</li>
 
@@ -174,16 +174,16 @@ class="pwgScreen">Administration, Autorisations</span>).</li>
 
 <ul>
 
-  <li>PhpWebGallery peut gérer des groupes d'utilisateurs. Très pratique
-pour gérer des autorisations communes sur les catégories privées.</li>
+  <li>PhpWebGallery peut gÃ©rer des groupes d'utilisateurs. TrÃ¨s pratique
+pour gÃ©rer des autorisations communes sur les catÃ©gories privÃ©es.</li>
 
-  <li>Vous pouvez créer des groupes et y ajouter des utilisateurs dans la
+  <li>Vous pouvez crÃ©er des groupes et y ajouter des utilisateurs dans la
 <span class="pwgScreen">Administration, Identification, Groupes</span>.</li>
 
-  <li>Un utilisateur peut appartenir à plusieurs groupes. L'autorisation est
+  <li>Un utilisateur peut appartenir Ã  plusieurs groupes. L'autorisation est
 plus forte que l'interdiction : si l'utilisateur "pierre" appartient aux
 groupes "famille" et "amis", et que seul le groupe "famille" peut visiter la
-catégorie "Noël 2003", alors "pierre" peut visiter cette catégorie.</li>
+catÃ©gorie "NoÃ«l 2003", alors "pierre" peut visiter cette catÃ©gorie.</li>
   
 </ul>
 
@@ -193,41 +193,41 @@ catégorie "Noël 2003", alors "pierre" peut visiter cette catégorie.</li>
 
 <ol>
 
-  <li>autoriser l'ajout d'images sur n'importe quelle catégorie (<span
-class="pwgScreen">Administation, Catégories, Gestion, Edit</span> ou <span
-class="pwgScreen">Administration, Catégories, Ajout d'images</span>).</li>
+  <li>autoriser l'ajout d'images sur n'importe quelle catÃ©gorie (<span
+class="pwgScreen">Administation, CatÃ©gories, Gestion, Edit</span> ou <span
+class="pwgScreen">Administration, CatÃ©gories, Ajout d'images</span>).</li>
 
-  <li>donner les droits en écriture (pour tous les utilisateurs) sur les
-répertoires correspondant aux catégories qui sont autorisées à l'ajout.</li>
+  <li>donner les droits en Ã©criture (pour tous les utilisateurs) sur les
+rÃ©pertoires correspondant aux catÃ©gories qui sont autorisÃ©es Ã  l'ajout.</li>
 
-  <li>Les fichiers ajoutés par les utilisateurs ne sont pas directement
-visibles sur le site, ils doivent être validés par un administrateur. Pour
+  <li>Les fichiers ajoutÃ©s par les utilisateurs ne sont pas directement
+visibles sur le site, ils doivent Ãªtre validÃ©s par un administrateur. Pour
 cela, un administrateur doit se rendre dans zone administration, Images, En
-attente afin de valider ou rejeter les fichiers proposés. Il est ensuite
-nécessaire de synchroniser le système de fichier avec la base de données.</li>
+attente afin de valider ou rejeter les fichiers proposÃ©s. Il est ensuite
+nÃ©cessaire de synchroniser le systÃ¨me de fichier avec la base de donnÃ©es.</li>
 
 </ol>
 
-<h3>Liens entre les éléments et les catégories, catégories virtuelles</h3>
+<h3>Liens entre les Ã©lÃ©ments et les catÃ©gories, catÃ©gories virtuelles</h3>
 
 <ul>
 
-  <li>PhpWebGallery dissocie les catégories qui stockent les éléments et les
-catégories où les éléments sont montrés.</li>
+  <li>PhpWebGallery dissocie les catÃ©gories qui stockent les Ã©lÃ©ments et les
+catÃ©gories oÃ¹ les Ã©lÃ©ments sont montrÃ©s.</li>
 
-  <li>Par défaut, les élement ne sont montrés que dans leurs catégories
-réelles : celles qui correspondent à leurs répertoires sur le serveur.</li>
+  <li>Par dÃ©faut, les Ã©lement ne sont montrÃ©s que dans leurs catÃ©gories
+rÃ©elles : celles qui correspondent Ã  leurs rÃ©pertoires sur le serveur.</li>
 
-  <li>Pour lier un élément à une catégorie, il suffit de faire une
-association sur la page d'édition de l'élément (un lien existe vers cette
-page lorsque vous êtes connecté en tant qu'administrateur), sur la page
-regroupant les informations sur tous les éléments d'une catégorie ou bien
-encore à l'aide du caddie.</li>
+  <li>Pour lier un Ã©lÃ©ment Ã  une catÃ©gorie, il suffit de faire une
+association sur la page d'Ã©dition de l'Ã©lÃ©ment (un lien existe vers cette
+page lorsque vous Ãªtes connectÃ© en tant qu'administrateur), sur la page
+regroupant les informations sur tous les Ã©lÃ©ments d'une catÃ©gorie ou bien
+encore Ã  l'aide du caddie.</li>
 
-  <li>En partant de ce principe, il est possible de créer des catégories
-virtuelles : aucun répertoire ne correspond à ces catégories. Vous pouvez
-créer des catégories virtuelles sur <span class="pwgScreen">Administration,
-Catégorie, Gestion</span>.</li>
+  <li>En partant de ce principe, il est possible de crÃ©er des catÃ©gories
+virtuelles : aucun rÃ©pertoire ne correspond Ã  ces catÃ©gories. Vous pouvez
+crÃ©er des catÃ©gories virtuelles sur <span class="pwgScreen">Administration,
+CatÃ©gorie, Gestion</span>.</li>
 
 </ul>
 
@@ -235,16 +235,16 @@ Catégorie, Gestion</span>.</li>
 
 <ul>
   
-  <li>Une fois votre galerie créée, configurez l'affichage par
-défaut tel que désiré dans <span class="pwgScreen">Administation,
-Configuration, Affichage par défaut</span>. En effet, chaque nouvel
-utilisateur héritera de ces propriétés d'affichage.</li>
+  <li>Une fois votre galerie crÃ©Ã©e, configurez l'affichage par
+dÃ©faut tel que dÃ©sirÃ© dans <span class="pwgScreen">Administation,
+Configuration, Affichage par dÃ©faut</span>. En effet, chaque nouvel
+utilisateur hÃ©ritera de ces propriÃ©tÃ©s d'affichage.</li>
 
-  <li>Pour tout question, n'hésitez pas à visiter le forum ou à y poser une
+  <li>Pour tout question, n'hÃ©sitez pas Ã  visiter le forum ou Ã  y poser une
 question si votre recherche est infructueuse. Le 
 <a href="http://forum.phpwebgallery.net">forum</a> est disponible sur le site
- de PhpWebGallery. Consulter également la 
+ de PhpWebGallery. Consulter Ã©galement la 
 <a href="http://phpwebgallery.net/doc">documentation officielle de 
-PhpWebGallery</a> pour obtenir plus de détails.</li>
+PhpWebGallery</a> pour obtenir plus de dÃ©tails.</li>
 
 </ul>
