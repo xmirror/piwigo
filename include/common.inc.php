@@ -147,6 +147,8 @@ if ( is_admin() || (defined('IN_ADMIN') and IN_ADMIN) )
 trigger_action('loading_lang');
 load_language('local.lang', '', array('no_fallback'=>true) );
 
+bind_pwg_textdomain();
+
 // only now we can set the localized username of the guest user (and not in
 // include/user.inc.php)
 if (is_a_guest())

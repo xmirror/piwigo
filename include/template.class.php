@@ -66,11 +66,11 @@ class Template {
     $this->smarty->compile_dir = $compile_dir;
 
     $this->smarty->assign_by_ref( 'pwg', new PwgTemplateAdapter() );
-    $this->smarty->register_modifier( 'translate', array('Template', 'mod_translate') );
+    $this->smarty->register_modifier( 'translate', array(&$this, 'mod_translate') );
     $this->smarty->register_modifier( 'explode', array('Template', 'mod_explode') );
     $this->smarty->register_modifier( 'get_extent', array(&$this, 'get_extent') );
     $this->smarty->register_block('html_head', array(&$this, 'block_html_head') );
-    $this->smarty->register_function('known_script', array(&$this, 'func_known_script') );
+    $this->smarty->register_function( 'known_script', array(&$this, 'func_known_script') );
     $this->smarty->register_prefilter( array('Template', 'prefilter_white_space') );
     if ( $conf['compiled_template_cache_language'] )
     {
@@ -98,7 +98,7 @@ class Template {
 
     include($root.'/'.$theme.'/themeconf.inc.php');
 
-    if (isset($themeconf['parent']))
+    if (isset($themeconf['parent']) and $themeconf['parent'] != $theme)
     {
       $this->set_theme($root, $themeconf['parent'], $path);
     }
@@ -385,9 +385,9 @@ class Template {
    * translate variable modifier - translates a text to the currently loaded
    * language
    */
-  static function mod_translate($text)
+  public function mod_translate($text, $domain='piwigo')
   {
-    return l10n($text);
+    return l10n($text, $domain);
   }
 
   /**
@@ -560,14 +560,14 @@ class Template {
  */
 class PwgTemplateAdapter
 {
-  function l10n($text)
+  function l10n($text, $domain='piwigo')
   {
-    return l10n($text);
+    return l10n($text, $domain);
   }
 
-  function l10n_dec($s, $p, $v)
+  function l10n_dec($s, $p, $v, $domain='piwigo')
   {
-    return l10n_dec($s, $p, $v);
+    return l10n_dec($s, $p, $v, $domain);
   }
 
   function sprintf()

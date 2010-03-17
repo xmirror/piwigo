@@ -541,10 +541,10 @@ function format_date($date, $show_time = false)
   {
     // we ask midday because Windows think it's prior to midnight with a
     // zero and refuse to work
-    $formated_date.= $lang['day'][date('w', mktime(12,0,0,$ymdhms[1],$ymdhms[2],$ymdhms[0]))];
+    $formated_date.= l10n(date('l', mktime(12,0,0,$ymdhms[1],$ymdhms[2],$ymdhms[0])));
   }
   $formated_date.= ' '.$ymdhms[2];
-  $formated_date.= ' '.$lang['month'][(int)$ymdhms[1]];
+  $formated_date.= ' '.l10n(date('F', mktime(12,0,0,$ymdhms[1],$ymdhms[2],$ymdhms[0])));
   $formated_date.= ' '.$ymdhms[0];
   if ($show_time and count($ymdhms)>=5 )
   {
@@ -713,21 +713,24 @@ function url_is_remote($url)
  */
 function get_pwg_themes()
 {
-  global $conf;
   $themes = array();
 
-  $template_dir = PHPWG_ROOT_PATH.'themes';
-
-  foreach (get_dirs($template_dir) as $theme)
+  $query = '
+SELECT
+    id,
+    name
+  FROM '.THEMES_TABLE.'
+  ORDER BY name ASC
+;';
+  $result = pwg_query($query);
+  while ($row = pwg_db_fetch_assoc($result))
   {
-    if ( $theme != 'default' )
-	  {
-      array_push($themes, $theme);
-	  }
+    $themes[ $row['id'] ] = $row['name'];
   }
 
   // plugins want remove some themes based on user status maybe?
   $themes = trigger_event('get_pwg_themes', $themes);
+  
   return $themes;
 }
 
@@ -861,33 +864,41 @@ function get_name_from_file($filename)
 }
 
 /**
- * returns the corresponding value from $lang if existing. Else, the key is
- * returned
- *
- * @param string key
- * @return string
+ * bind piwigo textdomain 
  */
-function l10n($key, $textdomain='messages')
+function bind_pwg_textdomain() 
 {
   global $user;
 
   if (empty($user['language']))
   {
     $locale = $GLOBALS['language'];
-  } 
-  else 
+  }
+  else
   {
     $locale = $user['language'];
   }
 
-  T_setlocale(LC_ALL, $locale.'.UTF-8');
+  $locale .= '.UTF-8';
+  putenv('LC_ALL='.$locale);
+  T_setlocale(LC_ALL, $locale);
 
-  // Specify location of translation tables
-  T_bindtextdomain($textdomain, "./language");
+  T_bindtextdomain('piwigo', './language');
+}
 
-  // Choose domain
+/**
+ * returns the corresponding value from $lang if existing. Else, the key is
+ * returned
+ *
+ * @param string key
+ * @param string textdomain domain where to find keys
+ * @return string
+ */
+function l10n($key, $textdomain='piwigo')
+{
+  T_bind_textdomain_codeset($textdomain, 'UTF-8');
   T_textdomain($textdomain);
-  
+ 
   return T_gettext($key);
 }
 
@@ -898,28 +909,13 @@ function l10n($key, $textdomain='messages')
  * @param singular string key
  * @param plural string key
  * @param decimal value
+ * @param textdomain string value
  * @return string
  */
 function l10n_dec($singular_fmt_key, $plural_fmt_key, 
-		  $decimal, $textdomain='messages')
+		  $decimal, $textdomain='piwigo')
 {
-  global $user;
-
-  if (empty($user['language']))
-  {
-    $locale = $GLOBALS['language'];
-  } 
-  else 
-  {
-    $locale = $user['language'];
-  }
-
-  T_setlocale(LC_ALL, $locale.'.UTF-8');
-
-  // Specify location of translation tables
-  T_bindtextdomain($textdomain, "./language");
-
-  // Choose domain
+  T_bind_textdomain_codeset($textdomain, 'UTF-8');
   T_textdomain($textdomain);
 
   return sprintf(T_ngettext($singular_fmt_key, 

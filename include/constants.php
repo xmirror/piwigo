@@ -97,5 +97,7 @@ if (!defined('PLUGINS_TABLE'))
   define('PLUGINS_TABLE', $prefixeTable.'plugins');
 if (!defined('OLD_PERMALINKS_TABLE'))
   define('OLD_PERMALINKS_TABLE', $prefixeTable.'old_permalinks');
+if (!defined('THEMES_TABLE'))
+  define('THEMES_TABLE', $prefixeTable.'themes');
 
 ?>
