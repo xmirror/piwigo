@@ -1,0 +1,1 @@
+Kayıt formu için güvenlik kodu ekler.

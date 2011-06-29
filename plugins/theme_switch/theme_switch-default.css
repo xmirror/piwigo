@@ -1,0 +1,16 @@
+.theme_flag-pan { width:530px; z-index:800; border-width:1px; border-style: solid; background-color: #999; padding: 2px 5px 10px 5px; }
+.content ul.categoryActions .theme_flag-pan a img.theme_flags { margin: 5px 2px 10px; }
+.content ul.categoryActions .theme_flag-pan a { margin: 0; }
+.theme_menuf { width:40px; height:24px; display: inline; } 
+.theme_menuf ul li a, .theme_menuf ul li a:visited {display:block; text-decoration:none; overflow:hidden;}
+.theme_menuf ul {padding:0; margin:0; list-style: none;}
+.theme_menuf ul li {float:left; position:relative; right: 0; top: 0;}
+.theme_menuf ul li ul {display: none;}/* specific to non IE browsers */
+.theme_menuf li a:hover { border:0 !important;}
+.theme_menuf .theme_flags {width:100px !important; ; height:60px; text-align:center; line-height:80px; border-width:1px !important; ; border-style: solid !important; }
+.theme_menuf .theme_flag {width:44px; height:27px; line-height:27px; text-align:center; border-width:1px !important; ; border-style: solid !important; }
+.theme_menuf ul li:hover ul {display:block; position:absolute; top:0px; left:-420px; }
+.theme_menuf ul li:hover ul li ul {display: none;}
+.theme_menuf ul li:hover ul li {display: block;}
+.theme_menuf ul li:hover ul li a {display:block;}
+.theme_menuf ul li:hover ul li:hover ul {display:block; position:absolute; left:0; top:0;}

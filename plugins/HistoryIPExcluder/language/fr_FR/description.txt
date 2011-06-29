@@ -1,0 +1,1 @@
+Permet l'exclusion d'une IP ou d'une plage d'IP de l historique et de les blacklister à l'inscription

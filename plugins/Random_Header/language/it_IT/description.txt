@@ -1,0 +1,1 @@
+Permette di visualizzare, nel header, un'immagine scelta a caso da una categoria che avrete selezionato, in modo normale o come immagine di sfondo.

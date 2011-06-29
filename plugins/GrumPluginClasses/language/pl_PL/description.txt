@@ -1,0 +1,1 @@
+Klasy wspó³dzielone pomiêdzy wtyczkami

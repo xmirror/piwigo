@@ -1,0 +1,1 @@
+Aggiunge un captcha sulla pagina di iscrizione

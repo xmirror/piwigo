@@ -1,0 +1,1 @@
+A Whois Online egy ellenőrző eszköz, mely valós időben mutatja a kép/index előzményeket (előzmények rögzítésének aktiválása és konfigurációs lehetőségek).

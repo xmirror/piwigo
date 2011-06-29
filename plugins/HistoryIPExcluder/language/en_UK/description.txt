@@ -1,0 +1,1 @@
+Excludes one IP or a range of IP from the history and to blacklist them on registration

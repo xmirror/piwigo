@@ -1,0 +1,12 @@
+/* for inputText plugin */
+.ui-inputText {
+  cursor:text;
+  padding:0px;
+}
+.ui-inputText input[type='text'], .ui-inputText textarea  {
+  border:none;
+  background:transparent;
+  display:inline-block;
+  padding-right:2px;
+}
+

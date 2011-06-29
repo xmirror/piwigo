@@ -1,0 +1,1 @@
+Nahradí menu kategorií jiným typem (javascript menu).

@@ -1,0 +1,1 @@
+Voeg captcha-beveiliging toe aan uw registratie-formulier

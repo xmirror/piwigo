@@ -1,0 +1,51 @@
+/* for inputNum plugin */
+.ui-inputNum {
+  cursor:text;
+  padding:0px;
+}
+.ui-inputNum-extra {
+  display:inline-block;
+  float:right;
+}
+.ui-inputNum input[type='text'] {
+  border:none;
+  background:transparent;
+  display:inline-block;
+  padding-right:2px;
+}
+.ui-inputNum-btDec, .ui-inputNum-btInc {
+  border-style:solid;
+  border-width:1px;
+  cursor:pointer;
+  font-weight:bold;
+  width:14px;
+  margin-top:1px;
+  height:14px;
+  text-align:center;
+  display:inline-block;
+}
+.ui-inputNum-unit {
+  margin-right:4px;
+  display:inline-block;
+}
+
+div.ui-inputNum div.ui-slider {
+  cursor:pointer;
+}
+
+div.ui-inputNum div.ui-slider-horizontal {
+  height:13px;
+  margin:0px;
+  padding-right:13px;
+}
+
+div.ui-inputNum a.ui-slider-handle {
+  border-style:solid;
+  border-width:1px;
+  display:inline-block;
+  height:10px;
+  margin-top:1px;
+  outline:medium none;
+  position:relative;
+  width:10px;
+}

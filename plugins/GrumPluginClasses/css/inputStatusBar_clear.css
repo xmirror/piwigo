@@ -1,0 +1,10 @@
+/* clear css */
+.ui-inputStatusBar {
+  border:1px solid #999999;
+  color:#666666;
+}
+
+.ui-inputStatusBar td {
+  border-color:#999999;
+  padding:2px;
+}

@@ -1,0 +1,1 @@
+Sdílené Classes mezi pluginy

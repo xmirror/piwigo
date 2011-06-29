@@ -1,0 +1,11 @@
+@import "../contactform_admin.css";
+.cf-label {
+	background-color: #111111;
+	color: #666666;
+	border: 1px solid #666666;
+}
+.cf-label:hover {
+  color: #111111;
+  background-color: #666666;
+  border: 1px solid #111111;
+}

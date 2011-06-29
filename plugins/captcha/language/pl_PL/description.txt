@@ -1,0 +1,1 @@
+Dodaje captcha do formularza rejestracji

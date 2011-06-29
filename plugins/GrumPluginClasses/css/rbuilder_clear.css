@@ -1,0 +1,9 @@
+.pnInactive:hover { background:#F1F1F1; }
+.pnActive { background:#F1F1F1; }
+div.cbOperatorBg { background:#dbe8f3; }
+.iconEdit { background:url(./../../../admin/themes/clear/icon/edit_s.png) no-repeat 0 0 transparent; }
+.iconDelete { background:url(./../../../admin/themes/clear/icon/delete.png) no-repeat 0 0 transparent; }
+.iconMove { background:url(./../../../admin/themes/clear/icon/cat_move.png) no-repeat 0 0 transparent; }
+.iconSwitchCondition  { background:url(./../icons/switch_clear.png) no-repeat 0 0 transparent; }
+.cbItemMultiple { border:1px solid #999999; }
+.cbItemOverGroup { border:1px dotted #999999; }

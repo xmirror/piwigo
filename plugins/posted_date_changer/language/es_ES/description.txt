@@ -1,0 +1,1 @@
+Permite cambiar la fecha al agregar fotos en la gestión por lotes.

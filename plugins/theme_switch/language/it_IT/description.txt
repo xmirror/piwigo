@@ -1,0 +1,1 @@
+Consente agli utenti registrati o non registrati a modificare l'aspetto della galleria (attraverso lo scambio di diversi temi) sul sito della galleria. Il Plug-in è basato su "Language switch". Il switch può mostrare i nomi dei temi o le icone dei temi, a seconda dalla configurazione. Per ulteriori dettagli controllate il file main.inc.php.

@@ -1,0 +1,22 @@
+/* clear css */
+table.ui-inputColorPicker-inputContainer div.ui-inputNum div.ui-slider {
+  border-color:#999999;
+}
+
+.ui-inputDialogColor {
+  background:#AAAAAA;
+  border:1px solid #999999;
+}
+.ui-inputDialogColor div.ui-dialog-titlebar {
+  background:#DDDDDD;
+  color:#666666;
+}
+.ui-inputDialogColor div.ui-dialog-buttonpane button {
+  background:none repeat scroll 0 0 #999999;
+  border-color:#DDDDDD #666666 #666666 #DDDDDD;
+  color:#005E89;
+}
+.ui-inputDialogColor div.ui-dialog-buttonpane button:active {
+  border-color:#666666 #DDDDDD #DDDDDD #666666;
+}
+

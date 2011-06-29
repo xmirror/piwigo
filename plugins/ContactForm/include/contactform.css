@@ -1,0 +1,45 @@
+div.contact-form {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+div.contact-form-content {
+  border-width: 0px;
+  border-style: solid;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+}
+.cf-input-disabled {
+  position: relative;
+}
+.cf-input, .cf-input-disabled {
+  left: 5px;
+}
+td.contact-form-left {
+	padding-right: 5px;
+	text-align: right;
+	vertical-align: middle;
+}
+td.contact-form-left#cf_message_label {
+  vertical-align: top;
+  padding-top: 5px;
+}
+td.contact-form-right {
+  padding-left: 5px;
+  text-align: left;
+}
+#cf-redirect {
+	margin-left: 10em;
+	margin-right: 10em;
+  padding: 5px;
+}
+.cf-log-infos, .cf-log-errors {
+	font-weight: bold;
+}
+div.cf-button {
+	margin-left: 5px;
+}
+
+#cf_message {width:400px;height:200px;}

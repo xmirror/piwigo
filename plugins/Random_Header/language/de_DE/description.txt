@@ -1,0 +1,1 @@
+Erlaubt es im Kopfbereich ein Zufallsbild aus der von Ihnen ausgewählten Kategorie anzuzeigen. Dies entweder als normales Bild oder aber als Hintergrundbild

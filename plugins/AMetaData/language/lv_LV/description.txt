@@ -1,0 +1,1 @@
+Papildinātais MetaData spraudnis ir spraudnis, kas lieto visus attēlos esošos metatdatus (EXIF, IPTC and XMP).

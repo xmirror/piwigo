@@ -1,0 +1,1 @@
+Permet d'afficher dans l'en-tête une image au hasard parmi la catégorie que vous aurez choisi, soit en image normale, soit en image de fond.

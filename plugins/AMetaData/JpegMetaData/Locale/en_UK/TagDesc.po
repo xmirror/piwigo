@@ -1,0 +1,4111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TagNames\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-04-11 00:11+0100\n"
+"Last-Translator: grum <grum@piwigo.org>\n"
+"Language-Team: grum\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: en\n"
+"X-Poedit-Country: UK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. IPTC tags / 0x022a (Action Advised)
+#, fuzzy
+msgid "Action Advised"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0022 (ActiveD-Lighting)
+#, fuzzy
+msgid "ActiveD-Lighting"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0206 (AEInfo)
+#, fuzzy
+msgid "AEInfo"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0048 (AELock)
+#, fuzzy
+msgid "AELock"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0209 (AEMeteringSegments)
+#, fuzzy
+msgid "AEMeteringSegments"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0072 (AFAdjustment)
+#, fuzzy
+msgid "AFAdjustment"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x8568 (AFCP_IPTC)
+#, fuzzy
+msgid "AFCP_IPTC"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Pentax specific tags / 0x021f (AFInfo)
+#, fuzzy
+msgid "AFInfo"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0b70 (AFInfo2)
+#, fuzzy
+msgid "AFInfo2"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x4013 (AFMicroAdj)
+#, fuzzy
+msgid "AFMicroAdj"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x000e (AFPoint)
+#, fuzzy
+msgid "AFPoint"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x003c (AFPointsInFocus)
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+#, fuzzy
+msgid "AFPointsInFocus"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0094 (AFPointsInFocus1D)
+#, fuzzy
+msgid "AFPointsInFocus1D"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00ad (AFResponse)
+#, fuzzy
+msgid "AFResponse"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00b9 (AFTune)
+#, fuzzy
+msgid "AFTune"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9202 (ApertureValue)
+#. XMP tags / exif:ApertureValue (ApertureValue)
+msgid "ApertureValue"
+msgstr "The lens aperture used when the image was shot."
+
+#. IPTC tags / 0x0178 (ARM Identifier)
+#, fuzzy
+msgid "ARM Identifier"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x017a (ARM Version)
+#, fuzzy
+msgid "ARM Version"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x013b (Artist)
+#. XMP tags / tiff:Artist (Artist)
+msgid "Artist"
+msgstr "Person who created the image."
+
+#. IPTC tags / 0x0299 (Audio Duration)
+#, fuzzy
+msgid "Audio Duration"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0298 (Audio Sampling Resolution)
+#, fuzzy
+msgid "Audio Sampling Resolution"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0296 (Audio Type)
+#, fuzzy
+msgid "Audio Type"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x029a (Audion Outcue)
+#, fuzzy
+msgid "Audion Outcue"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0297 (Audion Sampling Rate)
+#, fuzzy
+msgid "Audion Sampling Rate"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / Author.Artist
+msgid "Author.Artist"
+msgstr "Person who created the image."
+
+#. Magic JpegMetadata computed tags / Author.Comment
+#, fuzzy
+msgid "Author.Comment"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / Author.Copyright
+#, fuzzy
+msgid "Author.Copyright"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / Author.ImageTitle
+#, fuzzy
+msgid "Author.ImageTitle"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0018 (AutoBracketing)
+#, fuzzy
+msgid "AutoBracketing"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / aux:Firmware
+#, fuzzy
+msgid "aux:Firmware"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / aux:Lens
+#, fuzzy
+msgid "aux:Lens"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / aux:LensID
+#, fuzzy
+msgid "aux:LensID"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / aux:LensInfo
+#, fuzzy
+msgid "aux:LensInfo"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / aux:SerialNumber
+#, fuzzy
+msgid "aux:SerialNumber"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0082 (AuxiliaryLens)
+#, fuzzy
+msgid "AuxiliaryLens"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:Balance (Balance)
+#. XMP tags / exif:WhiteBalance (Balance)
+#. Exif & Tiff tags / 0xa403 (Balance)
+msgid "Balance"
+msgstr "Indicates the white balance mode set when the image was shot."
+
+#. Pentax specific tags / 0x0216 (BatteryInfo)
+#, fuzzy
+msgid "BatteryInfo"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:BitsPerSample (BitsPerSample)
+#. Exif & Tiff tags / 0x0102 (BitsPerSample)
+msgid "BitsPerSample"
+msgstr "The number of bits per image component."
+
+#. Pentax specific tags / 0x0200 (BlackPoint)
+#, fuzzy
+msgid "BlackPoint"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x001b (BlueBalance)
+#, fuzzy
+msgid "BlueBalance"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9203 (BrightnessValue)
+#. XMP tags / exif:BrightnessValue (BrightnessValue)
+msgid "BrightnessValue"
+msgstr "The value of brightness."
+
+#. IPTC tags / 0x0250 (By-line)
+msgid "By-line"
+msgstr "Contains the name of the photographer, but in cases where the photographer should not be identified the name of a company or organisation may be appropriate."
+
+#. XMP tags / photoshop:AuthorsPosition (By-line Title)
+#. IPTC tags / 0x0255 (By-line Title)
+#, fuzzy
+msgid "By-line Title"
+msgstr "Contains the job title of the photographer. As this is sort of a qualifier the Creator element has to be filled in as mandatory prerequisite for using Creator's Jobtitle."
+
+#. Magic JpegMetadata computed tags / Camera.Make
+#, fuzzy
+msgid "Camera.Make"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / Camera.Model
+#, fuzzy
+msgid "Camera.Model"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0215 (CameraInfo)
+#, fuzzy
+msgid "CameraInfo"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0005 (CameraModel)
+#, fuzzy
+msgid "CameraModel"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0012 (CanonAFInfo)
+#, fuzzy
+msgid "CanonAFInfo"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0026 (CanonAFInfo2)
+#, fuzzy
+msgid "CanonAFInfo2"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d (CanonCameraInfo)
+#, fuzzy
+msgid "CanonCameraInfo"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.1DMarkIV.53 (CanonCameraInfo.CameraOrientation)
+#. Canon specific tags / 0x000d.40D.48 (CanonCameraInfo.CameraOrientation)
+#, fuzzy
+msgid "CanonCameraInfo.CameraOrientation"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.1DMarkIV.25 (CanonCameraInfo.CameraTemperature)
+#. Canon specific tags / 0x000d.40D.24 (CanonCameraInfo.CameraTemperature)
+#, fuzzy
+msgid "CanonCameraInfo.CameraTemperature"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.115 (CanonCameraInfo.ColorTemperature)
+#, fuzzy
+msgid "CanonCameraInfo.ColorTemperature"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.319 (CanonCameraInfo.DirectoryIndex)
+#, fuzzy
+msgid "CanonCameraInfo.DirectoryIndex"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.1DMarkIV.4 (CanonCameraInfo.ExposureTime)
+#. Canon specific tags / 0x000d.40D.4 (CanonCameraInfo.ExposureTime)
+#, fuzzy
+msgid "CanonCameraInfo.ExposureTime"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.307 (CanonCameraInfo.FileIndex)
+#, fuzzy
+msgid "CanonCameraInfo.FileIndex"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.255 (CanonCameraInfo.FirmwareVersion)
+#, fuzzy
+msgid "CanonCameraInfo.FirmwareVersion"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.21 (CanonCameraInfo.FlashMeteringMode)
+#. Canon specific tags / 0x000d.1DMarkIV.21 (CanonCameraInfo.FlashMeteringMode)
+#, fuzzy
+msgid "CanonCameraInfo.FlashMeteringMode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.1DMarkIV.3 (CanonCameraInfo.FNumber)
+#. Canon specific tags / 0x000d.40D.3 (CanonCameraInfo.FNumber)
+msgid "CanonCameraInfo.FNumber"
+msgstr "The lens aperture used when the image was shot."
+
+#. Canon specific tags / 0x000d.1DMarkIV.30 (CanonCameraInfo.FocalLength)
+#. Canon specific tags / 0x000d.40D.29 (CanonCameraInfo.FocalLength)
+#, fuzzy
+msgid "CanonCameraInfo.FocalLength"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.69 (CanonCameraInfo.FocusDistanceLower)
+#. Canon specific tags / 0x000d.1DMarkIV.86 (CanonCameraInfo.FocusDistanceLower)
+#, fuzzy
+msgid "CanonCameraInfo.FocusDistanceLower"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.1DMarkIV.84 (CanonCameraInfo.FocusDistanceUpper)
+#. Canon specific tags / 0x000d.40D.67 (CanonCameraInfo.FocusDistanceUpper)
+#, fuzzy
+msgid "CanonCameraInfo.FocusDistanceUpper"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.1DMarkIV.7 (CanonCameraInfo.HighlightTonePriority)
+#, fuzzy
+msgid "CanonCameraInfo.HighlightTonePriority"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.6 (CanonCameraInfo.ISO)
+#. Canon specific tags / 0x000d.1DMarkIV.6 (CanonCameraInfo.ISO)
+#, fuzzy
+msgid "CanonCameraInfo.ISO"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.2347 (CanonCameraInfo.LensModel)
+#, fuzzy
+msgid "CanonCameraInfo.LensModel"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.214 (CanonCameraInfo.LensType)
+#, fuzzy
+msgid "CanonCameraInfo.LensType"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.218 (CanonCameraInfo.LongFocal)
+#, fuzzy
+msgid "CanonCameraInfo.LongFocal"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.27 (CanonCameraInfo.MacroMagnification)
+#, fuzzy
+msgid "CanonCameraInfo.MacroMagnification"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.216 (CanonCameraInfo.ShortFocal)
+#, fuzzy
+msgid "CanonCameraInfo.ShortFocal"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000d.40D.111 (CanonCameraInfo.WhiteBalance)
+#, fuzzy
+msgid "CanonCameraInfo.WhiteBalance"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001 (CanonCameraSettings)
+#, fuzzy
+msgid "CanonCameraSettings"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.33 (CanonCameraSettings.AESetting)
+#, fuzzy
+msgid "CanonCameraSettings.AESetting"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.19 (CanonCameraSettings.AFPoint)
+#, fuzzy
+msgid "CanonCameraSettings.AFPoint"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.16 (CanonCameraSettings.CameraISO)
+#, fuzzy
+msgid "CanonCameraSettings.CameraISO"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.20 (CanonCameraSettings.CanonExposureMode)
+#, fuzzy
+msgid "CanonCameraSettings.CanonExposureMode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.4 (CanonCameraSettings.CanonFlashMode)
+#, fuzzy
+msgid "CanonCameraSettings.CanonFlashMode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+#, fuzzy
+msgid "CanonCameraSettings.CanonImageSize"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.42 (CanonCameraSettings.ColorTone)
+#, fuzzy
+msgid "CanonCameraSettings.ColorTone"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.5 (CanonCameraSettings.ContinuousDrive)
+#, fuzzy
+msgid "CanonCameraSettings.ContinuousDrive"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.13 (CanonCameraSettings.Contrast)
+#, fuzzy
+msgid "CanonCameraSettings.Contrast"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.12 (CanonCameraSettings.DigitalZoom)
+#, fuzzy
+msgid "CanonCameraSettings.DigitalZoom"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.35 (CanonCameraSettings.DisplayAperture)
+#, fuzzy
+msgid "CanonCameraSettings.DisplayAperture"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+#, fuzzy
+msgid "CanonCameraSettings.EasyMode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.28 (CanonCameraSettings.FlashActivity)
+#, fuzzy
+msgid "CanonCameraSettings.FlashActivity"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.29 (CanonCameraSettings.FlashBits)
+#, fuzzy
+msgid "CanonCameraSettings.FlashBits"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.25 (CanonCameraSettings.FocalUnits)
+#, fuzzy
+msgid "CanonCameraSettings.FocalUnits"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.32 (CanonCameraSettings.FocusContinuous)
+#, fuzzy
+msgid "CanonCameraSettings.FocusContinuous"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.7 (CanonCameraSettings.FocusMode)
+#, fuzzy
+msgid "CanonCameraSettings.FocusMode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+#, fuzzy
+msgid "CanonCameraSettings.FocusRange"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.34 (CanonCameraSettings.ImageStabilization)
+#, fuzzy
+msgid "CanonCameraSettings.ImageStabilization"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.22 (CanonCameraSettings.LensType)
+#, fuzzy
+msgid "CanonCameraSettings.LensType"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.23 (CanonCameraSettings.LongFocal)
+#, fuzzy
+msgid "CanonCameraSettings.LongFocal"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.1 (CanonCameraSettings.MacroMode)
+#, fuzzy
+msgid "CanonCameraSettings.MacroMode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.41 (CanonCameraSettings.ManualFlashOutput)
+#, fuzzy
+msgid "CanonCameraSettings.ManualFlashOutput"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.26 (CanonCameraSettings.MaxAperture)
+#, fuzzy
+msgid "CanonCameraSettings.MaxAperture"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.17 (CanonCameraSettings.MeteringMode)
+#, fuzzy
+msgid "CanonCameraSettings.MeteringMode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.27 (CanonCameraSettings.MinAperture)
+#, fuzzy
+msgid "CanonCameraSettings.MinAperture"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.40 (CanonCameraSettings.PhotoEffect)
+#, fuzzy
+msgid "CanonCameraSettings.PhotoEffect"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.3 (CanonCameraSettings.Quality)
+#, fuzzy
+msgid "CanonCameraSettings.Quality"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.9 (CanonCameraSettings.RecordMode)
+#, fuzzy
+msgid "CanonCameraSettings.RecordMode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.14 (CanonCameraSettings.Saturation)
+#, fuzzy
+msgid "CanonCameraSettings.Saturation"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.2 (CanonCameraSettings.SelfTimer)
+#, fuzzy
+msgid "CanonCameraSettings.SelfTimer"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.15 (CanonCameraSettings.Sharpness)
+#, fuzzy
+msgid "CanonCameraSettings.Sharpness"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.24 (CanonCameraSettings.ShortFocal)
+#, fuzzy
+msgid "CanonCameraSettings.ShortFocal"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.39 (CanonCameraSettings.SpotMeteringMode)
+#, fuzzy
+msgid "CanonCameraSettings.SpotMeteringMode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.46 (CanonCameraSettings.SRAWQuality)
+#, fuzzy
+msgid "CanonCameraSettings.SRAWQuality"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.36 (CanonCameraSettings.ZoomSourceWidth)
+#, fuzzy
+msgid "CanonCameraSettings.ZoomSourceWidth"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0001.37 (CanonCameraSettings.ZoomTargetWidth)
+#, fuzzy
+msgid "CanonCameraSettings.ZoomTargetWidth"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0093 (CanonFileInfo)
+#, fuzzy
+msgid "CanonFileInfo"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000e (CanonFileLength)
+#, fuzzy
+msgid "CanonFileLength"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0007 (CanonFirmwareVersion)
+#, fuzzy
+msgid "CanonFirmwareVersion"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00b0 (CanonFlags)
+#, fuzzy
+msgid "CanonFlags"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0003 (CanonFlashInfo)
+#, fuzzy
+msgid "CanonFlashInfo"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0002 (CanonFocalLength)
+#, fuzzy
+msgid "CanonFocalLength"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0006 (CanonImageType)
+#, fuzzy
+msgid "CanonImageType"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0010 (CanonModelID)
+#, fuzzy
+msgid "CanonModelID"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0005 (CanonPanorama)
+#, fuzzy
+msgid "CanonPanorama"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004 (CanonShotInfo)
+#, fuzzy
+msgid "CanonShotInfo"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.17 (CanonShotInfo.AEBBracketValue)
+#, fuzzy
+msgid "CanonShotInfo.AEBBracketValue"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.14 (CanonShotInfo.AFPointsInFocus)
+#, fuzzy
+msgid "CanonShotInfo.AFPointsInFocus"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.16 (CanonShotInfo.AutoExposureBracketing)
+#, fuzzy
+msgid "CanonShotInfo.AutoExposureBracketing"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.1 (CanonShotInfo.AutoISO)
+#, fuzzy
+msgid "CanonShotInfo.AutoISO"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.27 (CanonShotInfo.AutoRotate)
+#, fuzzy
+msgid "CanonShotInfo.AutoRotate"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.2 (CanonShotInfo.BaseISO)
+#, fuzzy
+msgid "CanonShotInfo.BaseISO"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.24 (CanonShotInfo.BulbDuration)
+#, fuzzy
+msgid "CanonShotInfo.BulbDuration"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.26 (CanonShotInfo.CameraType)
+#, fuzzy
+msgid "CanonShotInfo.CameraType"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.18 (CanonShotInfo.ControlMode)
+#, fuzzy
+msgid "CanonShotInfo.ControlMode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.6 (CanonShotInfo.ExposureCompensation)
+#, fuzzy
+msgid "CanonShotInfo.ExposureCompensation"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.22 (CanonShotInfo.ExposureTime)
+#, fuzzy
+msgid "CanonShotInfo.ExposureTime"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.15 (CanonShotInfo.FlashExposureComp)
+#, fuzzy
+msgid "CanonShotInfo.FlashExposureComp"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.13 (CanonShotInfo.FlashGuideNumber)
+#, fuzzy
+msgid "CanonShotInfo.FlashGuideNumber"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.33 (CanonShotInfo.FlashOutput)
+#, fuzzy
+msgid "CanonShotInfo.FlashOutput"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.21 (CanonShotInfo.FNumber)
+#, fuzzy
+msgid "CanonShotInfo.FNumber"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.20 (CanonShotInfo.FocusDistanceLower)
+#, fuzzy
+msgid "CanonShotInfo.FocusDistanceLower"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.19 (CanonShotInfo.FocusDistanceUpper)
+#, fuzzy
+msgid "CanonShotInfo.FocusDistanceUpper"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.3 (CanonShotInfo.MeasuredEV)
+#, fuzzy
+msgid "CanonShotInfo.MeasuredEV"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.23 (CanonShotInfo.MeasuredEV2)
+#, fuzzy
+msgid "CanonShotInfo.MeasuredEV2"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.28 (CanonShotInfo.NDFilter)
+#, fuzzy
+msgid "CanonShotInfo.NDFilter"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.10 (CanonShotInfo.OpticalZoomCode)
+#, fuzzy
+msgid "CanonShotInfo.OpticalZoomCode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.29 (CanonShotInfo.SelfTimer2)
+#, fuzzy
+msgid "CanonShotInfo.SelfTimer2"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.9 (CanonShotInfo.SequenceNumber)
+#, fuzzy
+msgid "CanonShotInfo.SequenceNumber"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.8 (CanonShotInfo.SlowShutter)
+#, fuzzy
+msgid "CanonShotInfo.SlowShutter"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.4 (CanonShotInfo.TargetAperture)
+#, fuzzy
+msgid "CanonShotInfo.TargetAperture"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.5 (CanonShotInfo.TargetExposureTime)
+#, fuzzy
+msgid "CanonShotInfo.TargetExposureTime"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+#, fuzzy
+msgid "CanonShotInfo.WhiteBalance"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0278 (Caption/Abstract)
+#. XMP tags / dc:description (Caption/Abstract)
+#, fuzzy
+msgid "Caption/Abstract"
+msgstr "A textual description, including captions, of the image."
+
+#. Canon specific tags / 0x0023 (Categories)
+#, fuzzy
+msgid "Categories"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x020f (Category)
+#, fuzzy
+msgid "Category"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0109 (CellLength)
+#, fuzzy
+msgid "CellLength"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0108 (CellWidth)
+#, fuzzy
+msgid "CellWidth"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:CFAPattern (CFAPattern)
+#. Exif & Tiff tags / 0xa302 (CFAPattern)
+msgid "CFAPattern"
+msgstr "Indicates the color filter array (CFA) geometric pattern of the image sensor when a one-chip color area sensor isused. It does not apply to all sensing methods."
+
+#. IPTC tags / 0x025a (City)
+#. XMP tags / photoshop:City (City)
+#, fuzzy
+msgid "City"
+msgstr "Name of the city of the location shown in the image. This element is at the third level of a top-down geographical hierarchy."
+
+#. IPTC tags / 0x015a (Coded Character Set)
+#, fuzzy
+msgid "Coded Character Set"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00a9 (ColorBalance)
+#. Nikon specific tags / 0x0097 (ColorBalance)
+#, fuzzy
+msgid "ColorBalance"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0014 (ColorBalanceA)
+#, fuzzy
+msgid "ColorBalanceA"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x4001 (ColorData)
+#, fuzzy
+msgid "ColorData"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x008d (ColorHue)
+#, fuzzy
+msgid "ColorHue"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x4003 (ColorInfo)
+#. Pentax specific tags / 0x0222 (ColorInfo)
+#, fuzzy
+msgid "ColorInfo"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0203 (ColorMatrixA)
+#, fuzzy
+msgid "ColorMatrixA"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0204 (ColorMatrixB)
+#, fuzzy
+msgid "ColorMatrixB"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0003 (ColorMode)
+#, fuzzy
+msgid "ColorMode"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x012c (ColorResponseUnit)
+#, fuzzy
+msgid "ColorResponseUnit"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0037 (ColorSpace)
+#. Exif & Tiff tags / 0xa001 (ColorSpace)
+#. Canon specific tags / 0x00b4 (ColorSpace)
+#. XMP tags / exif:ColorSpace (ColorSpace)
+#. Nikon specific tags / 0x001e (ColorSpace)
+msgid "ColorSpace"
+msgstr "The color space information."
+
+#. Pentax specific tags / 0x0050 (ColorTemperature)
+#. Canon specific tags / 0x00ae (ColorTemperature)
+#, fuzzy
+msgid "ColorTemperature"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9101 (ComponentsConfiguration)
+#. XMP tags / exif:ComponentsConfiguration (ComponentsConfiguration)
+msgid "ComponentsConfiguration"
+msgstr "Information specific to compressed data. The channels of each component are arranged in order from the 1st component to the 4th. For uncompressed data the data arrangement is given in the PhotometricInterpretation tag. However, since PhotometricInterpretation can only express the order of Y,Cb and Cr, this tag is provided for cases when compressed data uses components other than Y, Cb, and Cr and to enable support of other sequences."
+
+#. Exif & Tiff tags / 0x9102 (CompressedBitsPerPixel)
+#. XMP tags / exif:CompressedBitsPerPixel (CompressedBitsPerPixel)
+msgid "CompressedBitsPerPixel"
+msgstr "Information specific to compressed data. The compression mode used for a compressed image is indicated in unit bits per pixel."
+
+#. XMP tags / tiff:Compression (Compression)
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Compression"
+msgstr "The compression scheme used for the image data."
+
+#. IPTC tags / 0x090a (Confirmed ObjectData Size)
+#, fuzzy
+msgid "Confirmed ObjectData Size"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0276 (Contact)
+#, fuzzy
+msgid "Contact"
+msgstr "Information to get in contact with a person or organisation."
+
+#. IPTC tags / 0x021a (Content Location Code)
+#, fuzzy
+msgid "Content Location Code"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x021b (Content Location Name)
+#, fuzzy
+msgid "Content Location Name"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:Contrast (Contrast)
+#. Exif & Tiff tags / 0xa408 (Contrast)
+#. Pentax specific tags / 0x0020 (Contrast)
+msgid "Contrast"
+msgstr "Indicates the direction of contrast processing applied by the camera when the image was shot."
+
+#. Nikon specific tags / 0x008c (ContrastCurve)
+#, fuzzy
+msgid "ContrastCurve"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x8298 (Copyright)
+msgid "Copyright"
+msgstr ""
+"Contains any necessary copyright notice for claiming the intellectual property for this photograph and should identify the current owner of the copyright for the photograph.\n"
+"Other entities like the creator of the photograph may be added in the corresponding field. \n"
+"Notes on usage rights should be provided in 'Rights usage terms'."
+
+#. IPTC tags / 0x0274 (Copyright Notice)
+#. XMP tags / dc:rights (Copyright Notice)
+msgid "Copyright Notice"
+msgstr ""
+"Contains any necessary copyright notice for claiming the intellectual property for this photograph and should identify the current owner of the copyright for the photograph.\n"
+"Other entities like the creator of the photograph may be added in the corresponding field. \n"
+"Notes on usage rights should be provided in 'Rights usage terms'."
+
+#. IPTC tags / 0x0264 (Country/Primary Location Code)
+#. XMP tags / Iptc4xmpCore:CountryCode (Country/Primary Location Code)
+#, fuzzy
+msgid "Country/Primary Location Code"
+msgstr "Code of the country of the location shown in the image. This element is at the top/first level of a top-down geographical hierarchy. The code should be taken from ISO 3166 two or three letter code. The full name of a country should go to the 'Country' element."
+
+#. XMP tags / photoshop:Country (Country/Primary Location Name)
+#. IPTC tags / 0x0265 (Country/Primary Location Name)
+#, fuzzy
+msgid "Country/Primary Location Name"
+msgstr "Full name of the country of the location shown in the image. This element is at the top/first level of a top-down geographical hierarchy. The full name should be expressed as a verbal name and not as a code, a code should go to the element 'CountryCode'."
+
+#. Pentax specific tags / 0x0028 (CPUFirmwareVersion)
+#, fuzzy
+msgid "CPUFirmwareVersion"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:Credit (Credit)
+#. IPTC tags / 0x026e (Credit)
+#, fuzzy
+msgid "Credit"
+msgstr "The credit to person(s) and/or organisation(s) required by the supplier of the image to be used when published. This is a free-text field."
+
+#. Nikon specific tags / 0x001b (CropHiSpeed)
+#, fuzzy
+msgid "CropHiSpeed"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:AutoBrightness
+#, fuzzy
+msgid "crs:AutoBrightness"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:AutoContrast
+#, fuzzy
+msgid "crs:AutoContrast"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:AutoExposure
+#, fuzzy
+msgid "crs:AutoExposure"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:AutoShadows
+#, fuzzy
+msgid "crs:AutoShadows"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:Balance
+#, fuzzy
+msgid "crs:Balance"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:BlueHue
+#, fuzzy
+msgid "crs:BlueHue"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:BlueSaturation
+#, fuzzy
+msgid "crs:BlueSaturation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:Brightness
+#, fuzzy
+msgid "crs:Brightness"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:CameraProfile
+#, fuzzy
+msgid "crs:CameraProfile"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:ChromaticAberrationB
+#, fuzzy
+msgid "crs:ChromaticAberrationB"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:ChromaticAberrationR
+#, fuzzy
+msgid "crs:ChromaticAberrationR"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:ColorNoiseReduction
+#, fuzzy
+msgid "crs:ColorNoiseReduction"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:Contrast
+#, fuzzy
+msgid "crs:Contrast"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:CropAngle
+#, fuzzy
+msgid "crs:CropAngle"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:CropBottom
+#, fuzzy
+msgid "crs:CropBottom"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:CropHeight
+#, fuzzy
+msgid "crs:CropHeight"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:CropLeft
+#, fuzzy
+msgid "crs:CropLeft"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:CropRight
+#, fuzzy
+msgid "crs:CropRight"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:CropTop
+#, fuzzy
+msgid "crs:CropTop"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:CropUnits
+#, fuzzy
+msgid "crs:CropUnits"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:CropWidth
+#, fuzzy
+msgid "crs:CropWidth"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:Exposure
+#, fuzzy
+msgid "crs:Exposure"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:GreenHue
+#, fuzzy
+msgid "crs:GreenHue"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:GreenSaturation
+#, fuzzy
+msgid "crs:GreenSaturation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:HasCrop
+#, fuzzy
+msgid "crs:HasCrop"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:HasSettings
+#, fuzzy
+msgid "crs:HasSettings"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:LuminanceSmoothing
+#, fuzzy
+msgid "crs:LuminanceSmoothing"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:RawFileName
+#, fuzzy
+msgid "crs:RawFileName"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:RedHue
+#, fuzzy
+msgid "crs:RedHue"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:RedSaturation
+#, fuzzy
+msgid "crs:RedSaturation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:Saturation
+#, fuzzy
+msgid "crs:Saturation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:Shadows
+#, fuzzy
+msgid "crs:Shadows"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:ShadowTint
+#, fuzzy
+msgid "crs:ShadowTint"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:Sharpness
+#, fuzzy
+msgid "crs:Sharpness"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:Temperature
+#, fuzzy
+msgid "crs:Temperature"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:Tint
+#, fuzzy
+msgid "crs:Tint"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:ToneCurve
+#, fuzzy
+msgid "crs:ToneCurve"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:ToneCurveName
+#, fuzzy
+msgid "crs:ToneCurveName"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:Version
+#, fuzzy
+msgid "crs:Version"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:VignetteAmount
+#, fuzzy
+msgid "crs:VignetteAmount"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:VignetteMidpoint
+#, fuzzy
+msgid "crs:VignetteMidpoint"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / crs:WhiteBalance
+#, fuzzy
+msgid "crs:WhiteBalance"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000f (CustomFunctions)
+#, fuzzy
+msgid "CustomFunctions"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0090 (CustomFunctions1D)
+#, fuzzy
+msgid "CustomFunctions1D"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0099 (CustomFunctions2)
+#, fuzzy
+msgid "CustomFunctions2"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:CustomRendered (CustomRendered)
+#. Exif & Tiff tags / 0xa401 (CustomRendered)
+msgid "CustomRendered"
+msgstr "Indicates the use of special processing on image data, such as rendering geared to output."
+
+#. Nikon specific tags / 0x0010 (DataDump)
+#. Pentax specific tags / 0x03fe (DataDump)
+#, fuzzy
+msgid "DataDump"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0006 (Date)
+#, fuzzy
+msgid "Date"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / Iptc4xmpCore:DateCreated (Date Created)
+#. IPTC tags / 0x0237 (Date Created)
+#, fuzzy
+msgid "Date Created"
+msgstr "Designates the date and optionally the time the content of the image was created rather than the date of the creation of the digital representation."
+
+#. IPTC tags / 0x0146 (Date Sent)
+#, fuzzy
+msgid "Date Sent"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x001c (DateStampMode)
+#, fuzzy
+msgid "DateStampMode"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0132 (DateTime)
+#. XMP tags / tiff:DateTime (DateTime)
+msgid "DateTime"
+msgstr "The date and time of image creation."
+
+#. Exif & Tiff tags / 0x9004 (DateTimeDigitized)
+#. XMP tags / exif:DateTimeDigitized (DateTimeDigitized)
+msgid "DateTimeDigitized"
+msgstr "The date and time when the image was stored as digital data."
+
+#. XMP tags / exif:DateTimeOriginal (DateTimeOriginal)
+#. Exif & Tiff tags / 0x9003 (DateTimeOriginal)
+msgid "DateTimeOriginal"
+msgstr "The date and time when the original image data was generated."
+
+#. XMP tags / dc:description
+#, fuzzy
+msgid "dc:description"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:contributor
+#, fuzzy
+msgid "dc:contributor"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:coverage
+#, fuzzy
+msgid "dc:coverage"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:creator
+#, fuzzy
+msgid "dc:creator"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:CreatorTool
+#, fuzzy
+msgid "dc:CreatorTool"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:date
+#, fuzzy
+msgid "dc:date"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:format
+#, fuzzy
+msgid "dc:format"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:identifier
+#, fuzzy
+msgid "dc:identifier"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:language
+#, fuzzy
+msgid "dc:language"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:publisher
+#, fuzzy
+msgid "dc:publisher"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:relation
+#, fuzzy
+msgid "dc:relation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:rights
+#, fuzzy
+msgid "dc:rights"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:source
+#, fuzzy
+msgid "dc:source"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:subject
+#, fuzzy
+msgid "dc:subject"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:title
+#, fuzzy
+msgid "dc:title"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:Type
+#, fuzzy
+msgid "dc:Type"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00a6 (DeletedImageCount)
+#, fuzzy
+msgid "DeletedImageCount"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0105 (Destination)
+#, fuzzy
+msgid "Destination"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#, fuzzy
+msgid "DestinationCityName"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0026 (DestinationDST)
+#, fuzzy
+msgid "DestinationDST"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:DeviceSettingDescription (DeviceSettingDescription)
+#. Exif & Tiff tags / 0xa40b (DeviceSettingDescription)
+#, fuzzy
+msgid "DeviceSettingDescription"
+msgstr "Indicates information on the picture-taking conditions of a particular camera model."
+
+#. IPTC tags / 0x023e (Digital Creation Date)
+#, fuzzy
+msgid "Digital Creation Date"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x023f (Digital Creation Time)
+#, fuzzy
+msgid "Digital Creation Time"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0041 (DigitalFilter)
+#, fuzzy
+msgid "DigitalFilter"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x001e (DigitalZoom)
+#. Nikon specific tags / 0x0086 (DigitalZoom)
+#, fuzzy
+msgid "DigitalZoom"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0xa404 (DigitalZoomRatio)
+#. XMP tags / exif:DigitalZoomRatio (DigitalZoomRatio)
+msgid "DigitalZoomRatio"
+msgstr "Indicates the digital zoom ratio when the image was shot."
+
+#. Nikon specific tags / 0x002b (DistortInfo)
+#, fuzzy
+msgid "DistortInfo"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x010d (DocumentName)
+#, fuzzy
+msgid "DocumentName"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0034 (DriveMode)
+#, fuzzy
+msgid "DriveMode"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0027 (DSPFirmwareVersion)
+#, fuzzy
+msgid "DSPFirmwareVersion"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0097 (DustRemovalData)
+#, fuzzy
+msgid "DustRemovalData"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0069 (DynamicRangeExpansion)
+#, fuzzy
+msgid "DynamicRangeExpansion"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0207 (Edit Status)
+#, fuzzy
+msgid "Edit Status"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0208 (Editorial Update)
+#, fuzzy
+msgid "Editorial Update"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x002d (EffectiveLV)
+#, fuzzy
+msgid "EffectiveLV"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0128 (Envelope Number)
+#, fuzzy
+msgid "Envelope Number"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x013c (Envelope Priority)
+#, fuzzy
+msgid "Envelope Priority"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0224 (EVStepInfo)
+#, fuzzy
+msgid "EVStepInfo"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x8769 (Exif IFD Pointer)
+#, fuzzy
+msgid "Exif IFD Pointer"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ApertureValue
+#, fuzzy
+msgid "exif:ApertureValue"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:Balance
+#, fuzzy
+msgid "exif:Balance"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:BrightnessValue
+#, fuzzy
+msgid "exif:BrightnessValue"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:CFAPattern
+#, fuzzy
+msgid "exif:CFAPattern"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ColorSpace
+#, fuzzy
+msgid "exif:ColorSpace"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ComponentsConfiguration
+#, fuzzy
+msgid "exif:ComponentsConfiguration"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:CompressedBitsPerPixel
+#, fuzzy
+msgid "exif:CompressedBitsPerPixel"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:Contrast
+#, fuzzy
+msgid "exif:Contrast"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:CustomRendered
+#, fuzzy
+msgid "exif:CustomRendered"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:DateTimeDigitized
+#, fuzzy
+msgid "exif:DateTimeDigitized"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:DateTimeOriginal
+#, fuzzy
+msgid "exif:DateTimeOriginal"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:DeviceSettingDescription
+#, fuzzy
+msgid "exif:DeviceSettingDescription"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:DigitalZoomRatio
+#, fuzzy
+msgid "exif:DigitalZoomRatio"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ExifVersion
+#, fuzzy
+msgid "exif:ExifVersion"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ExposureBiasValue
+#, fuzzy
+msgid "exif:ExposureBiasValue"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ExposureIndex
+#, fuzzy
+msgid "exif:ExposureIndex"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ExposureMode
+#, fuzzy
+msgid "exif:ExposureMode"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ExposureProgram
+#, fuzzy
+msgid "exif:ExposureProgram"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ExposureTime
+#, fuzzy
+msgid "exif:ExposureTime"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:FileSource
+#, fuzzy
+msgid "exif:FileSource"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:Fired
+#, fuzzy
+msgid "exif:Fired"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:Flash
+#, fuzzy
+msgid "exif:Flash"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:FlashEnergy
+#, fuzzy
+msgid "exif:FlashEnergy"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:FlashpixVersion
+#, fuzzy
+msgid "exif:FlashpixVersion"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:FNumber
+#, fuzzy
+msgid "exif:FNumber"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:FocalLength
+#, fuzzy
+msgid "exif:FocalLength"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:FocalLengthIn35mmFilm
+#, fuzzy
+msgid "exif:FocalLengthIn35mmFilm"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:FocalPlaneResolutionUnit
+#, fuzzy
+msgid "exif:FocalPlaneResolutionUnit"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:FocalPlaneXResolution
+#, fuzzy
+msgid "exif:FocalPlaneXResolution"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:FocalPlaneYResolution
+#, fuzzy
+msgid "exif:FocalPlaneYResolution"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:Function
+#, fuzzy
+msgid "exif:Function"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GainControl
+#, fuzzy
+msgid "exif:GainControl"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSAltitude
+#, fuzzy
+msgid "exif:GPSAltitude"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSAltitudeRef
+#, fuzzy
+msgid "exif:GPSAltitudeRef"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSAreaInformation
+#, fuzzy
+msgid "exif:GPSAreaInformation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSDestBearing
+#, fuzzy
+msgid "exif:GPSDestBearing"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSDestBearingRef
+#, fuzzy
+msgid "exif:GPSDestBearingRef"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSDestDistance
+#, fuzzy
+msgid "exif:GPSDestDistance"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSDestDistanceRef
+#, fuzzy
+msgid "exif:GPSDestDistanceRef"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSDestLatitude
+#, fuzzy
+msgid "exif:GPSDestLatitude"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSDestLongitude
+#, fuzzy
+msgid "exif:GPSDestLongitude"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSDifferential
+#, fuzzy
+msgid "exif:GPSDifferential"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSDOP
+#, fuzzy
+msgid "exif:GPSDOP"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSImgDirection
+#, fuzzy
+msgid "exif:GPSImgDirection"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSImgDirectionRef
+#, fuzzy
+msgid "exif:GPSImgDirectionRef"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSLatitude
+#, fuzzy
+msgid "exif:GPSLatitude"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSLongitude
+#, fuzzy
+msgid "exif:GPSLongitude"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSMapDatum
+#, fuzzy
+msgid "exif:GPSMapDatum"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSMeasureMode
+#, fuzzy
+msgid "exif:GPSMeasureMode"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSProcessingMethod
+#, fuzzy
+msgid "exif:GPSProcessingMethod"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSTimeStamp
+#, fuzzy
+msgid "exif:GPSTimeStamp"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSSatellites
+#, fuzzy
+msgid "exif:GPSSatellites"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSSpeed
+#, fuzzy
+msgid "exif:GPSSpeed"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSSpeedRef
+#, fuzzy
+msgid "exif:GPSSpeedRef"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSStatus
+#, fuzzy
+msgid "exif:GPSStatus"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSTrack
+#, fuzzy
+msgid "exif:GPSTrack"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSTrackRef
+#, fuzzy
+msgid "exif:GPSTrackRef"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSVersionID
+#, fuzzy
+msgid "exif:GPSVersionID"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ImageUniqueID
+#, fuzzy
+msgid "exif:ImageUniqueID"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ISOSpeedRatings
+#, fuzzy
+msgid "exif:ISOSpeedRatings"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:LightSource
+#, fuzzy
+msgid "exif:LightSource"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:MaxApertureValue
+#, fuzzy
+msgid "exif:MaxApertureValue"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:MeteringMode
+#, fuzzy
+msgid "exif:MeteringMode"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:Mode
+#, fuzzy
+msgid "exif:Mode"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:OECF
+#, fuzzy
+msgid "exif:OECF"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:PixelXDimension
+#, fuzzy
+msgid "exif:PixelXDimension"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:PixelYDimension
+#, fuzzy
+msgid "exif:PixelYDimension"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:RedEyeMode
+#, fuzzy
+msgid "exif:RedEyeMode"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:RelatedSoundFile
+#, fuzzy
+msgid "exif:RelatedSoundFile"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:Return
+#, fuzzy
+msgid "exif:Return"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:Saturation
+#, fuzzy
+msgid "exif:Saturation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SceneCaptureType
+#, fuzzy
+msgid "exif:SceneCaptureType"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SceneType
+#, fuzzy
+msgid "exif:SceneType"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SensingMethod
+#, fuzzy
+msgid "exif:SensingMethod"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:Sharpness
+#, fuzzy
+msgid "exif:Sharpness"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ShutterSpeedValue
+#, fuzzy
+msgid "exif:ShutterSpeedValue"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SpatialFrequencyResponse
+#, fuzzy
+msgid "exif:SpatialFrequencyResponse"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SpectralSensitivity
+#, fuzzy
+msgid "exif:SpectralSensitivity"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SubjectArea
+#, fuzzy
+msgid "exif:SubjectArea"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SubjectDistance
+#, fuzzy
+msgid "exif:SubjectDistance"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SubjectDistanceRange
+#, fuzzy
+msgid "exif:SubjectDistanceRange"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SubjectLocation
+#, fuzzy
+msgid "exif:SubjectLocation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:UserComment
+#, fuzzy
+msgid "exif:UserComment"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:WhiteBalance
+#, fuzzy
+msgid "exif:WhiteBalance"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9000 (ExifVersion)
+#. XMP tags / exif:ExifVersion (ExifVersion)
+msgid "ExifVersion"
+msgstr "The Exif version format."
+
+#. IPTC tags / 0x0225 (Expiration Date)
+#, fuzzy
+msgid "Expiration Date"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0226 (Expiration Time)
+#, fuzzy
+msgid "Expiration Time"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ExposureBiasValue (ExposureBiasValue)
+#. Exif & Tiff tags / 0x9204 (ExposureBiasValue)
+msgid "ExposureBiasValue"
+msgstr "The exposure bias."
+
+#. Nikon specific tags / 0x0019 (ExposureBracketValue)
+#, fuzzy
+msgid "ExposureBracketValue"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0016 (ExposureCompensation)
+#, fuzzy
+msgid "ExposureCompensation"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x000e (ExposureDifference)
+#, fuzzy
+msgid "ExposureDifference"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:ExposureIndex (ExposureIndex)
+#. Exif & Tiff tags / 0xa215 (ExposureIndex)
+msgid "ExposureIndex"
+msgstr "Indicates the exposure index selected on the camera or input device at the time the image is captured."
+
+#. Exif & Tiff tags / 0xa402 (ExposureMode)
+#. XMP tags / exif:ExposureMode (ExposureMode)
+msgid "ExposureMode"
+msgstr "Indicates the exposure mode set when the image was shot. In auto-bracketing mode, the camera shoots a series of frames of the same scene at different exposure settings."
+
+#. Exif & Tiff tags / 0x8822 (ExposureProgram)
+#. XMP tags / exif:ExposureProgram (ExposureProgram)
+msgid "ExposureProgram"
+msgstr "The class of the program used by the camera to set exposure when the picture is taken."
+
+#. Exif & Tiff tags / 0x829a (ExposureTime)
+#. Pentax specific tags / 0x0012 (ExposureTime)
+#. XMP tags / exif:ExposureTime (ExposureTime)
+msgid "ExposureTime"
+msgstr "The exposure time, given in seconds."
+
+#. Nikon specific tags / 0x001c (ExposureTuning)
+#, fuzzy
+msgid "ExposureTuning"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0024 (FaceDetect1)
+#, fuzzy
+msgid "FaceDetect1"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0025 (FaceDetect2)
+#, fuzzy
+msgid "FaceDetect2"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0114 (File Format)
+#, fuzzy
+msgid "File Format"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0116 (File Format Version)
+#, fuzzy
+msgid "File Format Version"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00b8 (FileInfo)
+#, fuzzy
+msgid "FileInfo"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0008 (FileNumber)
+#, fuzzy
+msgid "FileNumber"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0xa300 (FileSource)
+#. XMP tags / exif:FileSource (FileSource)
+msgid "FileSource"
+msgstr "Indicates the image source."
+
+#. Exif & Tiff tags / 0x010a (FillOrder)
+#, fuzzy
+msgid "FillOrder"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x001e (FirmwareRevision)
+#, fuzzy
+msgid "FirmwareRevision"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0230 (FirmwareVersion)
+#, fuzzy
+msgid "FirmwareVersion"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0216 (Fixture Identifier)
+#, fuzzy
+msgid "Fixture Identifier"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x000c (Flash)
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. XMP tags / exif:Flash (Flash)
+msgid "Flash"
+msgstr "Indicates the status of flash when the image was shot."
+
+#. Pentax specific tags / 0x020a (FlashADump)
+#, fuzzy
+msgid "FlashADump"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x020b (FlashBDump)
+#, fuzzy
+msgid "FlashBDump"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:FlashEnergy (exif)
+#. Exif & Tiff tags / 0xa20b (exif)
+msgid "FlashEnergy"
+msgstr "Indicates the strobe energy at the time the image is captured, as measured in Beam Candle Power Seconds (BCPS)."
+
+#. Nikon specific tags / 0x0018 (FlashExposureBracketValue)
+#, fuzzy
+msgid "FlashExposureBracketValue"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0012 (FlashExposureComp)
+#. Nikon specific tags / 0x0017 (FlashExposureComp)
+#, fuzzy
+msgid "FlashExposureComp"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x004d (FlashExposureCompensation)
+#, fuzzy
+msgid "FlashExposureCompensation"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0208 (FlashInfo)
+#. Nikon specific tags / 0x00a8 (FlashInfo)
+#, fuzzy
+msgid "FlashInfo"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0087 (FlashMode)
+#, fuzzy
+msgid "FlashMode"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:FlashpixVersion (FlashpixVersion)
+#. Exif & Tiff tags / 0xa000 (FlashpixVersion)
+msgid "FlashpixVersion"
+msgstr "The Flashpix format version supported by a FPXR file."
+
+#. Nikon specific tags / 0x0008 (FlashSetting)
+#, fuzzy
+msgid "FlashSetting"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0009 (FlashType)
+#, fuzzy
+msgid "FlashType"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0013 (FNumber)
+#. XMP tags / exif:FNumber (FNumber)
+#. Exif & Tiff tags / 0x829d (FNumber)
+msgid "FNumber"
+msgstr "The lens aperture used when the image was shot."
+
+#. Pentax specific tags / 0x001d (FocalLength)
+#. XMP tags / exif:FocalLength (FocalLength)
+#. Exif & Tiff tags / 0x920a (FocalLength)
+msgid "FocalLength"
+msgstr "The focal length of the lens, in mm. Conversion is not made to the focal length of a 35mm film camera."
+
+#. XMP tags / exif:FocalLengthIn35mmFilm (FocalLengthIn35mmFilm)
+#. Exif & Tiff tags / 0xa405 (FocalLengthIn35mmFilm)
+msgid "FocalLengthIn35mmFilm"
+msgstr "Indicates the equivalent focal length assuming a 35mm film camera, in mm."
+
+#. XMP tags / exif:FocalPlaneResolutionUnit (FocalPlaneResolutionUnit)
+#. Exif & Tiff tags / 0xa210 (FocalPlaneResolutionUnit)
+msgid "FocalPlaneResolutionUnit"
+msgstr "Indicates the unit for measuring [i]FocalPlaneXResolution[/i] and [i]FocalPlaneYResolution[/i]."
+
+#. Exif & Tiff tags / 0xa20e (FocalPlaneXResolution)
+#. XMP tags / exif:FocalPlaneXResolution (FocalPlaneXResolution)
+msgid "FocalPlaneXResolution"
+msgstr "Indicates the number of pixels in the image width (X) direction per [i]FocalPlaneResolutionUnit[/i] on the camera focal plane."
+
+#. Exif & Tiff tags / 0xa20f (FocalPlaneYResolution)
+#. XMP tags / exif:FocalPlaneYResolution (FocalPlaneYResolution)
+msgid "FocalPlaneYResolution"
+msgstr "Indicates the number of pixels in the image height (Y) direction per [i]FocalPlaneResolutionUnit[/i] on the camera focal plane."
+
+#. Pentax specific tags / 0x000d (Focus)
+#, fuzzy
+msgid "Focus"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0007 (FocusMode)
+#, fuzzy
+msgid "FocusMode"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0010 (FocusPosition)
+#, fuzzy
+msgid "FocusPosition"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0029 (FrameNumber)
+#, fuzzy
+msgid "FrameNumber"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0121 (FreeByteCounts)
+#, fuzzy
+msgid "FreeByteCounts"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0120 (FreeOffsets)
+#, fuzzy
+msgid "FreeOffsets"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0xa407 (GainControl)
+#. XMP tags / exif:GainControl (GainControl)
+msgid "GainControl"
+msgstr "Indicates the degree of overall image gain adjustment."
+
+#. Exif & Tiff tags / 0xa500 (Gamma)
+#, fuzzy
+msgid "Gamma"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x8825 (GPS IFD Pointer)
+#, fuzzy
+msgid "GPS IFD Pointer"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / GPS.Altitude
+msgid "GPS.Altitude"
+msgstr "Indicates the altitude."
+
+#. Magic JpegMetadata computed tags / GPS.Latitude
+#, fuzzy
+msgid "GPS.Latitude"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / GPS.Longitude
+#, fuzzy
+msgid "GPS.Longitude"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSAltitude (GPSAltitude)
+#. Exif GPS tags / 0x0006 (GPSAltitude)
+msgid "GPSAltitude"
+msgstr "Indicates the altitude."
+
+#. XMP tags / exif:GPSAltitudeRef (GPSAltitudeRef)
+#. Exif GPS tags / 0x0005 (GPSAltitudeRef)
+msgid "GPSAltitudeRef"
+msgstr "Indicates the altitude used as the reference altitude (below or above the sea level)."
+
+#. XMP tags / exif:GPSAreaInformation (GPSAreaInformation)
+#. Exif GPS tags / 0x001c (GPSAreaInformation)
+#, fuzzy
+msgid "GPSAreaInformation"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x001d (GPSDateStamp)
+#, fuzzy
+msgid "GPSDateStamp"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0018 (GPSDestBearing)
+#. XMP tags / exif:GPSDestBearing (GPSDestBearing)
+#, fuzzy
+msgid "GPSDestBearing"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0017 (GPSDestBearingRef)
+#. XMP tags / exif:GPSDestBearingRef (GPSDestBearingRef)
+#, fuzzy
+msgid "GPSDestBearingRef"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x001a (GPSDestDistance)
+#. XMP tags / exif:GPSDestDistance (GPSDestDistance)
+#, fuzzy
+msgid "GPSDestDistance"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSDestDistanceRef (GPSDestDistanceRef)
+#. Exif GPS tags / 0x0019 (GPSDestDistanceRef)
+#, fuzzy
+msgid "GPSDestDistanceRef"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0014 (GPSDestLatitude)
+#, fuzzy
+msgid "GPSDestLatitude"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0013 (GPSDestLatitudeRef)
+#, fuzzy
+msgid "GPSDestLatitudeRef"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0016 (GPSDestLongitude)
+#, fuzzy
+msgid "GPSDestLongitude"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0015 (GPSDestLongitudeRef)
+#, fuzzy
+msgid "GPSDestLongitudeRef"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x001e (GPSDifferential)
+#. XMP tags / exif:GPSDifferential (GPSDifferential)
+#, fuzzy
+msgid "GPSDifferential"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSDOP (GPSDOP)
+#. Exif GPS tags / 0x000b (GPSDOP)
+#, fuzzy
+msgid "GPSDOP"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0011 (GPSImgDirection)
+#. XMP tags / exif:GPSImgDirection (GPSImgDirection)
+#, fuzzy
+msgid "GPSImgDirection"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0010 (GPSImgDirectionRef)
+#. XMP tags / exif:GPSImgDirectionRef (GPSImgDirectionRef)
+#, fuzzy
+msgid "GPSImgDirectionRef"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0002 (GPSLatitude)
+#, fuzzy
+msgid "GPSLatitude"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0001 (GPSLatitudeRef)
+#, fuzzy
+msgid "GPSLatitudeRef"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0004 (GPSLongitude)
+#, fuzzy
+msgid "GPSLongitude"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0003 (GPSLongitudeRef)
+#, fuzzy
+msgid "GPSLongitudeRef"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0012 (GPSMapDatum)
+#. XMP tags / exif:GPSMapDatum (GPSMapDatum)
+#, fuzzy
+msgid "GPSMapDatum"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x000a (GPSMeasureMode)
+#. XMP tags / exif:GPSMeasureMode (GPSMeasureMode)
+#, fuzzy
+msgid "GPSMeasureMode"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSProcessingMethod (GPSProcessingMethod)
+#. Exif GPS tags / 0x001b (GPSProcessingMethod)
+#, fuzzy
+msgid "GPSProcessingMethod"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSSatellites (GPSSatellites)
+#. Exif GPS tags / 0x0008 (GPSSatellites)
+#, fuzzy
+msgid "GPSSatellites"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x000d (GPSSpeed)
+#. XMP tags / exif:GPSSpeed (GPSSpeed)
+#, fuzzy
+msgid "GPSSpeed"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x000c (GPSSpeedRef)
+#. XMP tags / exif:GPSSpeedRef (GPSSpeedRef)
+#, fuzzy
+msgid "GPSSpeedRef"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0009 (GPSStatus)
+#. XMP tags / exif:GPSStatus (GPSStatus)
+#, fuzzy
+msgid "GPSStatus"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x0007 (GPSTimeStamp)
+#, fuzzy
+msgid "GPSTimeStamp"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x000f (GPSTrack)
+#. XMP tags / exif:GPSTrack (GPSTrack)
+#, fuzzy
+msgid "GPSTrack"
+msgstr "There is no description available for this metadata"
+
+#. Exif GPS tags / 0x000e (GPSTrackRef)
+#. XMP tags / exif:GPSTrackRef (GPSTrackRef)
+#, fuzzy
+msgid "GPSTrackRef"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:GPSVersionID (GPSVersionID)
+#. Exif GPS tags / 0x0000 (GPSVersionID)
+#, fuzzy
+msgid "GPSVersionID"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0123 (GrayResponseCurve)
+#, fuzzy
+msgid "GrayResponseCurve"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0122 (GrayResponseUnit)
+#, fuzzy
+msgid "GrayResponseUnit"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0269 (Headline)
+#. XMP tags / photoshop:Headline (Headline)
+#, fuzzy
+msgid "Headline"
+msgstr "A brief synopsis of the caption. Headline is not the same as Title."
+
+#. Pentax specific tags / 0x0071 (HighISONoiseReduction)
+#. Nikon specific tags / 0x00b1 (HighISONoiseReduction)
+#, fuzzy
+msgid "HighISONoiseReduction"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#, fuzzy
+msgid "HomeCityName"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0025 (HometownDST)
+#, fuzzy
+msgid "HometownDST"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x013c (HostComputer)
+#, fuzzy
+msgid "HostComputer"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0092 (HueAdjustment)
+#, fuzzy
+msgid "HueAdjustment"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0220 (HuffmanTable)
+#, fuzzy
+msgid "HuffmanTable"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x8773 (ICC_Profile)
+#, fuzzy
+msgid "ICC_Profile"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0283 (Image Orientation)
+#, fuzzy
+msgid "Image Orientation"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0282 (Image Type)
+#, fuzzy
+msgid "Image Type"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / Image.Dimension
+#, fuzzy
+msgid "Image.Dimension"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / Image.Height
+#, fuzzy
+msgid "Image.Height"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / Image.Width
+#, fuzzy
+msgid "Image.Width"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0080 (ImageAdjustment)
+#, fuzzy
+msgid "ImageAdjustment"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0038 (ImageAreaOffset)
+#, fuzzy
+msgid "ImageAreaOffset"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0020 (ImageAuthentication)
+#, fuzzy
+msgid "ImageAuthentication"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0016 (ImageBoundary)
+#, fuzzy
+msgid "ImageBoundary"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00a5 (ImageCount)
+#, fuzzy
+msgid "ImageCount"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00a2 (ImageDataSize)
+#, fuzzy
+msgid "ImageDataSize"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x010e (ImageDescription)
+#. XMP tags / tiff:ImageDescription (ImageDescription)
+#, fuzzy
+msgid "ImageDescription"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9213 (ImageHistory)
+#, fuzzy
+msgid "ImageHistory"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:ImageLength (ImageLength)
+#. Exif & Tiff tags / 0x0101 (ImageLength)
+#, fuzzy
+msgid "ImageLength"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9211 (ImageNumber)
+#, fuzzy
+msgid "ImageNumber"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00a9 (ImageOptimization)
+#, fuzzy
+msgid "ImageOptimization"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x001a (ImageProcessing)
+#. Pentax specific tags / 0x0032 (ImageProcessing)
+#, fuzzy
+msgid "ImageProcessing"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00ac (ImageStabilization)
+#, fuzzy
+msgid "ImageStabilization"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x004f (ImageTone)
+#, fuzzy
+msgid "ImageTone"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0028 (ImageUniqueID)
+#. XMP tags / exif:ImageUniqueID (ImageUniqueID)
+#. Exif & Tiff tags / 0xa420 (ImageUniqueID)
+#, fuzzy
+msgid "ImageUniqueID"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0100 (ImageWidth)
+#. XMP tags / tiff:ImageWidth (ImageWidth)
+#, fuzzy
+msgid "ImageWidth"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0096 (InternalSerialNumber)
+#, fuzzy
+msgid "InternalSerialNumber"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0xa005 (Interoperability IFD Pointer)
+#, fuzzy
+msgid "Interoperability IFD Pointer"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x83bb (IPTC-NAA)
+#, fuzzy
+msgid "IPTC-NAA"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / Iptc4xmpCore:CiAdrCity
+#, fuzzy
+msgid "Iptc4xmpCore:CiAdrCity"
+msgstr "The city in which your business is located."
+
+#. XMP tags / Iptc4xmpCore:CiAdrCtry
+#, fuzzy
+msgid "Iptc4xmpCore:CiAdrCtry"
+msgstr "The country in which your business is located."
+
+#. XMP tags / Iptc4xmpCore:CiAdrExtadr
+#, fuzzy
+msgid "Iptc4xmpCore:CiAdrExtadr"
+msgstr "Company name and all required information to locate the building or postbox to which mail should be sent."
+
+#. XMP tags / Iptc4xmpCore:CiAdrPcode
+#, fuzzy
+msgid "Iptc4xmpCore:CiAdrPcode"
+msgstr "The local postal code (such as ZIP code) in which your business is located."
+
+#. XMP tags / Iptc4xmpCore:CiEmailWork
+#, fuzzy
+msgid "Iptc4xmpCore:CiEmailWork"
+msgstr "The business or work email address. If multiple email addresses are given, they are separated with a comma."
+
+#. XMP tags / Iptc4xmpCore:CiTelWork
+#, fuzzy
+msgid "Iptc4xmpCore:CiTelWork"
+msgstr "The business or work telephone number. If multiple telephone numbers are given, they are separated with a comma."
+
+#. XMP tags / Iptc4xmpCore:CiUrlWork
+#, fuzzy
+msgid "Iptc4xmpCore:CiUrlWork"
+msgstr "The URL or web address for your business. If multiple addresses are given, they are separated with a comma."
+
+#. XMP tags / Iptc4xmpCore:CountryCode
+#, fuzzy
+msgid "Iptc4xmpCore:CountryCode"
+msgstr "The country code in which your business is located."
+
+#. XMP tags / Iptc4xmpCore:CreatorContactInfo
+#, fuzzy
+msgid "Iptc4xmpCore:CreatorContactInfo"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / Iptc4xmpCore:DateCreated
+#, fuzzy
+msgid "Iptc4xmpCore:DateCreated"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / Iptc4xmpCore:IntellectualGenre
+#, fuzzy
+msgid "Iptc4xmpCore:IntellectualGenre"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / Iptc4xmpCore:Location
+#, fuzzy
+msgid "Iptc4xmpCore:Location"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / Iptc4xmpCore:Scene
+#, fuzzy
+msgid "Iptc4xmpCore:Scene"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / Iptc4xmpCore:SubjectCode
+#, fuzzy
+msgid "Iptc4xmpCore:SubjectCode"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0002 (ISO)
+#. Pentax specific tags / 0x0014 (ISO)
+#, fuzzy
+msgid "ISO"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0025 (ISOInfo)
+#, fuzzy
+msgid "ISOInfo"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x000f (ISOSelection)
+#, fuzzy
+msgid "ISOSelection"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0013 (ISOSetting)
+#, fuzzy
+msgid "ISOSetting"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x8827 (ISOSpeedRatings)
+#. XMP tags / exif:ISOSpeedRatings (ISOSpeedRatings)
+#, fuzzy
+msgid "ISOSpeedRatings"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0201 (JPEGInterchangeFormat)
+#, fuzzy
+msgid "JPEGInterchangeFormat"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0202 (JPEGInterchangeFormatLength)
+#, fuzzy
+msgid "JPEGInterchangeFormatLength"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / dc:subject (Keywords)
+#. IPTC tags / 0x0219 (Keywords)
+#, fuzzy
+msgid "Keywords"
+msgstr ""
+"Keywords to express the subject of the image. Keywords may be free text and don't have to be taken from a controlled vocabulary. \n"
+"Codes from the controlled vocabulary IPTC Subject NewsCodes must go to the 'Subject Code' field."
+
+#. IPTC tags / 0x0287 (Language Identifier)
+#, fuzzy
+msgid "Language Identifier"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0084 (Lens)
+#, fuzzy
+msgid "Lens"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0098 (LensData)
+#, fuzzy
+msgid "LensData"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x008b (LensFStops)
+#, fuzzy
+msgid "LensFStops"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0207 (LensInfo)
+#, fuzzy
+msgid "LensInfo"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0095 (LensModel)
+#, fuzzy
+msgid "LensModel"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x003f (LensType)
+#. Nikon specific tags / 0x0083 (LensType)
+#, fuzzy
+msgid "LensType"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x4018 (LightingOpt)
+#, fuzzy
+msgid "LightingOpt"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0015 (LightReading)
+#, fuzzy
+msgid "LightReading"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+#. XMP tags / exif:LightSource (LightSource)
+#. Nikon specific tags / 0x0090 (LightSource)
+#, fuzzy
+msgid "LightSource"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0096 (LinearizationTable)
+#, fuzzy
+msgid "LinearizationTable"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x010f (Make)
+#. XMP tags / tiff:Make (Make)
+#, fuzzy
+msgid "Make"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x927c (MakerNote)
+#, fuzzy
+msgid "MakerNote"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0001 (MakerNoteVersion)
+#, fuzzy
+msgid "MakerNoteVersion"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0085 (ManualFocusDistance)
+#, fuzzy
+msgid "ManualFocusDistance"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0714 (Max Subfile Size)
+#, fuzzy
+msgid "Max Subfile Size"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:MaxApertureValue (MaxApertureValue)
+#. Exif & Tiff tags / 0x9205 (MaxApertureValue)
+#, fuzzy
+msgid "MaxApertureValue"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x075f (Maximum ObjectData Size)
+#, fuzzy
+msgid "Maximum ObjectData Size"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0119 (MaxSampleValue)
+#, fuzzy
+msgid "MaxSampleValue"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00aa (MeasuredColor)
+#, fuzzy
+msgid "MeasuredColor"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:MeteringMode (MeteringMode)
+#. Exif & Tiff tags / 0x9207 (MeteringMode)
+#. Pentax specific tags / 0x0017 (MeteringMode)
+#, fuzzy
+msgid "MeteringMode"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0118 (MinSampleValue)
+#, fuzzy
+msgid "MinSampleValue"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:Model (Model)
+#. Exif & Tiff tags / 0x0110 (Model)
+#, fuzzy
+msgid "Model"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0100 (Model Version)
+#, fuzzy
+msgid "Model Version"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00b1 (ModifiedInfo)
+#, fuzzy
+msgid "ModifiedInfo"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00b0 (MultiExposure)
+#, fuzzy
+msgid "MultiExposure"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x001d (MyColors)
+#, fuzzy
+msgid "MyColors"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0e22 (NEFBitDepth)
+#, fuzzy
+msgid "NEFBitDepth"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0093 (NEFCompression)
+#, fuzzy
+msgid "NEFCompression"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0e01 (NikonCaptureData)
+#, fuzzy
+msgid "NikonCaptureData"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0e0e (NikonCaptureOffsets)
+#, fuzzy
+msgid "NikonCaptureOffsets"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0e1e (NikonCaptureOutput)
+#, fuzzy
+msgid "NikonCaptureOutput"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0e09 (NikonCaptureVersion)
+#, fuzzy
+msgid "NikonCaptureVersion"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0e1d (NikonICCProfile)
+#, fuzzy
+msgid "NikonICCProfile"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0011 (NikonPreview)
+#, fuzzy
+msgid "NikonPreview"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0e10 (NikonScanIFD)
+#, fuzzy
+msgid "NikonScanIFD"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0xa20d (Noise)
+#, fuzzy
+msgid "Noise"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0095 (NoiseReduction)
+#. Pentax specific tags / 0x0049 (NoiseReduction)
+#, fuzzy
+msgid "NoiseReduction"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / Iptc4xmpCore:IntellectualGenre (Object Attribute Reference)
+#. IPTC tags / 0x0204 (Object Attribute Reference)
+#, fuzzy
+msgid "Object Attribute Reference"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x024b (Object Cycle)
+#, fuzzy
+msgid "Object Cycle"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0205 (Object Name)
+#. XMP tags / dc:title (Object Name)
+#, fuzzy
+msgid "Object Name"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0203 (Object Type Reference)
+#, fuzzy
+msgid "Object Type Reference"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x02ca (ObjectData Preview Data)
+#, fuzzy
+msgid "ObjectData Preview Data"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x02c8 (ObjectData Preview File Format)
+#, fuzzy
+msgid "ObjectData Preview File Format"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x02c9 (ObjectData Preview File Format Version)
+#, fuzzy
+msgid "ObjectData Preview File Format Version"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x075a (ObjectData Size Announced)
+#, fuzzy
+msgid "ObjectData Size Announced"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x8828 (OECF)
+#. XMP tags / exif:OECF (OECF)
+#, fuzzy
+msgid "OECF"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x00ff (OldSubfileType)
+#, fuzzy
+msgid "OldSubfileType"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:Orientation (Orientation)
+#. Exif & Tiff tags / 0x0112 (Orientation)
+#, fuzzy
+msgid "Orientation"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0267 (Original Transmission Reference)
+#. XMP tags / photoshop:TransmissionReference (Original Transmission Reference)
+#, fuzzy
+msgid "Original Transmission Reference"
+msgstr "Number or identifier for the purpose of improved workflow handling. This is a user created identifier related to the job for which the image is supplied."
+
+#. Canon specific tags / 0x0083 (OriginalDecisionDataOffset)
+#, fuzzy
+msgid "OriginalDecisionDataOffset"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0241 (Originating Program)
+#, fuzzy
+msgid "Originating Program"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0009 (OwnerName)
+#, fuzzy
+msgid "OwnerName"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x011d (PageName)
+#, fuzzy
+msgid "PageName"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0129 (PageNumber)
+#, fuzzy
+msgid "PageNumber"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0091 (PersonalFunctions)
+#, fuzzy
+msgid "PersonalFunctions"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0092 (PersonalFunctionValues)
+#, fuzzy
+msgid "PersonalFunctionValues"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+#. XMP tags / tiff:PhotometricInterpretation (PhotometricInterpretation)
+#, fuzzy
+msgid "PhotometricInterpretation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:AuthorsPosition
+#, fuzzy
+msgid "photoshop:AuthorsPosition"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:CaptionWriter
+#, fuzzy
+msgid "photoshop:CaptionWriter"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:Category
+#, fuzzy
+msgid "photoshop:Category"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:City
+#, fuzzy
+msgid "photoshop:City"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:ColorMode
+#, fuzzy
+msgid "photoshop:ColorMode"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:Country
+#, fuzzy
+msgid "photoshop:Country"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:Credit
+#, fuzzy
+msgid "photoshop:Credit"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:DateCreated
+#, fuzzy
+msgid "photoshop:DateCreated"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:Headline
+#, fuzzy
+msgid "photoshop:Headline"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:ICCProfile
+#, fuzzy
+msgid "photoshop:ICCProfile"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:Instructions
+#, fuzzy
+msgid "photoshop:Instructions"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:Source
+#, fuzzy
+msgid "photoshop:Source"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:SupplementalCategories
+#, fuzzy
+msgid "photoshop:SupplementalCategories"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:State
+#, fuzzy
+msgid "photoshop:State"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:TransmissionReference
+#, fuzzy
+msgid "photoshop:TransmissionReference"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:Urgency
+#, fuzzy
+msgid "photoshop:Urgency"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00bd (PictureControl)
+#. Nikon specific tags / 0x0023 (PictureControl)
+#, fuzzy
+msgid "PictureControl"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+#, fuzzy
+msgid "PictureMode"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0xa002 (PixelXDimension)
+#. XMP tags / exif:PixelXDimension (PixelXDimension)
+#, fuzzy
+msgid "PixelXDimension"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:PixelYDimension (PixelYDimension)
+#. Exif & Tiff tags / 0xa003 (PixelYDimension)
+#, fuzzy
+msgid "PixelYDimension"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x011c (PlanarConfiguration)
+#. XMP tags / tiff:PlanarConfiguration (PlanarConfiguration)
+#, fuzzy
+msgid "PlanarConfiguration"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00b6 (PowerUpTime)
+#, fuzzy
+msgid "PowerUpTime"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x013d (Predictor)
+#, fuzzy
+msgid "Predictor"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x003e (PreviewImageBorders)
+#, fuzzy
+msgid "PreviewImageBorders"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00b6 (PreviewImageInfo)
+#, fuzzy
+msgid "PreviewImageInfo"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0003 (PreviewLength)
+#, fuzzy
+msgid "PreviewLength"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0004 (PreviewOffset)
+#, fuzzy
+msgid "PreviewOffset"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0002 (PreviewResolution)
+#, fuzzy
+msgid "PreviewResolution"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x013f (PrimaryChromaticities)
+#. XMP tags / tiff:PrimaryChromaticities (PrimaryChromaticities)
+#, fuzzy
+msgid "PrimaryChromaticities"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0e00 (PrintIM)
+#. Pentax specific tags / 0x0e00 (PrintIM)
+#. Exif & Tiff tags / 0xc4a5 (PrintIM)
+#, fuzzy
+msgid "PrintIM"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / Processing.OriginalFileName
+#, fuzzy
+msgid "Processing.OriginalFileName"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / Processing.PostProcessingDateTime
+#, fuzzy
+msgid "Processing.PostProcessingDateTime"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / Processing.PostProcessingSoftware
+#, fuzzy
+msgid "Processing.PostProcessingSoftware"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / Processing.Software
+#, fuzzy
+msgid "Processing.Software"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00a0 (ProcessingInfo)
+#, fuzzy
+msgid "ProcessingInfo"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x000b (ProcessingSoftware)
+#, fuzzy
+msgid "ProcessingSoftware"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0132 (Product I.D.)
+#, fuzzy
+msgid "Product I.D."
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0246 (Program Version)
+#, fuzzy
+msgid "Program Version"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x000d (ProgramShift)
+#, fuzzy
+msgid "ProgramShift"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:State (Province/State)
+#. IPTC tags / 0x025f (Province/State)
+#, fuzzy
+msgid "Province/State"
+msgstr "Name of the subregion of a country of the location shown in the image. This element is at the second level of a top-down geographical hierarchy."
+
+#. Pentax specific tags / 0x0008 (Quality)
+#. Nikon specific tags / 0x0004 (Quality)
+#, fuzzy
+msgid "Quality"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x027d (Rasterized Caption)
+#, fuzzy
+msgid "Rasterized Caption"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x4746 (Rating)
+#, fuzzy
+msgid "Rating"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x4749 (RatingPercent)
+#, fuzzy
+msgid "RatingPercent"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0081 (RawDataOffset)
+#, fuzzy
+msgid "RawDataOffset"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0099 (RawImageCenter)
+#, fuzzy
+msgid "RawImageCenter"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0039 (RawImageSize)
+#, fuzzy
+msgid "RawImageSize"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / rdf:about
+#, fuzzy
+msgid "rdf:about"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0200 (Record Version)
+#, fuzzy
+msgid "Record Version"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x001c (RedBalance)
+#, fuzzy
+msgid "RedBalance"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x022f (Reference Date)
+#, fuzzy
+msgid "Reference Date"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0232 (Reference number)
+#, fuzzy
+msgid "Reference number"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x022d (Reference Service)
+#, fuzzy
+msgid "Reference Service"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:ReferenceBlackWhite (ReferenceBlackWhite)
+#. Exif & Tiff tags / 0x0214 (ReferenceBlackWhite)
+#, fuzzy
+msgid "ReferenceBlackWhite"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0xa004 (RelatedSoundFile)
+#. XMP tags / exif:RelatedSoundFile (RelatedSoundFile)
+#, fuzzy
+msgid "RelatedSoundFile"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x021e (Release Date)
+#, fuzzy
+msgid "Release Date"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0223 (Release Time)
+#, fuzzy
+msgid "Release Time"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:ResolutionUnit (ResolutionUnit)
+#. Exif & Tiff tags / 0x0128 (ResolutionUnit)
+#, fuzzy
+msgid "ResolutionUnit"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x009e (RetouchHistory)
+#, fuzzy
+msgid "RetouchHistory"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0116 (RowsPerStrip)
+#, fuzzy
+msgid "RowsPerStrip"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0115 (SamplesPerPixel)
+#. XMP tags / tiff:SamplesPerPixel (SamplesPerPixel)
+#, fuzzy
+msgid "SamplesPerPixel"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0094 (Saturation)
+#. Exif & Tiff tags / 0xa409 (Saturation)
+#. Pentax specific tags / 0x001f (Saturation)
+#. Nikon specific tags / 0x00aa (Saturation)
+#. XMP tags / exif:Saturation (Saturation)
+#, fuzzy
+msgid "Saturation"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x021b (SaturationInfo)
+#, fuzzy
+msgid "SaturationInfo"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x009c (SceneAssist)
+#, fuzzy
+msgid "SceneAssist"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SceneCaptureType (SceneCaptureType)
+#. Exif & Tiff tags / 0xa406 (SceneCaptureType)
+#, fuzzy
+msgid "SceneCaptureType"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x008f (SceneMode)
+#, fuzzy
+msgid "SceneMode"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0xa301 (SceneType)
+#. XMP tags / exif:SceneType (SceneType)
+#, fuzzy
+msgid "SceneType"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9212 (SecurityClassification)
+#, fuzzy
+msgid "SecurityClassification"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x882a (SelfTimerMode)
+#, fuzzy
+msgid "SelfTimerMode"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SensingMethod (SensingMethod)
+#. Exif & Tiff tags / 0xa217 (SensingMethod)
+#, fuzzy
+msgid "SensingMethod"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0040 (SensitivityAdjust)
+#, fuzzy
+msgid "SensitivityAdjust"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00e0 (SensorInfo)
+#, fuzzy
+msgid "SensorInfo"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x009a (SensorPixelSize)
+#, fuzzy
+msgid "SensorPixelSize"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0229 (SerialNumber)
+#. Nikon specific tags / 0x001d (SerialNumber)
+#. Canon specific tags / 0x000c (SerialNumber)
+#, fuzzy
+msgid "SerialNumber"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00a0 (SerialNumber2)
+#, fuzzy
+msgid "SerialNumber2"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0015 (SerialNumberFormat)
+#, fuzzy
+msgid "SerialNumberFormat"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x011e (Service Identifier)
+#, fuzzy
+msgid "Service Identifier"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x005c (ShakeReduction)
+#, fuzzy
+msgid "ShakeReduction"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0006 (Sharpness)
+#. XMP tags / exif:Sharpness (Sharpness)
+#. Pentax specific tags / 0x0021 (Sharpness)
+#. Exif & Tiff tags / 0xa40a (Sharpness)
+#, fuzzy
+msgid "Sharpness"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00a3 (SharpnessFreqTable)
+#, fuzzy
+msgid "SharpnessFreqTable"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00a2 (SharpnessTable)
+#, fuzzy
+msgid "SharpnessTable"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0001 (ShootingMode)
+#. Nikon specific tags / 0x0089 (ShootingMode)
+#, fuzzy
+msgid "ShootingMode"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0205 (ShotInfo)
+#. Nikon specific tags / 0x0091 (ShotInfo)
+#, fuzzy
+msgid "ShotInfo"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / ShotInfo.Aperture
+#, fuzzy
+msgid "ShotInfo.Aperture"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / ShotInfo.DateTime
+#, fuzzy
+msgid "ShotInfo.DateTime"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / ShotInfo.Exposure
+#, fuzzy
+msgid "ShotInfo.Exposure"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / ShotInfo.Flash.Fired
+#, fuzzy
+msgid "ShotInfo.Flash.Fired"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / ShotInfo.Flash.RedEyeMode
+#, fuzzy
+msgid "ShotInfo.Flash.RedEyeMode"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / ShotInfo.FocalLength
+#, fuzzy
+msgid "ShotInfo.FocalLength"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / ShotInfo.FocalLengthIn35mm
+#, fuzzy
+msgid "ShotInfo.FocalLengthIn35mm"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / ShotInfo.ISO
+#, fuzzy
+msgid "ShotInfo.ISO"
+msgstr "There is no description available for this metadata"
+
+#. Magic JpegMetadata computed tags / ShotInfo.Lens
+#, fuzzy
+msgid "ShotInfo.Lens"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00a7 (ShutterCount)
+#. Pentax specific tags / 0x005d (ShutterCount)
+#, fuzzy
+msgid "ShutterCount"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9201 (ShutterSpeedValue)
+#. XMP tags / exif:ShutterSpeedValue (ShutterSpeedValue)
+#, fuzzy
+msgid "ShutterSpeedValue"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0009 (Size)
+#, fuzzy
+msgid "Size"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x070a (Size Mode)
+#, fuzzy
+msgid "Size Mode"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:Software (Software)
+#. Exif & Tiff tags / 0x0131 (Software)
+#, fuzzy
+msgid "Software"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0273 (Source)
+#, fuzzy
+msgid "Source"
+msgstr ""
+"Identifies the original owner of the copyright for the intellectual content of the image. This could be an agency, a member of an agency or an individual. \n"
+"Source could be different from Creator and from the entities in the CopyrightNotice."
+
+#. Exif & Tiff tags / 0xa20c (SpatialFrequencyResponse)
+#. XMP tags / exif:SpatialFrequencyResponse (SpatialFrequencyResponse)
+#, fuzzy
+msgid "SpatialFrequencyResponse"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0228 (Special Instructions)
+#. XMP tags / photoshop:Instructions (Special Instructions)
+#, fuzzy
+msgid "Special Instructions"
+msgstr ""
+"Any of a number of instructions from the provider or creator to the receiver of the image which might include any of the following: embargoes (NewsMagazines OUT) and other restrictions not covered by the 'Rights Usage Terms' field; \n"
+"information regarding the original means of capture (scanning notes, colourspace info) or other specific text information that the user may need for accurate reproduction; \n"
+"additional permissions required when publishing; \n"
+"credits for publishing if they exceed the IIM length of the credit field."
+
+#. Exif & Tiff tags / 0x8824 (SpectralSensitivity)
+#. XMP tags / exif:SpectralSensitivity (SpectralSensitivity)
+#, fuzzy
+msgid "SpectralSensitivity"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0117 (StripByteCounts)
+#, fuzzy
+msgid "StripByteCounts"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0111 (StripOffsets)
+#, fuzzy
+msgid "StripOffsets"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x080a (Subfile)
+#, fuzzy
+msgid "Subfile"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x00fe (SubfileType)
+#, fuzzy
+msgid "SubfileType"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / Iptc4xmpCore:SubjectCode (Subject Reference)
+#. IPTC tags / 0x020c (Subject Reference)
+#, fuzzy
+msgid "Subject Reference"
+msgstr "Specifies one or more Subjects from the IPTC Subject-NewsCodes taxonomy to categorise the image. Each Subject is represented as a string of 8 digits in an unordered list."
+
+#. Exif & Tiff tags / 0x9214 (SubjectArea)
+#. XMP tags / exif:SubjectArea (SubjectArea)
+#, fuzzy
+msgid "SubjectArea"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9206 (SubjectDistance)
+#. XMP tags / exif:SubjectDistance (SubjectDistance)
+#, fuzzy
+msgid "SubjectDistance"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SubjectDistanceRange (SubjectDistanceRange)
+#. Exif & Tiff tags / 0xa40c (SubjectDistanceRange)
+#, fuzzy
+msgid "SubjectDistanceRange"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / exif:SubjectLocation (SubjectLocation)
+#. Exif & Tiff tags / 0xa214 (SubjectLocation)
+#, fuzzy
+msgid "SubjectLocation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / Iptc4xmpCore:Location (Sublocation)
+#. IPTC tags / 0x025c (Sublocation)
+#, fuzzy
+msgid "Sublocation"
+msgstr ""
+"Exact name of the sublocation shown in the image. This sublocation name could either be the name of a sublocation to a city or the name of a well known location or (natural) monument outside a city. \n"
+"In the sense of a sublocation to a city this element is at the fourth level of a top-down geographical hierarchy."
+
+#. Exif & Tiff tags / 0x9290 (SubsecTime)
+#, fuzzy
+msgid "SubsecTime"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9292 (SubsecTimeDigitized)
+#, fuzzy
+msgid "SubsecTimeDigitized"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9291 (SubsecTimeOriginal)
+#, fuzzy
+msgid "SubsecTimeOriginal"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x001a (SuperMacro)
+#, fuzzy
+msgid "SuperMacro"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0214 (Supplemental Category)
+#, fuzzy
+msgid "Supplemental Category"
+msgstr "Deprecated metadata."
+
+#. Exif & Tiff tags / 0x0124 (T4Options)
+#, fuzzy
+msgid "T4Options"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0125 (T6Options)
+#, fuzzy
+msgid "T6Options"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0047 (Temperature)
+#, fuzzy
+msgid "Temperature"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0107 (Thresholding)
+#, fuzzy
+msgid "Thresholding"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x0013 (ThumbnailImageValidArea)
+#, fuzzy
+msgid "ThumbnailImageValidArea"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9216 (TIFF-EPStandardID)
+#, fuzzy
+msgid "TIFF-EPStandardID"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:Artist
+#, fuzzy
+msgid "tiff:Artist"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:BitsPerSample
+#, fuzzy
+msgid "tiff:BitsPerSample"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:Compression
+#, fuzzy
+msgid "tiff:Compression"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:Copyright
+#, fuzzy
+msgid "tiff:Copyright"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:DateTime
+#, fuzzy
+msgid "tiff:DateTime"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:ImageDescription
+#, fuzzy
+msgid "tiff:ImageDescription"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:ImageLength
+#, fuzzy
+msgid "tiff:ImageLength"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:ImageWidth
+#, fuzzy
+msgid "tiff:ImageWidth"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:Make
+#, fuzzy
+msgid "tiff:Make"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:Model
+#, fuzzy
+msgid "tiff:Model"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:Orientation
+#, fuzzy
+msgid "tiff:Orientation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:PhotometricInterpretation
+#, fuzzy
+msgid "tiff:PhotometricInterpretation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:PlanarConfiguration
+#, fuzzy
+msgid "tiff:PlanarConfiguration"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:PrimaryChromaticities
+#, fuzzy
+msgid "tiff:PrimaryChromaticities"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:ReferenceBlackWhite
+#, fuzzy
+msgid "tiff:ReferenceBlackWhite"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:ResolutionUnit
+#, fuzzy
+msgid "tiff:ResolutionUnit"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:SamplesPerPixel
+#, fuzzy
+msgid "tiff:SamplesPerPixel"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:Software
+#, fuzzy
+msgid "tiff:Software"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:TransferFunction
+#, fuzzy
+msgid "tiff:TransferFunction"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:WhitePoint
+#, fuzzy
+msgid "tiff:WhitePoint"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:XResolution
+#, fuzzy
+msgid "tiff:XResolution"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:YCbCrCoefficients
+#, fuzzy
+msgid "tiff:YCbCrCoefficients"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:YCbCrPositioning
+#, fuzzy
+msgid "tiff:YCbCrPositioning"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:YCbCrSubSampling
+#, fuzzy
+msgid "tiff:YCbCrSubSampling"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:YResolution
+#, fuzzy
+msgid "tiff:YResolution"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0007 (Time)
+#, fuzzy
+msgid "Time"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x023c (Time Created)
+#, fuzzy
+msgid "Time Created"
+msgstr "Should be merged to the 'Date created' element."
+
+#. IPTC tags / 0x0150 (Time Sent)
+#, fuzzy
+msgid "Time Sent"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0081 (ToneComp)
+#, fuzzy
+msgid "ToneComp"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0402 (ToneCurve)
+#, fuzzy
+msgid "ToneCurve"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00b2 (ToneCurveMatching)
+#, fuzzy
+msgid "ToneCurveMatching"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0403 (ToneCurves)
+#, fuzzy
+msgid "ToneCurves"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00a1 (ToneCurveTable)
+#, fuzzy
+msgid "ToneCurveTable"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00b3 (ToningEffect)
+#, fuzzy
+msgid "ToningEffect"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x012d (TransferFunction)
+#. XMP tags / tiff:TransferFunction (TransferFunction)
+#, fuzzy
+msgid "TransferFunction"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x000a (UnknownD30)
+#, fuzzy
+msgid "UnknownD30"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x03ff (UnknownInfo)
+#, fuzzy
+msgid "UnknownInfo"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x0164 (UNO)
+#, fuzzy
+msgid "UNO"
+msgstr "There is no description available for this metadata"
+
+#. IPTC tags / 0x020a (Urgency)
+#, fuzzy
+msgid "Urgency"
+msgstr "Deprecated metadata."
+
+#. XMP tags / exif:UserComment (UserComment)
+#. Exif & Tiff tags / 0x9286 (UserComment)
+#, fuzzy
+msgid "UserComment"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x00ab (VariProgram)
+#, fuzzy
+msgid "VariProgram"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0000 (Version)
+#, fuzzy
+msgid "Version"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x002a (VignetteControl)
+#, fuzzy
+msgid "VignetteControl"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x4015 (VignettingCorr)
+#, fuzzy
+msgid "VignettingCorr"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x4016 (VignettingCorr2)
+#, fuzzy
+msgid "VignettingCorr2"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00d0 (VRDOffset)
+#, fuzzy
+msgid "VRDOffset"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x001f (VRInfo)
+#, fuzzy
+msgid "VRInfo"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x000c (WB_RBLevels)
+#, fuzzy
+msgid "WB_RBLevels"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x020f (WB_RGGBLevelsCloudy)
+#, fuzzy
+msgid "WB_RGGBLevelsCloudy"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x020d (WB_RGGBLevelsDaylight)
+#, fuzzy
+msgid "WB_RGGBLevelsDaylight"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0214 (WB_RGGBLevelsFlash)
+#, fuzzy
+msgid "WB_RGGBLevelsFlash"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0211 (WB_RGGBLevelsFluorescentD)
+#, fuzzy
+msgid "WB_RGGBLevelsFluorescentD"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0212 (WB_RGGBLevelsFluorescentN)
+#, fuzzy
+msgid "WB_RGGBLevelsFluorescentN"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0213 (WB_RGGBLevelsFluorescentW)
+#, fuzzy
+msgid "WB_RGGBLevelsFluorescentW"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x020e (WB_RGGBLevelsShade)
+#, fuzzy
+msgid "WB_RGGBLevelsShade"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0210 (WB_RGGBLevelsTungsten)
+#, fuzzy
+msgid "WB_RGGBLevelsTungsten"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+#. Nikon specific tags / 0x0005 (WhiteBalance)
+#, fuzzy
+msgid "WhiteBalance"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x000b (WhiteBalanceFineTune)
+#, fuzzy
+msgid "WhiteBalanceFineTune"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00b3 (WhiteBalanceMatching)
+#, fuzzy
+msgid "WhiteBalanceMatching"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x001a (WhiteBalanceMode)
+#, fuzzy
+msgid "WhiteBalanceMode"
+msgstr "There is no description available for this metadata"
+
+#. Canon specific tags / 0x00a4 (WhiteBalanceTable)
+#, fuzzy
+msgid "WhiteBalanceTable"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:WhitePoint (WhitePoint)
+#. Pentax specific tags / 0x0201 (WhitePoint)
+#. Exif & Tiff tags / 0x013e (WhitePoint)
+#, fuzzy
+msgid "WhitePoint"
+msgstr "There is no description available for this metadata"
+
+#. Nikon specific tags / 0x0024 (WorldTime)
+#, fuzzy
+msgid "WorldTime"
+msgstr "There is no description available for this metadata"
+
+#. Pentax specific tags / 0x0022 (WorldTimeLocation)
+#, fuzzy
+msgid "WorldTimeLocation"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / photoshop:CaptionWriter (Writer/Editor)
+#. IPTC tags / 0x027a (Writer/Editor)
+#, fuzzy
+msgid "Writer/Editor"
+msgstr "Identifier or the name of the person involved in writing, editing or correcting the description of the image."
+
+#. XMP tags / xmp:Advisory
+#, fuzzy
+msgid "xmp:Advisory"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmp:BaseURL
+#, fuzzy
+msgid "xmp:BaseURL"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmp:CreateDate
+#, fuzzy
+msgid "xmp:CreateDate"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmp:CreatorTool
+#, fuzzy
+msgid "xmp:CreatorTool"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmp:Identifier
+#, fuzzy
+msgid "xmp:Identifier"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmp:Label
+#, fuzzy
+msgid "xmp:Label"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmp:MetadataDate
+#, fuzzy
+msgid "xmp:MetadataDate"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmp:ModifyDate
+#, fuzzy
+msgid "xmp:ModifyDate"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmp:Nickname
+#, fuzzy
+msgid "xmp:Nickname"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmp:Rating
+#, fuzzy
+msgid "xmp:Rating"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmp:Thumbnails
+#, fuzzy
+msgid "xmp:Thumbnails"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpBJ:JobRef
+#, fuzzy
+msgid "xmpBJ:JobRef"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:DerivedFrom
+#, fuzzy
+msgid "xmpMM:DerivedFrom"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:DocumentID
+#, fuzzy
+msgid "xmpMM:DocumentID"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:History
+#, fuzzy
+msgid "xmpMM:History"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:InstanceID
+#, fuzzy
+msgid "xmpMM:InstanceID"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:LastURL
+#, fuzzy
+msgid "xmpMM:LastURL"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:ManagedFrom
+#, fuzzy
+msgid "xmpMM:ManagedFrom"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:Manager
+#, fuzzy
+msgid "xmpMM:Manager"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:ManagerVariant
+#, fuzzy
+msgid "xmpMM:ManagerVariant"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:ManageTo
+#, fuzzy
+msgid "xmpMM:ManageTo"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:ManageUI
+#, fuzzy
+msgid "xmpMM:ManageUI"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:RenditionClass
+#, fuzzy
+msgid "xmpMM:RenditionClass"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:RenditionParams
+#, fuzzy
+msgid "xmpMM:RenditionParams"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:VersionID
+#, fuzzy
+msgid "xmpMM:VersionID"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpMM:Versions
+#, fuzzy
+msgid "xmpMM:Versions"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpNote:HasExtendedXMP
+#, fuzzy
+msgid "xmpNote:HasExtendedXMP"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpRights:Certificate
+#, fuzzy
+msgid "xmpRights:Certificate"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpRights:Marked
+#, fuzzy
+msgid "xmpRights:Marked"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpRights:Owner
+#, fuzzy
+msgid "xmpRights:Owner"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpRights:UsageTerms
+#, fuzzy
+msgid "xmpRights:UsageTerms"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpRights:WebStatement
+#, fuzzy
+msgid "xmpRights:WebStatement"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpTPg:Colorants
+#, fuzzy
+msgid "xmpTPg:Colorants"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpTPg:Fonts
+#, fuzzy
+msgid "xmpTPg:Fonts"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpTPg:MaxPageSize
+#, fuzzy
+msgid "xmpTPg:MaxPageSize"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpTPg:NPages
+#, fuzzy
+msgid "xmpTPg:NPages"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / xmpTPg:PlateNames
+#, fuzzy
+msgid "xmpTPg:PlateNames"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9c9d (XPAuthor)
+#, fuzzy
+msgid "XPAuthor"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9c9c (XPComment)
+#, fuzzy
+msgid "XPComment"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9c9e (XPKeywords)
+#, fuzzy
+msgid "XPKeywords"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x011e (XPosition)
+#, fuzzy
+msgid "XPosition"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9c9f (XPSubject)
+#, fuzzy
+msgid "XPSubject"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x9c9b (XPTitle)
+#, fuzzy
+msgid "XPTitle"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x011a (XResolution)
+#. XMP tags / tiff:XResolution (XResolution)
+#, fuzzy
+msgid "XResolution"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x0211 (YCbCrCoefficients)
+#. XMP tags / tiff:YCbCrCoefficients (YCbCrCoefficients)
+#, fuzzy
+msgid "YCbCrCoefficients"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:YCbCrPositioning (YCbCrPositioning)
+#. Exif & Tiff tags / 0x0213 (YCbCrPositioning)
+#, fuzzy
+msgid "YCbCrPositioning"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:YCbCrSubSampling (YCbCrSubSampling)
+#. Exif & Tiff tags / 0x0212 (YCbCrSubSampling)
+#, fuzzy
+msgid "YCbCrSubSampling"
+msgstr "There is no description available for this metadata"
+
+#. Exif & Tiff tags / 0x011f (YPosition)
+#, fuzzy
+msgid "YPosition"
+msgstr "There is no description available for this metadata"
+
+#. XMP tags / tiff:YResolution (YResolution)
+#. Exif & Tiff tags / 0x011b (YResolution)
+#, fuzzy
+msgid "YResolution"
+msgstr "There is no description available for this metadata"
+

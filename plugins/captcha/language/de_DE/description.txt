@@ -1,0 +1,1 @@
+Fügt ein Captcha in der Registrierungsform hinzu.

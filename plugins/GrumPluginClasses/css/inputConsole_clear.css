@@ -1,0 +1,17 @@
+/* clear css */
+.ui-inputConsole {
+  background:#DDDDDD;
+  border:1px solid #999999;
+  color:#666666;
+}
+.ui-inputConsole-history {
+  border-color:#999999;
+  background:#DDDDDD;
+  color:#666666;
+}
+
+.ui-error, input[type='text'].ui-error {
+  background:#ff8080;
+  border-color:#800000;
+  color:#800000;
+}

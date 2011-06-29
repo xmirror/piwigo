@@ -1,0 +1,1 @@
+Sustituye las categorías en la barra de menú con uno más agradable (javascript).

@@ -1,0 +1,1 @@
+Ersetzt die Kategorien in der Menüleiste mit einem schöneren (JavaScript).

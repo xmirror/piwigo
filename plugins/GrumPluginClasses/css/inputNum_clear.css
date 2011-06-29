@@ -1,0 +1,30 @@
+/* clear css */
+.ui-inputNum {
+  background:#DDDDDD;
+  border:1px solid #999999;
+  color:#666666;
+}
+
+.ui-inputNum-btDec, .ui-inputNum-btInc ,
+div.ui-inputNum a.ui-slider-handle {
+  background:none repeat scroll 0 0 #999999;
+  border-color:#DDDDDD #666666 #666666 #DDDDDD;
+  color:#005E89;
+}
+
+.ui-inputNum-btDec-active, .ui-inputNum-btInc-active {
+  border-color:#666666 #DDDDDD #DDDDDD #666666;
+}
+
+.ui-error, input[type='text'].ui-error {
+  background:#ff8080;
+  border-color:#800000;
+  color:#800000;
+}
+
+div.ui-inputNum div.ui-slider-horizontal {
+  background:none repeat scroll 0 0 #999999;
+}
+
+
+

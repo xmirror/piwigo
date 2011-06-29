@@ -1,0 +1,1 @@
+Usa el servicio Akismet en línea para comprobar comentarios agains el bombardeo publicitario

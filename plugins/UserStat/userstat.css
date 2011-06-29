@@ -1,0 +1,12 @@
+
+.StatTableRow:hover { background-color:#303030; cursor:pointer; }
+.formtable, .formtable P { text-align:left; display:block; }
+.formtable tr { vertical-align:top; }
+.invisible { visibility:hidden; display:none; }
+.littlefont { font-size:90%; }
+table.table2.littlefont td { text-align:center;padding:0px;padding-left:3px;padding-right:3px; }
+.throw { line-height:auto; font-size:100%; }
+table.table2 tr.throw { height:26px; }
+table.table2 td.toLeft  { text-align:left; }
+div.table { margin-bottom:15px; }
+pointerHand { cursor:pointer; }

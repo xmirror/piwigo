@@ -1,0 +1,11 @@
+/* roma css */
+
+.ui-inputPosition {
+  border:1px dotted #666666;
+}
+
+.ui-error, input[type='text'].ui-error, textarea.ui-error {
+  background:#ff8080;
+  border-color:#800000;
+  color:#800000;
+}

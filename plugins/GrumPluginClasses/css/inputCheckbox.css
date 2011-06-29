@@ -1,0 +1,9 @@
+/* for inputCheckbox plugin */
+.ui-inputCheckbox.ui-error {
+  background:#ff8080;
+  border:1px solid #800000;
+  color:#800000;
+}
+.ui-inputCheckbox.ui-error label {
+  color:#800000;
+}

@@ -1,0 +1,1 @@
+Améliore l'affichage des catégories du menu (javascript).

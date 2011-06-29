@@ -1,0 +1,1 @@
+Random Header permite para mostrar en el cabecera imagen arbitrario del choosen categorie, como una imagen normal, o como un fondo

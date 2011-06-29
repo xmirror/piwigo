@@ -1,0 +1,1 @@
+Pridať "Kontakt" položku do menu na ponúknutie kontaktného formulára na používateľov

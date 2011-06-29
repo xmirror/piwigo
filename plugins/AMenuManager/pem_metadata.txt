@@ -1,0 +1,4 @@
+File automatically created from SVN repository.
+
+URL: http://piwigo.org/svn/extensions/AMenuManager 
+Revision: 11071

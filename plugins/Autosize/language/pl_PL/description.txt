@@ -1,0 +1,1 @@
+Automatycznie dopasowuje wielkosc wyswietlanego obrazu do wielkosci okna.

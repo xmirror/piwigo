@@ -1,0 +1,1 @@
+Consenta l'esclusione di un IP o un intervallo IP della storia e della loro "lista nera" per l'inclusione

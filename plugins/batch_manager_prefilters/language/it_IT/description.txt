@@ -1,0 +1,1 @@
+Permette di aggiungere dei prefiltri nella gestione dei lotti (Batch Manager)

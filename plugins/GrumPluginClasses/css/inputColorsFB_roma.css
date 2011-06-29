@@ -1,0 +1,9 @@
+/* roma css */
+
+.ui-inputColorsFB-fgopacity, .ui-inputColorsFB-bgopacity {
+  border-color:#999999;
+}
+
+.ui-inputColorsFB-selected {
+  border:2px solid #ffffff;
+}

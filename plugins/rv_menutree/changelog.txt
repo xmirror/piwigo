@@ -1,0 +1,18 @@
+2.2.a
+	- compatible piwigo 2.2
+
+2.1.c
+	- javascript async stuff
+	- lv_lv language description
+
+2.1.b
+	- themes can define their own rv_menutree_categories.tpl
+	- improved javascript (faster, async loading in browser, better compressed zith google closure compiler)
+
+2.1.a
+	- compatibility with piwigo 2.1
+
+2.0.c
+	- optimizations by calling make_index_url less frequently
+	- compatible with IE8
+

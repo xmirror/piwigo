@@ -1,0 +1,8 @@
+@import "theme_switch-default.css";
+
+.theme_flag-pan { border:1px solid; background-color: #111; }
+.theme_menuf .theme_flags {border-color: #000 !important; }
+
+.theme_flag-pan { 	border-radius: 8px; } /* round corners with CSS3 compliant browsers */
+.theme_flag-pan { -moz-border-radius:8px; } 
+.theme_flag-pan { -webkit-border-radius: 8px; }

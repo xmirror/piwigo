@@ -1,0 +1,1 @@
+Zorgt voor automatisch aanpassen van de grootte van de foto's, ten opzichte van de schermgrootte.

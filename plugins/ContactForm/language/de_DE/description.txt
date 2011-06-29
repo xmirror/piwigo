@@ -1,0 +1,1 @@
+Fügt ein "Kontakt" Item im Menü-Block, welches die Möglichkeit gibt,Kontaktformulare für die Benutzer bereitzustellen.

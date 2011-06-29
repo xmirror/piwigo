@@ -1,0 +1,1 @@
+Advanced MetaData es un plugin para sacar el máximo provecho de estos metadatos en las fotos.

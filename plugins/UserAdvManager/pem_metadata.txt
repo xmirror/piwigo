@@ -1,0 +1,4 @@
+File automatically created from SVN repository.
+
+URL: http://piwigo.org/svn/extensions/UserAdvManager/tags/2.20.11 
+Revision: 11322

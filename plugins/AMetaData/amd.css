@@ -1,0 +1,141 @@
+#iHeaderListTags { width:100%; border:1px solid; border-collapse: collapse; margin-top:3px; }
+#iListTags { width:100%; border:1px solid; height:280px; border-top:0px; overflow:auto; position:relative; left:-1px;}
+#iListImages { width:100%; border-bottom:1px solid; overflow:auto;}
+#iListTagsNb, #iListImagesNb { width:99%; text-align:right; margin-bottom:8px; padding:2px; font-size:80%; }
+#iListTags table, #iListImages table, table.listTags { width:100%; text-align:left; border-collapse: collapse; }
+#iListTags.roma table tr:hover { cursor:pointer; background:#303030; }
+#iListImages.roma table tr:hover, table.roma tr:hover { background:#303030; cursor:default; }
+#iListTags.clear table tr:hover { cursor:pointer; color: #D54E21; background:#dbe8f3; }
+#iListImages.clear table tr:hover, table.clear tr:hover { color: #D54E21; background:#dbe8f3; cursor:default; }
+#iHeaderListImages { width:100%; border-bottom:1px solid; }
+div.addGroup { padding-left:40px; text-align:left; }
+div.addMetadata { text-align:left; }
+#iGroups { list-style: none; }
+
+.tagListOrder { list-style: none; padding:0px; margin-right:8px; margin-left:35px; }
+.tagListOrder li { border:none; padding:1px; margin-bottom:2px; width:100%;
+-moz-border-radius:4px;
+-webkit-border-radius:4px;
+-khtml-border-radius:4px;
+border-radius:4px;
+}
+.groupTags { padding-top:8px; }
+.editGroupListButton { margin-left:8px; position:absolute; z-index:1000; }
+table.tagListOrderItem { width:100%; border-collapse:collapse; }
+
+#ianalyzestatus { margin:8px; padding:8px; }
+#ianalyzestatus ul { margin:0px; padding:0 0 0 20px; }
+#iamd_nb_item_per_request_display { display:inline-block; width:70px; }
+#iamd_nb_item_per_request_slider { display:inline-block; width:350px; }
+.helpBody { text-align: left; padding-top:30px; }
+.helpBody ul { padding:0px; margin:0px; }
+.helpBody li { margin-left:30px; }
+
+.ui-widget-overlay { background:#000000; opacity:0.88; filter:alpha(opacity:88); }
+#mdRulesArea { border-top:1px solid; overflow:auto; }
+#iBDRules { list-style-type:none; padding:0px; }
+#iBDRules li.groupItems { margin:4px 4px 4px 12px; width:auto; cursor:default; }
+
+img.pointer, span.pointer, div.pointer { cursor:pointer; }
+img.drag_button { margin-right:8px; }
+li.groupItems input, li.groupItems select { margin-right:4px; }
+
+#iBDRules ul { list-style-type:none; }
+#iBDRules li.groupItems img.rmSortHandle { cursor:move; }
+#dragHelper { z-index: 4500;  text-align:left; }
+#dragHelper ul li.cbItem { padding:2px; }
+#dragHelper ul li {
+  clear:both;
+  min-height:32px;
+  list-style-image:none;
+  list-style-position:outside;
+  list-style-type:none;
+  margin:4px;
+  padding:0px;
+  width:auto;
+}
+.helper {
+  -moz-border-radius:4px;
+  -webkit-border-radius:4px;
+  -khtml-border-radius:4px;
+  border-radius:4px;
+  border:2px dashed #777777;
+  margin:4px 4px 4px 12px;
+}
+
+#iTagList { list-style-type:none; padding:0px; margin:0px; }
+span.tagName {
+  border-right:1px dotted #666666;
+  display:inline-block;
+  margin-right:2px;
+  padding:2px 0 1px;
+  width:240px;
+}
+
+#iTagList li { padding: 0px 2px; }
+#iTagList.clear li:hover { cursor:pointer; color: #D54E21; background:#dbe8f3; }
+#iTagList.roma li:hover { cursor:pointer; background:#303030; }
+#iTagList.selectedroma { background:#303030; }
+#iTagList.selectedclear { background:#dbe8f3; }
+.ruleTypeM, .ruleTypeM2 {
+  border:1px solid #666666;
+  display:inline-block;
+  padding:0 2px 0;
+}
+div.ruleTypeM { width:493px; }
+div.ruleTypeM2 { width:400px; }
+div.ruleSelector {
+  float:left;
+  width:150px;
+}
+div.ruleProperties {
+  padding-top:2px;
+}
+.error, input.error {
+  background:#FFAAAA;
+  border:1px solid #800000;
+  color:#800000;
+}
+ul.error {
+  min-height:30px;
+  -moz-border-radius:8px;
+  -webkit-border-radius:8px;
+  -khtml-border-radius:8px;
+  border-radius:8px;
+}
+
+table.mdInfo {
+  width:100%;
+  text-align:left;
+}
+table.mdInfo tr {
+  vertical-align:top;
+}
+table.mdInfo tr td ul {
+  margin:0px;
+}
+span.mdInfo {
+  width:100px;
+  display:inline-block;
+  font-weight:bold;
+}
+
+#mdRulesAreaCheckOne,
+#mdRulesAreaCheckAll {
+  margin:3px;
+  text-align:left;
+}
+
+
+li.valueItems {
+  -moz-border-radius:4px 4px 4px 4px;
+  border:1px solid #666666;
+  margin-bottom:5px;
+  padding:4px;
+}
+
+#iDMCListValues {
+  list-style:none;
+  margin:8px;
+  padding:0;
+}

@@ -1,0 +1,1 @@
+Whois Online je monitorovací nástroj, ktorý ukazuje v reálnom čase aktivitu (mimo aktivácie histórie a konfiguračných možností).

@@ -1,0 +1,1 @@
+Le permite ajustar automáticamente la pantalla dependiendo de la ventana del navegador.

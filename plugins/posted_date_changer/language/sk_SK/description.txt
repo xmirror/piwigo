@@ -1,0 +1,1 @@
+Zmena dostupného dátumu fotografií v dávkovom správcovi.

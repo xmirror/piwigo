@@ -1,0 +1,1 @@
+Es erlaubt der Ausschluss von einer IP oder IP-Bereich der Geschichte und der Blacklist sie für die Aufnahme

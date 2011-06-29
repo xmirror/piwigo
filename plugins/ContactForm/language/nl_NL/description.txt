@@ -1,0 +1,1 @@
+Voeg een "Contact" item aan het menu blok, om een contactformulier aan de bezoekers te tonen

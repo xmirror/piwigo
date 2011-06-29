@@ -1,0 +1,31 @@
+H2.confmail
+{
+  text-align: center;
+  font-size: large;
+  color: orange;
+}
+
+/**
+ * Informations box
+ */
+.errors, .infos{
+  margin: 5px;
+  padding: 50px 50px 10px 10px;
+  font-weight:bold;
+  background-repeat: no-repeat;
+  background-position: 5px 5px;
+  padding:15px 60px 0pt 60px;
+  min-height: 54px;
+}
+
+.errors {
+  color: #f22;
+  background-color: #ffd5dc;
+  background-image: url(icon/errors.png);
+}
+
+.infos {
+  color: #0a0;
+  background-color:#c2f5c2;
+  background-image: url(icon/infos.png);
+}

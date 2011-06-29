@@ -1,0 +1,1 @@
+Permet d'ajuster automatiquement l'affichage en fonction de la fenêtre de l'explorateur.

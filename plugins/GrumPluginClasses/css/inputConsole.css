@@ -1,0 +1,28 @@
+/* for inputConsole plugin */
+.ui-inputConsole {
+  padding:0px;
+}
+.ui-inputConsole-input {
+  width:100%;
+}
+.ui-inputConsole-prompt {
+  display:inline-block;
+  margin:0;
+  padding:0 4px;
+}
+.ui-inputConsole input[type='text'] {
+  border:none;
+  background:transparent;
+  display:inline-block;
+  padding-right:2px;
+}
+.ui-inputConsole-history ul {
+  margin:0px;
+  padding:0 0 0 20px;
+}
+.ui-inputConsole-history {
+  overflow:auto;
+  border:1px solid;
+  border-bottom:1px dotted;
+  position:absolute;
+}

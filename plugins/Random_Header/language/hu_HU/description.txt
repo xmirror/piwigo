@@ -1,0 +1,1 @@
+A bővítmény lehetővé teszi, hogy egy kiválasztott kategóriából véletlenszerűen képet jelenítsen meg a fejlécben akár normál képként, akár háttérként.

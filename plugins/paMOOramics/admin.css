@@ -1,0 +1,18 @@
+#paMOOfieldset {
+	background: url('moo.jpg') bottom left no-repeat;
+}
+#colorpicker{
+	float:right;
+	margin-left:10px;
+}
+
+.paMOOlabel{
+	text-align:right;
+}
+
+.paMOOfield{
+	width:60px;
+}
+#paMOOtable{
+	margin-right:0;
+}

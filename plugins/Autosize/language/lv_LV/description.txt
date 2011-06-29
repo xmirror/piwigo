@@ -1,0 +1,1 @@
+Ļauj automātiski mainīt eksplorerī attēlojamā loga izmērus.

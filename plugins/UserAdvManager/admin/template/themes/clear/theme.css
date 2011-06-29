@@ -1,0 +1,40 @@
+/* Bloc expand-collapse instructions */
+.instructionBlock
+{
+  border: 1px solid #999;
+  margin: 5px;
+  overflow: hidden;
+}
+
+.instructionBlockHeaderCollapsed, .instructionBlockHeaderExpanded
+{
+  background-color: #eee;
+  background-position: 15px center;
+  background-repeat: no-repeat;
+  color: #999;
+  cursor: pointer;
+  font-size: 110%;
+  overflow: hidden;
+  padding: 8px 41px;
+  text-align: left;
+}
+
+.instructionBlockHeaderCollapsed span, .instructionBlockHeaderExpanded span
+{
+  border-bottom: none;
+}
+
+.instructionBlockHeaderCollapsed
+{
+  background-image: url(expand.gif);
+}
+
+.instructionBlockHeaderExpanded
+{
+  background-image: url(collapse.gif);
+}
+
+.instructionBlockContent
+{
+  padding: 0 15px 15px;
+}

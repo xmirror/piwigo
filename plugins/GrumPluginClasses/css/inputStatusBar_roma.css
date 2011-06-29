@@ -1,0 +1,10 @@
+/* roma css */
+.ui-inputStatusBar {
+  border:1px solid #666666;
+  color:#999999;
+}
+
+.ui-inputStatusBar td {
+  border-color:#666666;
+  padding:2px;
+}

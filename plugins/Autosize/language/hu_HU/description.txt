@@ -1,0 +1,1 @@
+Automatikusan beállítja a kijelző méretének megfelelően az ablakot

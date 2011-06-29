@@ -1,0 +1,1 @@
+Permite la exclusión de un IP o de una playa de IP de l reseña histórica.

@@ -1,0 +1,1 @@
+Hozzáad egy "Legtöbb hozzászólás" menüpontot a "Speciális összetevők" menühöz.

@@ -1,0 +1,6 @@
+.theme_menuf ul li a.hide, .theme_menuf ul li a:visited.hide {display:none;}
+.theme_menuf ul li a:hover ul li a.hide {display:none;}
+.theme_menuf ul li a:hover ul { display:block; position:absolute; top:-15%; left:-85%; }
+.theme_menuf ul li a:hover ul li a {display:block; }
+.theme_menuf ul li a:hover ul li a ul {visibility:hidden;}
+.theme_menuf ul li a:hover ul li a:hover ul {visibility:visible; position:absolute; left:105px; top:0;}

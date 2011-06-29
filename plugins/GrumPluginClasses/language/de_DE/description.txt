@@ -1,0 +1,1 @@
+Klassen, die von anderen Erweiterungen genutzt werden

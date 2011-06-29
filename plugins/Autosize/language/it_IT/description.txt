@@ -1,0 +1,1 @@
+﻿Permette di regolare automaticamente la visualizzazione in funzione della finestra del browser.

@@ -1,0 +1,1 @@
+Общие классы Grum Plugin Classes (GPC)

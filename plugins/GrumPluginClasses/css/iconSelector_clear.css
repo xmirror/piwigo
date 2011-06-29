@@ -1,0 +1,27 @@
+/* for iconSelector plugin */
+.ui-icon-selector {
+  background:none no-repeat scroll 2px 2px;
+  padding:2px;
+}
+.ui-icon-selector-icon {
+  background: none no-repeat scroll 2px 2px;
+  padding:2px;
+  float:left;
+}
+
+/* clear css */
+.ui-icon-selector {
+  background-color:#DDDDDD;
+  border:1px solid #999999;
+}
+.ui-icon-selector-list {
+  background-color:#DDDDDD;
+  border:1px solid #999999;
+  margin-top:-1px;
+}
+.ui-icon-selector-list li.ui-icon-selector-icon:hover {
+  background-color:#999999;
+}
+.ui-icon-selector-list li.ui-icon-selector-selected-icon {
+  background-color:#AAAAAA;
+}

@@ -1,0 +1,64 @@
+  
+/* jQuery ui resizable */
+.ui-resizable { position: relative; }
+.ui-wrapper { border: 0; }
+.ui-wrapper input, .ui-wrapper textarea { border: 0; }
+
+/* Global handle styles */
+.ui-resizable-handle { position: absolute; display: none; font-size: 0.1px; }
+.ui-resizable .ui-resizable-handle { display: block; }
+body .ui-resizable-disabled .ui-resizable-handle { display: none; } /* use 'body' to make it more specific (css order) */
+body .ui-resizable-autohide .ui-resizable-handle { display: none; } /* use 'body' to make it more specific (css order) */
+.ui-resizable-n { cursor: n-resize; height: 6px; width: 100%; top: 0px; left: 0px; background: transparent url(images/resizable-n.gif) no-repeat scroll center top; }
+.ui-resizable-s { cursor: s-resize; height: 6px; width: 100%; bottom: 0px; left: 0px; background: transparent url(images/resizable-s.gif) no-repeat scroll center top; }
+.ui-resizable-e { cursor: e-resize; width: 6px; right: 0px; top: 0px; height: 100%; background: transparent url(images/resizable-e.gif) no-repeat scroll right center; }
+.ui-resizable-w { cursor: w-resize; width: 6px; left: 0px; top: 0px; height: 100%; background: transparent url(images/resizable-w.gif) no-repeat scroll right center; }
+.ui-resizable-se { cursor: se-resize; width: 9px; height: 9px; right: 0px; bottom: 0px; background: transparent url(images/resizable-se.gif); }
+.ui-resizable-sw { cursor: sw-resize; width: 9px; height: 9px; left: 0px; bottom: 0px; background: transparent url(images/resizable-sw.gif); }
+.ui-resizable-nw { cursor: nw-resize; width: 9px; height: 9px; left: 0px; top: 0px; background: transparent url(images/resizable-nw.gif); }
+.ui-resizable-ne { cursor: ne-resize; width: 9px; height: 9px; right: 0px; top: 0px; background: transparent url(images/resizable-ne.gif); }
+#theImage {
+    opacity: 0;
+    filter: alpha(opacity:0);
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+body{
+ 
+}
+#the_page{ margin-top:-4px;
+  
+   position:static ;
+  
+}
+#mapPicture{
+top:40% ;
+
+}
+#mapPicture{
+top:40% ;
+
+}
+
+ 
+#theImage {
+
+ 
+}
+#content {   
+ 
+ 
+}
+ #imageContainer {
+ 
+ 
+}
+#navThumbNext, #navThumbPrev{ height:200px;
+
+ 
+}
+.navThumbNextBg{
+ 
+}
+

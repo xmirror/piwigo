@@ -1,0 +1,107 @@
+/* for inputColorPicker plugin */
+.ui-inputColorPicker {
+  min-width:332px;
+  min-height:140px;
+}
+
+.ui-inputColorPicker div.ui-inputColorPicker-dotAreaSV {
+  display:inline-block;
+  float:left;
+  margin:3px;
+}
+.ui-inputColorPicker div.ui-inputColorPicker-dotAreaSV div.ui-inputDotArea {
+  background:url(./../icons/colorSV.png) no-repeat 0 0 #000000;
+}
+.ui-inputColorPicker div.ui-inputColorPicker-dotAreaH {
+  display:inline-block;
+  float:left;
+  margin:3px 6px;
+}
+.ui-inputColorPicker div.ui-inputColorPicker-dotAreaH div.ui-inputDotArea {
+  background:url(./../icons/colorH.png) no-repeat 0 0 transparent;
+}
+
+.ui-inputColorPicker table.ui-inputColorPicker-inputContainer {
+  font-size:10px;
+  display:inline-block;
+  text-align: left;
+}
+
+.ui-inputColorPicker div.ui-inputColorsFB {
+  margin:auto;
+}
+
+.ui-inputColorPicker table.ui-inputColorPicker-inputContainer tr {
+  vertical-align:middle;
+}
+
+.ui-inputColorPicker table.ui-inputColorPicker-inputContainer td.label {
+  text-align:center;
+  width:8px;
+}
+
+.ui-inputColorPicker table.ui-inputColorPicker-inputContainer td.input {
+  width:55px;
+  max-width:55px;
+  padding-right:8px;
+  display:inline-block;
+  min-height:23px;
+}
+
+table.ui-inputColorPicker-inputContainer div.ui-inputNum {
+  height:14px;
+  max-width:55px;
+}
+
+table.ui-inputColorPicker-inputContainer div.ui-inputNum div.ui-slider {
+  position:absolute;
+  margin-left:-1px;
+  border:1px solid;
+  padding-right:12px;
+}
+table.ui-inputColorPicker-inputContainer div.ui-inputNum div.ui-slider-horizontal {
+  height:9px;
+}
+
+table.ui-inputColorPicker-inputContainer div.ui-inputNum a.ui-slider-handle {
+  height:7px;
+  margin-top:0;
+}
+
+.ui-inputNum-btDec, .ui-inputNum-btInc {
+  width:11px;
+  height:11px;
+}
+
+/* --- */
+.ui-inputDialogColor div.ui-inputColorPicker {
+  min-width:346px;
+  min-height:140px;
+}
+.ui-inputDialogColor div.ui-dialog-titlebar {
+  cursor:move;
+}
+.ui-inputDialogColor div.ui-dialog-buttonpane {
+  text-align:left;
+}
+.ui-inputDialogColor div.ui-dialog-buttonpane button {
+  border-style:solid;
+  border-width:1px;
+  cursor:pointer;
+  font-weight:bold;
+  margin-top:1px;
+  text-align:center;
+  display:inline-block;
+}
+.ui-inputDialogColor div.ui-dialog-content {
+  margin:4px;
+}
+.ui-inputDialogColor a.ui-dialog-titlebar-close {
+  display:inline-block;
+  margin:0 4px;
+  outline:none;
+}
+
+div.dialogColor {
+  overflow:hidden;
+}

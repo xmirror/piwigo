@@ -1,0 +1,22 @@
+
+/* roma css */
+table.ui-inputColorPicker-inputContainer div.ui-inputNum div.ui-slider {
+  border-color:#666666;
+}
+
+.ui-inputDialogColor {
+  background:#222222;
+  border:1px solid #666666;
+}
+.ui-inputDialogColor div.ui-dialog-titlebar {
+  background:#666666;
+  color:#222222;
+}
+.ui-inputDialogColor div.ui-dialog-buttonpane button {
+  background:none repeat scroll 0 0 #666666;
+  border-color:#999999 #444444 #444444 #999999;
+  color:#ff3363;
+}
+.ui-inputDialogColor div.ui-dialog-buttonpane button:active {
+  border-color:#444444 #999999 #999999 #444444;
+}

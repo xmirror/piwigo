@@ -1,0 +1,30 @@
+.randomHeader_fieldset legend{color:#ff3363;font-weight:bold;}
+.rh_input{width:335px;}
+
+.black_overlay{
+	display: none;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	z-index:1001;
+	-moz-opacity: 0.8;
+	opacity:.80;
+	filter: alpha(opacity=80);
+}
+ 
+.rhconfpanel {
+	display: none;
+	position: fixed;
+	min-width: 480px;
+	max-width: 71%;
+	top: 25%;
+	left: 25%;
+	padding: 6px;
+	border: 1px solid #444444;
+	background-color: #222222;
+	z-index:1002;
+	overflow: auto;
+}

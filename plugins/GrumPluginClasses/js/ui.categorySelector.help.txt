@@ -1,0 +1,19 @@
+.categorySelector('expand', param) usage
+   param = ':all'       Expand all the categories
+ param = ':all=x'     Expand all the categories with level=x ; other are not
+                       changed
+ param = ':all<x'     Expand all the categories with level<=x ; other are not
+                       changed
+ param = ':all>x'     Expand all the categories with level>=x ; other are not
+                       changed
+ param = ':all+x'     Expand all the categories with level<=x ; other are
+                       collapsed
+ param = 'zzz'        Expand the categories with catId=zzz ; other are not
+                       changed
+ param = 'zzz+'       Expand the categories with catId=zzz ; parent categories
+                       are expanded too, all other are collapsed
+ param = 'zzz<'       Expand the categories with catId=zzz ; parent categories
+                       are expanded too, all other are not changed
+ param = 'zzz>'       Expand the categories with catId=zzz ; childs categories
+                       are expanded too, all other are not changed
+

@@ -1,0 +1,41 @@
+/* clear css */
+
+.ui-inputList,
+.ui-inputList-list {
+  background:#DDDDDD;
+  border:1px solid #999999;
+  color:#666666;
+}
+
+.ui-inputList-arrow {
+  background:none repeat scroll 0 0 #999999;
+  border-color:#DDDDDD #666666 #666666 #DDDDDD;
+  color:#005E89;
+}
+
+.ui-inputList-arrow-active {
+  border-color:#666666 #DDDDDD #DDDDDD #666666;
+}
+
+li.ui-inputList-item:hover {
+  background-color:#AAAAAA;
+  color:#DDDDDD;
+}
+
+.ui-inputList-selected-item {
+  background-color:#999999;
+  color:#DDDDDD;
+}
+
+li.ui-inputList-item div.ui-inputList-check {
+  background-image:url(./../icons/check_notchecked_clear.png);
+}
+li.ui-inputList-selected-item div.ui-inputList-check {
+  background-image:url(./../icons/check_checked_clear.png);
+}
+
+.ui-error, input[type='text'].ui-error {
+  background:#ff8080;
+  border-color:#800000;
+  color:#800000;
+}

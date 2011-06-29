@@ -1,0 +1,1 @@
+Añade un Captcha a la página de registro

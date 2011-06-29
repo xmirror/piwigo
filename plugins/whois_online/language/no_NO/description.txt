@@ -1,0 +1,1 @@
+Whois Online er et monitorerings verktøy som viser nåtids bilde/indeks aktivitet (ut fra dine historikk aktiveringer og konfigurasjon valg).

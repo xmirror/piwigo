@@ -1,0 +1,1 @@
+Klase dijeljene između više pluginova

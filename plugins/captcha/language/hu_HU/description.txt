@@ -1,0 +1,1 @@
+Captcha hozzáadása a regisztrációs űrlaphoz

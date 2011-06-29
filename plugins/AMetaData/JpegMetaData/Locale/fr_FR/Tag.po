@@ -1,0 +1,6460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TagNames\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-10-31 13:10+0100\n"
+"Last-Translator: grum <grum@piwigo.org>\n"
+"Language-Team: grum\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: fr\n"
+"X-Poedit-Country: FR\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. Exif GPS tags / 0x000a (GPSMeasureMode)
+msgid "2-dimensional measurement"
+msgstr "Mesure à 2 dimensions"
+
+#. Pentax specific tags / 0x0009 (Size)
+msgid "2304x1728 or 2592x1944"
+msgstr "2304x1728 ou 2592x1944"
+
+#. Pentax specific tags / 0x0009 (Size)
+msgid "2560x1920 or 2304x1728"
+msgstr "2560x1920 ou 2304x1728"
+
+#. Pentax specific tags / 0x0009 (Size)
+msgid "2816x2212 or 2816x2112"
+msgstr "2816x2212 ou 2816x2112"
+
+#. Canon specific tags / 0x0001.29 (CanonCameraSettings.FlashBits)
+msgid "2nd-curtain sync used"
+msgstr "Synchronisation au second rideau"
+
+#. Exif GPS tags / 0x000a (GPSMeasureMode)
+msgid "3-dimensional measurement"
+msgstr "Mesure à 3 dimensions"
+
+#. Exif & Tiff tags / 0xa301 (SceneType)
+msgid "a directly photographed image"
+msgstr "Image directement photographiée"
+
+#. Pentax specific tags / 0x003f (LensType)
+msgid "A Series Lens"
+msgstr "Objectif à monture K-A"
+
+#. Canon specific tags / 0x0001.29 (CanonCameraSettings.FlashBits)
+msgid "A-TTL"
+msgstr ""
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "action"
+msgstr "Action"
+
+#. [Metadata name] IPTC tags / 0x022a (Action Advised)
+msgid "Action Advised"
+msgstr "Action conseillée"
+
+#. Exif & Tiff tags / 0x8822 (ExposureProgram)
+msgid "action program"
+msgstr "Programme en mode action"
+
+#. [Metadata name] Nikon specific tags / 0x0022 (ActiveD-Lighting)
+msgid "ActiveD-Lighting"
+msgstr ""
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Adelaide"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Adobe Deflate"
+msgstr "Adobe deflate"
+
+#. Exif & Tiff tags / 0xa001 (ColorSpace)
+msgid "Adobe RGB"
+msgstr ""
+
+#. Canon specific tags / 0x0001.33 (CanonCameraSettings.AESetting)
+msgid "AE Lock"
+msgstr "Vérouillage AE"
+
+#. Canon specific tags / 0x0001.33 (CanonCameraSettings.AESetting)
+msgid "AE Lock + Exposure Comp."
+msgstr "Vérouillage AE + compensation d'exposition"
+
+#. [Metadata name] Pentax specific tags / 0x0206 (AEInfo)
+msgid "AEInfo"
+msgstr "Information AE"
+
+#. [Metadata name] Pentax specific tags / 0x0048 (AELock)
+msgid "AELock"
+msgstr "Vérouillage AE"
+
+#. [Metadata name] Pentax specific tags / 0x0209 (AEMeteringSegments)
+msgid "AEMeteringSegments"
+msgstr "Comptage des segments AE"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "aerial view"
+msgstr "Vue aérienne"
+
+#. Canon specific tags / 0x0001.39 (CanonCameraSettings.SpotMeteringMode)
+msgid "AF Point"
+msgstr "Collimateurs AF"
+
+#. Pentax specific tags / 0x000d (Focus)
+msgid "AF-A"
+msgstr ""
+
+#. Pentax specific tags / 0x000d (Focus)
+msgid "AF-C"
+msgstr ""
+
+#. Pentax specific tags / 0x000d (Focus)
+msgid "AF-S"
+msgstr ""
+
+#. [Metadata name] Pentax specific tags / 0x0072 (AFAdjustment)
+msgid "AFAdjustment"
+msgstr "Ajustement AF"
+
+#. [Metadata name] Exif & Tiff tags / 0x8568 (AFCP_IPTC)
+msgid "AFCP_IPTC"
+msgstr ""
+
+#. [Metadata name] Nikon specific tags / 0x0088 (AFInfo)
+#. [Metadata name] Pentax specific tags / 0x021f (AFInfo)
+msgid "AFInfo"
+msgstr "Information AF"
+
+#. [Metadata name] Nikon specific tags / 0x0b70 (AFInfo2)
+msgid "AFInfo2"
+msgstr "Information AF (2)"
+
+#. [Metadata name] Canon specific tags / 0x4013 (AFMicroAdj)
+msgid "AFMicroAdj"
+msgstr "Micro ajustement AF"
+
+#. [Metadata name] Pentax specific tags / 0x000e (AFPoint)
+msgid "AFPoint"
+msgstr "Collimateurs AF"
+
+#. [Metadata name] Pentax specific tags / 0x000f (AFPointsInFocus)
+#. [Metadata name] Pentax specific tags / 0x003c (AFPointsInFocus)
+msgid "AFPointsInFocus"
+msgstr "Collimateurs de mise au point AF"
+
+#. [Metadata name] Canon specific tags / 0x0094 (AFPointsInFocus1D)
+msgid "AFPointsInFocus1D"
+msgstr "Collimateurs de mise au point AF"
+
+#. [Metadata name] Nikon specific tags / 0x00ad (AFResponse)
+msgid "AFResponse"
+msgstr "Réponse AF"
+
+#. [Metadata name] Nikon specific tags / 0x00b9 (AFTune)
+msgid "AFTune"
+msgstr "Paramétrage AF"
+
+#. Canon specific tags / 0x0001.7 (CanonCameraSettings.FocusMode)
+msgid "AI Focus AF"
+msgstr ""
+
+#. Canon specific tags / 0x0001.7 (CanonCameraSettings.FocusMode)
+msgid "AI Servo AF"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Algiers"
+msgstr "Alger"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "All 11 Points"
+msgstr "Les 11 collimateurs"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Amsterdam"
+msgstr ""
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#, fuzzy
+msgid "Anchorage"
+msgstr ""
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Exif & Tiff tags / 0x8822 (ExposureProgram)
+msgid "Aperture Priority"
+msgstr "Priorité à l'ouverture"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Aperture Priority (Off-Auto-Aperture)"
+msgstr "Priorité à l'ouverture (Ouverture automatique OFF)"
+
+#. Canon specific tags / 0x0001.20 (CanonCameraSettings.CanonExposureMode)
+msgid "Aperture-priority AE"
+msgstr "Priorité à l'ouverture, exposition automatique"
+
+#. [Metadata name] Exif & Tiff tags / 0x9202 (ApertureValue)
+#. [Metadata name] XMP tags / exif:ApertureValue (ApertureValue)
+msgid "ApertureValue"
+msgstr "Ouverture"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "AppleSingle (Apple Computer Inc)"
+msgstr ""
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Aquarium"
+msgstr ""
+
+#. [Metadata name] IPTC tags / 0x0178 (ARM Identifier)
+msgid "ARM Identifier"
+msgstr ""
+
+#. [Metadata name] IPTC tags / 0x017a (ARM Version)
+msgid "ARM Version"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x013b (Artist)
+#. [Metadata name] XMP tags / tiff:Artist (Artist)
+msgid "Artist"
+msgstr "Artiste"
+
+#. XMP tags / crs:WhiteBalance
+#. XMP tags / crs:Balance
+msgid "As Shot"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Athens"
+msgstr "Athène"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Auckland"
+msgstr ""
+
+#. [Metadata name] IPTC tags / 0x0299 (Audio Duration)
+msgid "Audio Duration"
+msgstr "Durée audio"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Audio Interchange File Format AIFF (Apple Computer Inc)"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Audio plus Moving Video [*.AVI] (Microsoft)"
+msgstr ""
+
+#. [Metadata name] IPTC tags / 0x0298 (Audio Sampling Resolution)
+msgid "Audio Sampling Resolution"
+msgstr "Résolution de l'échantillonage audio"
+
+#. [Metadata name] IPTC tags / 0x0296 (Audio Type)
+msgid "Audio Type"
+msgstr "Type audio"
+
+#. [Metadata name] IPTC tags / 0x029a (Audion Outcue)
+msgid "Audion Outcue"
+msgstr ""
+
+#. [Metadata name] IPTC tags / 0x0297 (Audion Sampling Rate)
+msgid "Audion Sampling Rate"
+msgstr "Taux d'échantillonnage audio"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Author.Artist
+msgid "Author.Artist"
+msgstr "Artiste"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Author.Comment
+msgid "Author.Comment"
+msgstr "Commentaire"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Author.Copyright
+msgid "Author.Copyright"
+msgstr "Copyright"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Author.ImageTitle
+msgid "Author.ImageTitle"
+msgstr "Titre"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Author.Keywords
+msgid "Author.Keywords"
+msgstr "Mots clefs"
+
+#. Canon specific tags / 0x0001.4 (CanonCameraSettings.CanonFlashMode)
+#. Nikon specific tags / 0x0022 (ActiveD-Lighting)
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+#. XMP tags / crs:WhiteBalance
+#. XMP tags / crs:Balance
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+#. Pentax specific tags / 0x000e (AFPoint)
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+#. Pentax specific tags / 0x0001 (ShootingMode)
+msgid "Auto"
+msgstr "Automatique"
+
+#. Pentax specific tags / 0x001a (WhiteBalanceMode)
+msgid "Auto (Cloudy)"
+msgstr "Automatique (Nuageux)"
+
+#. Pentax specific tags / 0x001a (WhiteBalanceMode)
+msgid "Auto (Daylight)"
+msgstr "Automatique (Lumière du jour)"
+
+#. Pentax specific tags / 0x001a (WhiteBalanceMode)
+msgid "Auto (DaylightFluorescent)"
+msgstr "Automatique (Néon - Lumière du jour)"
+
+#. Pentax specific tags / 0x001a (WhiteBalanceMode)
+msgid "Auto (DaywhiteFluorescent)"
+msgstr "Automatique (Néon - Lumière blanche du jour)"
+
+#. Pentax specific tags / 0x001a (WhiteBalanceMode)
+msgid "Auto (Flash)"
+msgstr "Automatique (Flash)"
+
+#. Pentax specific tags / 0x001a (WhiteBalanceMode)
+msgid "Auto (Shade)"
+msgstr "Automatique (Ombragé)"
+
+#. Pentax specific tags / 0x001a (WhiteBalanceMode)
+msgid "Auto (Tungsten)"
+msgstr "Automatique (Tungstène)"
+
+#. Pentax specific tags / 0x001a (WhiteBalanceMode)
+msgid "Auto (WhiteFluorescent)"
+msgstr "Automatique (Néon - Lumière blanche)"
+
+#. Canon specific tags / 0x0001.19 (CanonCameraSettings.AFPoint)
+#. Canon specific tags / 0x0001.19 (CanonCameraSettings.AFPoint)
+msgid "Auto AF point selection"
+msgstr "Sélection automatique des collimateurs AF"
+
+#. Exif & Tiff tags / 0xa402 (ExposureMode)
+msgid "auto bracket"
+msgstr "Bracketing automatique"
+
+#. Exif & Tiff tags / 0xa402 (ExposureMode)
+msgid "auto exposure"
+msgstr "Exposition automatique"
+
+#. Nikon specific tags / 0x0089 (ShootingMode)
+msgid "Auto ISO"
+msgstr "Sélection automatique des ISO"
+
+#. XMP tags / exif:Mode
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "auto mode"
+msgstr "Mode automatique"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Auto PICT (Landscape)"
+msgstr "Automatique (Paysage)"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Auto PICT (Macro)"
+msgstr "Automatique (Macro)"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Auto PICT (Portrait)"
+msgstr "Automatique (Portrait)"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Auto PICT (Sport)"
+msgstr "Automatique (Sport)"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Auto PICT (Standard)"
+msgstr "Automatique (Standard)"
+
+#. Exif & Tiff tags / 0xa403 (Balance)
+msgid "auto white balance"
+msgstr "Balance des blancs automatique"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. Pentax specific tags / 0x000c (Flash)
+msgid "auto, did not fire"
+msgstr "Automatique, ne s'est pas déclenché"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. Pentax specific tags / 0x000c (Flash)
+msgid "auto, did not fire, red-eye reduction"
+msgstr "Automatique, ne s'est pas déclenché, réduction des yeux rouges activé"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. Pentax specific tags / 0x000c (Flash)
+msgid "auto, fired"
+msgstr "Automatique, déclenché"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. Pentax specific tags / 0x000c (Flash)
+msgid "auto, fired, red-eye reduction"
+msgstr "Automatique, déclenché, réduction des yeux rouges activé"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "auto, fired, red-eye reduction, return detected"
+msgstr "Automatique, déclenché, réduction des yeux rouges activé, avec retour"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "auto, fired, red-eye reduction, return not detected"
+msgstr "Automatique, déclenché, réduction des yeux rouges activé, sans retour"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "auto, fired, return detected"
+msgstr "Automatique, déclenché, avec retour"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "auto, fired, return not detected"
+msgstr "Automatique, déclenché, sans retour"
+
+#. [Metadata name] Pentax specific tags / 0x0018 (AutoBracketing)
+msgid "AutoBracketing"
+msgstr "Bracketing automatique"
+
+#. Pentax specific tags / 0x000e (AFPoint)
+msgid "Automatic Tracking AF"
+msgstr "Suivi automatique AF"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Autumn"
+msgstr "Automne"
+
+#. [Metadata name] XMP tags / aux:Firmware
+msgid "aux:Firmware"
+msgstr "Firmware"
+
+#. [Metadata name] XMP tags / aux:Lens
+msgid "aux:Lens"
+msgstr "Objectif"
+
+#. [Metadata name] XMP tags / aux:LensID
+msgid "aux:LensID"
+msgstr "ID de l'objectif"
+
+#. [Metadata name] XMP tags / aux:LensInfo
+msgid "aux:LensInfo"
+msgstr "Informations sur l'objectif"
+
+#. [Metadata name] XMP tags / aux:SerialNumber
+msgid "aux:SerialNumber"
+msgstr "Numéro de série"
+
+#. [Metadata name] Nikon specific tags / 0x0082 (AuxiliaryLens)
+msgid "AuxiliaryLens"
+msgstr "Objectif auxiliaire"
+
+#. Canon specific tags / 0x0001.17 (CanonCameraSettings.MeteringMode)
+#. Exif & Tiff tags / 0x9207 (MeteringMode)
+msgid "average"
+msgstr "Moyenne"
+
+#. Canon specific tags / 0x0001.9 (CanonCameraSettings.RecordMode)
+msgid "AVI+THM"
+msgstr ""
+
+#. Canon specific tags / 0x0001.40 (CanonCameraSettings.PhotoEffect)
+msgid "B&W"
+msgstr "Noir & Blanc"
+
+#. [Metadata name] XMP tags / exif:Balance (Balance)
+#. [Metadata name] Exif & Tiff tags / 0xa403 (Balance)
+#. [Metadata name] XMP tags / exif:WhiteBalance (Balance)
+msgid "Balance"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Bangkok"
+msgstr ""
+
+#. [Metadata name] Pentax specific tags / 0x0216 (BatteryInfo)
+msgid "BatteryInfo"
+msgstr "Informations sur la batterie"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Beach"
+msgstr "Plage"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Beijing"
+msgstr "Pékin"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Berlin"
+msgstr ""
+
+#. Pentax specific tags / 0x0008 (Quality)
+msgid "Best"
+msgstr "Le meilleur"
+
+#. Pentax specific tags / 0x0008 (Quality)
+msgid "Better"
+msgstr "Meilleur"
+
+#. [Metadata name] XMP tags / tiff:BitsPerSample (BitsPerSample)
+#. [Metadata name] Exif & Tiff tags / 0x0102 (BitsPerSample)
+msgid "BitsPerSample"
+msgstr "Bits par échantillon"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "Black & White"
+msgstr "Noir & Blanc"
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "BlackIsZero"
+msgstr "Le noir est le zéro"
+
+#. [Metadata name] Pentax specific tags / 0x0200 (BlackPoint)
+msgid "BlackPoint"
+msgstr "Point noir"
+
+#. [Metadata name] Pentax specific tags / 0x001b (BlueBalance)
+msgid "BlueBalance"
+msgstr "Balance des bleus"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Blur Reduction"
+msgstr "Réduction du flou"
+
+#. IPTC tags / 0x024b (Object Cycle)
+msgid "both"
+msgstr "Les deux"
+
+#. Pentax specific tags / 0x000e (AFPoint)
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Bottom"
+msgstr "En bas"
+
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+msgid "Bottom-center"
+msgstr "En bas, au centre"
+
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+msgid "Bottom-left"
+msgstr "En bas, à gauche"
+
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+msgid "Bottom-right"
+msgstr "En bas, à droite"
+
+#. Pentax specific tags / 0x004f (ImageTone)
+msgid "Bright"
+msgstr "Brillant"
+
+#. [Metadata name] Exif & Tiff tags / 0x9203 (BrightnessValue)
+#. [Metadata name] XMP tags / exif:BrightnessValue (BrightnessValue)
+msgid "BrightnessValue"
+msgstr "Valeur de la brillance"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Buenos Aires"
+msgstr ""
+
+#. Canon specific tags / 0x0001.29 (CanonCameraSettings.FlashBits)
+msgid "Built-in"
+msgstr "Interne"
+
+#. Canon specific tags / 0x0001.20 (CanonCameraSettings.CanonExposureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Bulb"
+msgstr "Ampoule"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Bulb (Off-Auto-Aperture)"
+msgstr "Ampoule (Ouverture automatique OFF)"
+
+#. Pentax specific tags / 0x0034 (DriveMode)
+msgid "Burst"
+msgstr "Rapide"
+
+#. [Metadata name] IPTC tags / 0x0250 (By-line)
+msgid "By-line"
+msgstr "Photographe"
+
+#. [Metadata name] XMP tags / photoshop:AuthorsPosition (By-line Title)
+#. [Metadata name] IPTC tags / 0x0255 (By-line Title)
+msgid "By-line Title"
+msgstr "Métier du photographe"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Cairo"
+msgstr "Le caire"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Calgary"
+msgstr ""
+
+#. Canon specific tags / 0x0004.18 (CanonShotInfo.ControlMode)
+msgid "Camera Local Control"
+msgstr "Control local de l'appareil"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Camera.Make
+msgid "Camera.Make"
+msgstr "Marque"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Camera.Model
+msgid "Camera.Model"
+msgstr "Modèle"
+
+#. [Metadata name] Pentax specific tags / 0x0215 (CameraInfo)
+msgid "CameraInfo"
+msgstr "Informations sur l'appareil"
+
+#. [Metadata name] Pentax specific tags / 0x0005 (CameraModel)
+msgid "CameraModel"
+msgstr "Modèle"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Candlelight"
+msgstr "Lumière de bougie"
+
+#. [Metadata name] Canon specific tags / 0x0012 (CanonAFInfo)
+msgid "CanonAFInfo"
+msgstr "Information AF Canon"
+
+#. [Metadata name] Canon specific tags / 0x0026 (CanonAFInfo2)
+msgid "CanonAFInfo2"
+msgstr "Information AF Canon (2)"
+
+#. [Metadata name] Canon specific tags / 0x000d (CanonCameraInfo)
+msgid "CanonCameraInfo"
+msgstr "Information sur l'appareil"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.48 (CanonCameraInfo.CameraOrientation)
+#. [Metadata name] Canon specific tags / 0x000d.1DMarkIV.53 (CanonCameraInfo.CameraOrientation)
+msgid "CanonCameraInfo.CameraOrientation"
+msgstr "Orientation de l'appareil"
+
+#. [Metadata name] Canon specific tags / 0x000d.1DMarkIV.25 (CanonCameraInfo.CameraTemperature)
+#. [Metadata name] Canon specific tags / 0x000d.40D.24 (CanonCameraInfo.CameraTemperature)
+msgid "CanonCameraInfo.CameraTemperature"
+msgstr "Température"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.115 (CanonCameraInfo.ColorTemperature)
+msgid "CanonCameraInfo.ColorTemperature"
+msgstr "Température de la couleur"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.319 (CanonCameraInfo.DirectoryIndex)
+msgid "CanonCameraInfo.DirectoryIndex"
+msgstr "Index du répertoire"
+
+#. [Metadata name] Canon specific tags / 0x000d.1DMarkIV.4 (CanonCameraInfo.ExposureTime)
+#. [Metadata name] Canon specific tags / 0x000d.40D.4 (CanonCameraInfo.ExposureTime)
+msgid "CanonCameraInfo.ExposureTime"
+msgstr "Temps d'exposition"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.307 (CanonCameraInfo.FileIndex)
+msgid "CanonCameraInfo.FileIndex"
+msgstr "Index du fichier"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.255 (CanonCameraInfo.FirmwareVersion)
+msgid "CanonCameraInfo.FirmwareVersion"
+msgstr "Version du firmware"
+
+#. [Metadata name] Canon specific tags / 0x000d.1DMarkIV.21 (CanonCameraInfo.FlashMeteringMode)
+#. [Metadata name] Canon specific tags / 0x000d.40D.21 (CanonCameraInfo.FlashMeteringMode)
+msgid "CanonCameraInfo.FlashMeteringMode"
+msgstr "Mode de mesure du flash"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.3 (CanonCameraInfo.FNumber)
+#. [Metadata name] Canon specific tags / 0x000d.1DMarkIV.3 (CanonCameraInfo.FNumber)
+msgid "CanonCameraInfo.FNumber"
+msgstr "Ouverture"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.29 (CanonCameraInfo.FocalLength)
+#. [Metadata name] Canon specific tags / 0x000d.1DMarkIV.30 (CanonCameraInfo.FocalLength)
+msgid "CanonCameraInfo.FocalLength"
+msgstr "Focale"
+
+#. [Metadata name] Canon specific tags / 0x000d.1DMarkIV.86 (CanonCameraInfo.FocusDistanceLower)
+#. [Metadata name] Canon specific tags / 0x000d.40D.69 (CanonCameraInfo.FocusDistanceLower)
+msgid "CanonCameraInfo.FocusDistanceLower"
+msgstr "Distance minimum du focus"
+
+#. [Metadata name] Canon specific tags / 0x000d.1DMarkIV.84 (CanonCameraInfo.FocusDistanceUpper)
+#. [Metadata name] Canon specific tags / 0x000d.40D.67 (CanonCameraInfo.FocusDistanceUpper)
+msgid "CanonCameraInfo.FocusDistanceUpper"
+msgstr "Distance maximum du focus"
+
+#. [Metadata name] Canon specific tags / 0x000d.1DMarkIV.7 (CanonCameraInfo.HighlightTonePriority)
+msgid "CanonCameraInfo.HighlightTonePriority"
+msgstr "Priorité aux hautes lumières"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.6 (CanonCameraInfo.ISO)
+#. [Metadata name] Canon specific tags / 0x000d.1DMarkIV.6 (CanonCameraInfo.ISO)
+msgid "CanonCameraInfo.ISO"
+msgstr "ISO"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.2347 (CanonCameraInfo.LensModel)
+msgid "CanonCameraInfo.LensModel"
+msgstr "Modèle de l'objectif"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.214 (CanonCameraInfo.LensType)
+msgid "CanonCameraInfo.LensType"
+msgstr "Type d'objectif"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.218 (CanonCameraInfo.LongFocal)
+msgid "CanonCameraInfo.LongFocal"
+msgstr "Focale longue"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.27 (CanonCameraInfo.MacroMagnification)
+msgid "CanonCameraInfo.MacroMagnification"
+msgstr "Grossissement macro"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.216 (CanonCameraInfo.ShortFocal)
+msgid "CanonCameraInfo.ShortFocal"
+msgstr "Focale courte"
+
+#. [Metadata name] Canon specific tags / 0x000d.40D.111 (CanonCameraInfo.WhiteBalance)
+msgid "CanonCameraInfo.WhiteBalance"
+msgstr "Balance des blancs"
+
+#. [Metadata name] Canon specific tags / 0x0001 (CanonCameraSettings)
+msgid "CanonCameraSettings"
+msgstr "Paramétrage de l'appareil"
+
+#. [Metadata name] Canon specific tags / 0x0001.33 (CanonCameraSettings.AESetting)
+msgid "CanonCameraSettings.AESetting"
+msgstr "Paramétrage de l'appareil [Exposition Automatique]"
+
+#. [Metadata name] Canon specific tags / 0x0001.19 (CanonCameraSettings.AFPoint)
+msgid "CanonCameraSettings.AFPoint"
+msgstr "Paramétrage de l'appareil [Collimateur AF]"
+
+#. [Metadata name] Canon specific tags / 0x0001.16 (CanonCameraSettings.CameraISO)
+msgid "CanonCameraSettings.CameraISO"
+msgstr "Paramétrage de l'appareil [ISO]"
+
+#. [Metadata name] Canon specific tags / 0x0001.20 (CanonCameraSettings.CanonExposureMode)
+msgid "CanonCameraSettings.CanonExposureMode"
+msgstr "Paramétrage de l'appareil [Mode d'exposition]"
+
+#. [Metadata name] Canon specific tags / 0x0001.4 (CanonCameraSettings.CanonFlashMode)
+msgid "CanonCameraSettings.CanonFlashMode"
+msgstr "Paramétrage de l'appareil [Mode du flash]"
+
+#. [Metadata name] Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+msgid "CanonCameraSettings.CanonImageSize"
+msgstr "Paramétrage de l'appareil [Taille de l'image]"
+
+#. [Metadata name] Canon specific tags / 0x0001.42 (CanonCameraSettings.ColorTone)
+msgid "CanonCameraSettings.ColorTone"
+msgstr "Paramétrage de l'appareil [Couleur tonale]"
+
+#. [Metadata name] Canon specific tags / 0x0001.5 (CanonCameraSettings.ContinuousDrive)
+msgid "CanonCameraSettings.ContinuousDrive"
+msgstr "Paramétrage de l'appareil [Mode continu]"
+
+#. [Metadata name] Canon specific tags / 0x0001.13 (CanonCameraSettings.Contrast)
+msgid "CanonCameraSettings.Contrast"
+msgstr "CParamétrage de l'appareil [Contraste]"
+
+#. [Metadata name] Canon specific tags / 0x0001.12 (CanonCameraSettings.DigitalZoom)
+msgid "CanonCameraSettings.DigitalZoom"
+msgstr "Paramétrage de l'appareil [Zoom numérique]"
+
+#. [Metadata name] Canon specific tags / 0x0001.35 (CanonCameraSettings.DisplayAperture)
+msgid "CanonCameraSettings.DisplayAperture"
+msgstr "Paramétrage de l'appareil [Ouverture]"
+
+#. [Metadata name] Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "CanonCameraSettings.EasyMode"
+msgstr "Paramétrage de l'appareil [Mode facile]"
+
+#. [Metadata name] Canon specific tags / 0x0001.28 (CanonCameraSettings.FlashActivity)
+msgid "CanonCameraSettings.FlashActivity"
+msgstr "Paramétrage de l'appareil [Activité du flash]"
+
+#. [Metadata name] Canon specific tags / 0x0001.29 (CanonCameraSettings.FlashBits)
+#, fuzzy
+msgid "CanonCameraSettings.FlashBits"
+msgstr "Paramétrage de l'appareil [Flash bits]"
+
+#. [Metadata name] Canon specific tags / 0x0001.25 (CanonCameraSettings.FocalUnits)
+#, fuzzy
+msgid "CanonCameraSettings.FocalUnits"
+msgstr "Paramétrage de l'appareil [Unités de la focale]"
+
+#. [Metadata name] Canon specific tags / 0x0001.32 (CanonCameraSettings.FocusContinuous)
+msgid "CanonCameraSettings.FocusContinuous"
+msgstr "Paramétrage de l'appareil [Autofocus continu]"
+
+#. [Metadata name] Canon specific tags / 0x0001.7 (CanonCameraSettings.FocusMode)
+msgid "CanonCameraSettings.FocusMode"
+msgstr "Paramétrage de l'appareil [Mode de mise au point]"
+
+#. [Metadata name] Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+#, fuzzy
+msgid "CanonCameraSettings.FocusRange"
+msgstr "Paramétrage de l'appareil [Focus range]"
+
+#. [Metadata name] Canon specific tags / 0x0001.34 (CanonCameraSettings.ImageStabilization)
+msgid "CanonCameraSettings.ImageStabilization"
+msgstr "Paramétrage de l'appareil [Anti-bougé]"
+
+#. [Metadata name] Canon specific tags / 0x0001.22 (CanonCameraSettings.LensType)
+msgid "CanonCameraSettings.LensType"
+msgstr "Paramétrage de l'appareil [Type d'objectif]"
+
+#. [Metadata name] Canon specific tags / 0x0001.23 (CanonCameraSettings.LongFocal)
+msgid "CanonCameraSettings.LongFocal"
+msgstr "Paramétrage de l'appareil [Focale longue]"
+
+#. [Metadata name] Canon specific tags / 0x0001.1 (CanonCameraSettings.MacroMode)
+msgid "CanonCameraSettings.MacroMode"
+msgstr "Paramétrage de l'appareil [Mode macro]"
+
+#. [Metadata name] Canon specific tags / 0x0001.41 (CanonCameraSettings.ManualFlashOutput)
+#, fuzzy
+msgid "CanonCameraSettings.ManualFlashOutput"
+msgstr "Paramétrage de l'appareil [Manual flash output]"
+
+#. [Metadata name] Canon specific tags / 0x0001.26 (CanonCameraSettings.MaxAperture)
+msgid "CanonCameraSettings.MaxAperture"
+msgstr "Paramétrage de l'appareil [Ouverture maximum]"
+
+#. [Metadata name] Canon specific tags / 0x0001.17 (CanonCameraSettings.MeteringMode)
+msgid "CanonCameraSettings.MeteringMode"
+msgstr "Paramétrage de l'appareil [Mode de mesure]"
+
+#. [Metadata name] Canon specific tags / 0x0001.27 (CanonCameraSettings.MinAperture)
+msgid "CanonCameraSettings.MinAperture"
+msgstr "Paramétrage de l'appareil [Ouverture minimum]"
+
+#. [Metadata name] Canon specific tags / 0x0001.40 (CanonCameraSettings.PhotoEffect)
+msgid "CanonCameraSettings.PhotoEffect"
+msgstr "Paramétrage de l'appareil [Effet]"
+
+#. [Metadata name] Canon specific tags / 0x0001.3 (CanonCameraSettings.Quality)
+msgid "CanonCameraSettings.Quality"
+msgstr "Paramétrage de l'appareil [Qualité]"
+
+#. [Metadata name] Canon specific tags / 0x0001.9 (CanonCameraSettings.RecordMode)
+msgid "CanonCameraSettings.RecordMode"
+msgstr "Paramétrage de l'appareil [Mode d'enregistrement]"
+
+#. [Metadata name] Canon specific tags / 0x0001.14 (CanonCameraSettings.Saturation)
+msgid "CanonCameraSettings.Saturation"
+msgstr "Paramétrage de l'appareil [Saturation]"
+
+#. [Metadata name] Canon specific tags / 0x0001.2 (CanonCameraSettings.SelfTimer)
+msgid "CanonCameraSettings.SelfTimer"
+msgstr "Paramétrage de l'appareil [Retardateur]"
+
+#. [Metadata name] Canon specific tags / 0x0001.15 (CanonCameraSettings.Sharpness)
+msgid "CanonCameraSettings.Sharpness"
+msgstr "Paramétrage de l'appareil [Netteté]"
+
+#. [Metadata name] Canon specific tags / 0x0001.24 (CanonCameraSettings.ShortFocal)
+msgid "CanonCameraSettings.ShortFocal"
+msgstr "Paramétrage de l'appareil [Focale courte]"
+
+#. [Metadata name] Canon specific tags / 0x0001.39 (CanonCameraSettings.SpotMeteringMode)
+msgid "CanonCameraSettings.SpotMeteringMode"
+msgstr "Paramétrage de l'appareil [Mode de mesure spot]"
+
+#. [Metadata name] Canon specific tags / 0x0001.46 (CanonCameraSettings.SRAWQuality)
+msgid "CanonCameraSettings.SRAWQuality"
+msgstr "Paramétrage de l'appareil [Qualité SRAW]"
+
+#. [Metadata name] Canon specific tags / 0x0001.36 (CanonCameraSettings.ZoomSourceWidth)
+#, fuzzy
+msgid "CanonCameraSettings.ZoomSourceWidth"
+msgstr "Paramétrage de l'appareil [Zoom source width]"
+
+#. [Metadata name] Canon specific tags / 0x0001.37 (CanonCameraSettings.ZoomTargetWidth)
+#, fuzzy
+msgid "CanonCameraSettings.ZoomTargetWidth"
+msgstr "Paramétrage de l'appareil [Zoom target width]"
+
+#. [Metadata name] Canon specific tags / 0x0093 (CanonFileInfo)
+msgid "CanonFileInfo"
+msgstr "Informations sur le fichier"
+
+#. [Metadata name] Canon specific tags / 0x000e (CanonFileLength)
+msgid "CanonFileLength"
+msgstr "Poids du fichier"
+
+#. [Metadata name] Canon specific tags / 0x0007 (CanonFirmwareVersion)
+msgid "CanonFirmwareVersion"
+msgstr "Version du firmware"
+
+#. [Metadata name] Canon specific tags / 0x00b0 (CanonFlags)
+msgid "CanonFlags"
+msgstr "Drapeaux"
+
+#. [Metadata name] Canon specific tags / 0x0003 (CanonFlashInfo)
+msgid "CanonFlashInfo"
+msgstr "Informations sur le flash"
+
+#. [Metadata name] Canon specific tags / 0x0002 (CanonFocalLength)
+msgid "CanonFocalLength"
+msgstr "Focale"
+
+#. [Metadata name] Canon specific tags / 0x0006 (CanonImageType)
+msgid "CanonImageType"
+msgstr "Type d'image"
+
+#. [Metadata name] Canon specific tags / 0x0010 (CanonModelID)
+msgid "CanonModelID"
+msgstr "ID du modèle"
+
+#. [Metadata name] Canon specific tags / 0x0005 (CanonPanorama)
+msgid "CanonPanorama"
+msgstr "Panorama"
+
+#. [Metadata name] Canon specific tags / 0x0004 (CanonShotInfo)
+msgid "CanonShotInfo"
+msgstr "Information sur la prise de vue"
+
+#. [Metadata name] Canon specific tags / 0x0004.17 (CanonShotInfo.AEBBracketValue)
+msgid "CanonShotInfo.AEBBracketValue"
+msgstr "Pas du bracketing d'exposition automatique"
+
+#. [Metadata name] Canon specific tags / 0x0004.14 (CanonShotInfo.AFPointsInFocus)
+msgid "CanonShotInfo.AFPointsInFocus"
+msgstr "Collimateurs de mise au point AF"
+
+#. [Metadata name] Canon specific tags / 0x0004.16 (CanonShotInfo.AutoExposureBracketing)
+msgid "CanonShotInfo.AutoExposureBracketing"
+msgstr "Bracketing d'exposition automatique"
+
+#. [Metadata name] Canon specific tags / 0x0004.1 (CanonShotInfo.AutoISO)
+msgid "CanonShotInfo.AutoISO"
+msgstr "Sélection ISO automatique"
+
+#. [Metadata name] Canon specific tags / 0x0004.27 (CanonShotInfo.AutoRotate)
+msgid "CanonShotInfo.AutoRotate"
+msgstr "Rotation automatique"
+
+#. [Metadata name] Canon specific tags / 0x0004.2 (CanonShotInfo.BaseISO)
+msgid "CanonShotInfo.BaseISO"
+msgstr "Base ISO"
+
+#. [Metadata name] Canon specific tags / 0x0004.24 (CanonShotInfo.BulbDuration)
+msgid "CanonShotInfo.BulbDuration"
+msgstr "Durée de l'ampoule"
+
+#. [Metadata name] Canon specific tags / 0x0004.26 (CanonShotInfo.CameraType)
+msgid "CanonShotInfo.CameraType"
+msgstr "Type d'appareil"
+
+#. [Metadata name] Canon specific tags / 0x0004.18 (CanonShotInfo.ControlMode)
+msgid "CanonShotInfo.ControlMode"
+msgstr "Mode de contrôle"
+
+#. [Metadata name] Canon specific tags / 0x0004.6 (CanonShotInfo.ExposureCompensation)
+msgid "CanonShotInfo.ExposureCompensation"
+msgstr "Compensation d'exposition"
+
+#. [Metadata name] Canon specific tags / 0x0004.22 (CanonShotInfo.ExposureTime)
+msgid "CanonShotInfo.ExposureTime"
+msgstr "Temps d'exposition"
+
+#. [Metadata name] Canon specific tags / 0x0004.15 (CanonShotInfo.FlashExposureComp)
+msgid "CanonShotInfo.FlashExposureComp"
+msgstr "Compensation d'exposition du flash"
+
+#. [Metadata name] Canon specific tags / 0x0004.13 (CanonShotInfo.FlashGuideNumber)
+msgid "CanonShotInfo.FlashGuideNumber"
+msgstr "Nombre de guides du flash"
+
+#. [Metadata name] Canon specific tags / 0x0004.33 (CanonShotInfo.FlashOutput)
+msgid "CanonShotInfo.FlashOutput"
+msgstr "Sortie du flash"
+
+#. [Metadata name] Canon specific tags / 0x0004.21 (CanonShotInfo.FNumber)
+msgid "CanonShotInfo.FNumber"
+msgstr "Ouverture"
+
+#. [Metadata name] Canon specific tags / 0x0004.20 (CanonShotInfo.FocusDistanceLower)
+msgid "CanonShotInfo.FocusDistanceLower"
+msgstr "Distance minimum du focus"
+
+#. [Metadata name] Canon specific tags / 0x0004.19 (CanonShotInfo.FocusDistanceUpper)
+msgid "CanonShotInfo.FocusDistanceUpper"
+msgstr "Distance maximum du focus"
+
+#. [Metadata name] Canon specific tags / 0x0004.3 (CanonShotInfo.MeasuredEV)
+msgid "CanonShotInfo.MeasuredEV"
+msgstr "EV mesurée"
+
+#. [Metadata name] Canon specific tags / 0x0004.23 (CanonShotInfo.MeasuredEV2)
+msgid "CanonShotInfo.MeasuredEV2"
+msgstr "EV mesurée (2)"
+
+#. [Metadata name] Canon specific tags / 0x0004.28 (CanonShotInfo.NDFilter)
+msgid "CanonShotInfo.NDFilter"
+msgstr "Filtre"
+
+#. [Metadata name] Canon specific tags / 0x0004.10 (CanonShotInfo.OpticalZoomCode)
+msgid "CanonShotInfo.OpticalZoomCode"
+msgstr "Codification du zoom optique"
+
+#. [Metadata name] Canon specific tags / 0x0004.29 (CanonShotInfo.SelfTimer2)
+msgid "CanonShotInfo.SelfTimer2"
+msgstr "Retardateur (2)"
+
+#. [Metadata name] Canon specific tags / 0x0004.9 (CanonShotInfo.SequenceNumber)
+msgid "CanonShotInfo.SequenceNumber"
+msgstr "Numéro de séquence"
+
+#. [Metadata name] Canon specific tags / 0x0004.8 (CanonShotInfo.SlowShutter)
+msgid "CanonShotInfo.SlowShutter"
+msgstr "Obturation lente"
+
+#. [Metadata name] Canon specific tags / 0x0004.4 (CanonShotInfo.TargetAperture)
+msgid "CanonShotInfo.TargetAperture"
+msgstr "Ouverture cible"
+
+#. [Metadata name] Canon specific tags / 0x0004.5 (CanonShotInfo.TargetExposureTime)
+msgid "CanonShotInfo.TargetExposureTime"
+msgstr "Temps d'exposition cible"
+
+#. [Metadata name] Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "CanonShotInfo.WhiteBalance"
+msgstr "Balance des blancs"
+
+#. [Metadata name] IPTC tags / 0x0278 (Caption/Abstract)
+#. [Metadata name] XMP tags / dc:description (Caption/Abstract)
+msgid "Caption/Abstract"
+msgstr "Légende/Résumé"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Caracus"
+msgstr ""
+
+#. [Metadata name] Canon specific tags / 0x0023 (Categories)
+msgid "Categories"
+msgstr "Catégories"
+
+#. [Metadata name] IPTC tags / 0x020f (Category)
+msgid "Category"
+msgstr "Catégorie"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "CCIRLEW"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "CCITT 1D"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x0109 (CellLength)
+msgid "CellLength"
+msgstr "Hauteur de la cellule"
+
+#. [Metadata name] Exif & Tiff tags / 0x0108 (CellWidth)
+msgid "CellWidth"
+msgstr "Longueur de la cellule"
+
+#. Canon specific tags / 0x0001.39 (CanonCameraSettings.SpotMeteringMode)
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Canon specific tags / 0x0001.19 (CanonCameraSettings.AFPoint)
+#. Pentax specific tags / 0x000e (AFPoint)
+msgid "Center"
+msgstr "Centre"
+
+#. Pentax specific tags / 0x0017 (MeteringMode)
+msgid "Center Weighted"
+msgstr "Centrale pondérée"
+
+#. Canon specific tags / 0x0001.17 (CanonCameraSettings.MeteringMode)
+msgid "center-weighted average"
+msgstr "Centrale pondérée moyenne"
+
+#. Exif & Tiff tags / 0x0213 (YCbCrPositioning)
+msgid "centered"
+msgstr "Centré"
+
+#. Exif & Tiff tags / 0x9207 (MeteringMode)
+msgid "CenterWeightedAverage"
+msgstr "Centrale pondérée moyenne"
+
+#. Exif & Tiff tags / 0xa210 (FocalPlaneResolutionUnit)
+#. XMP tags / crs:CropUnits
+#. Exif & Tiff tags / 0x0128 (ResolutionUnit)
+msgid "centimeters"
+msgstr "Centimètres"
+
+#. [Metadata name] Exif & Tiff tags / 0xa302 (CFAPattern)
+#. [Metadata name] XMP tags / exif:CFAPattern (CFAPattern)
+msgid "CFAPattern"
+msgstr "Motif CFA"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Chicago"
+msgstr ""
+
+#. Exif & Tiff tags / 0x011c (PlanarConfiguration)
+#, fuzzy
+msgid "chunky"
+msgstr "Chunky"
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "CIELab"
+msgstr ""
+
+#. [Metadata name] XMP tags / photoshop:City (City)
+#. [Metadata name] IPTC tags / 0x025a (City)
+msgid "City"
+msgstr "Ville"
+
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+#. Exif & Tiff tags / 0xa40c (SubjectDistanceRange)
+msgid "close"
+msgstr "Rapproché"
+
+#. XMP tags / Iptc4xmpCore:Scene
+#, fuzzy
+msgid "close-up"
+msgstr "Close-up"
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+#. XMP tags / crs:WhiteBalance
+#. XMP tags / crs:Balance
+msgid "Cloudy"
+msgstr "Nuageux"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "cloudy weather"
+msgstr "Nuageux"
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "CMYK"
+msgstr "CMJN"
+
+#. Exif & Tiff tags / 0x0213 (YCbCrPositioning)
+msgid "co-sited"
+msgstr ""
+
+#. [Metadata name] IPTC tags / 0x015a (Coded Character Set)
+msgid "Coded Character Set"
+msgstr "Jeu de caractères"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Colombo"
+msgstr ""
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Color Accent"
+msgstr "Touches de couleur"
+
+#. Pentax specific tags / 0x0032 (ImageProcessing)
+msgid "Color Filter"
+msgstr "Filtre de couleur"
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "Color Filter Array"
+msgstr "Tableau de filtre de couleur"
+
+#. Exif & Tiff tags / 0xa217 (SensingMethod)
+msgid "color sequential area sensor"
+msgstr ""
+
+#. Exif & Tiff tags / 0xa217 (SensingMethod)
+msgid "color sequential linear sensor"
+msgstr ""
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Color Swap"
+msgstr "Remplacement de couleur"
+
+#. [Metadata name] Nikon specific tags / 0x0097 (ColorBalance)
+#. [Metadata name] Canon specific tags / 0x00a9 (ColorBalance)
+msgid "ColorBalance"
+msgstr "Balance des couleurs"
+
+#. [Metadata name] Nikon specific tags / 0x0014 (ColorBalanceA)
+msgid "ColorBalanceA"
+msgstr "Balance des couleurs A"
+
+#. [Metadata name] Canon specific tags / 0x4001 (ColorData)
+msgid "ColorData"
+msgstr "Informations couleurs"
+
+#. [Metadata name] Nikon specific tags / 0x008d (ColorHue)
+msgid "ColorHue"
+msgstr "Teinte"
+
+#. [Metadata name] Pentax specific tags / 0x0222 (ColorInfo)
+#. [Metadata name] Canon specific tags / 0x4003 (ColorInfo)
+msgid "ColorInfo"
+msgstr "Informations couleurs"
+
+#. [Metadata name] Pentax specific tags / 0x0203 (ColorMatrixA)
+msgid "ColorMatrixA"
+msgstr "Matrice de couleurs A"
+
+#. [Metadata name] Pentax specific tags / 0x0204 (ColorMatrixB)
+msgid "ColorMatrixB"
+msgstr "Matrice de couleurs B"
+
+#. [Metadata name] Nikon specific tags / 0x0003 (ColorMode)
+msgid "ColorMode"
+msgstr "Mode de couleur"
+
+#. [Metadata name] Exif & Tiff tags / 0x012c (ColorResponseUnit)
+msgid "ColorResponseUnit"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0xa001 (ColorSpace)
+#. [Metadata name] XMP tags / exif:ColorSpace (ColorSpace)
+#. [Metadata name] Pentax specific tags / 0x0037 (ColorSpace)
+#. [Metadata name] Canon specific tags / 0x00b4 (ColorSpace)
+#. [Metadata name] Nikon specific tags / 0x001e (ColorSpace)
+msgid "ColorSpace"
+msgstr "Espace colorimétrique"
+
+#. [Metadata name] Canon specific tags / 0x00ae (ColorTemperature)
+#. [Metadata name] Pentax specific tags / 0x0050 (ColorTemperature)
+msgid "ColorTemperature"
+msgstr "Température de couleur"
+
+#. Canon specific tags / 0x0004.26 (CanonShotInfo.CameraType)
+msgid "Compact"
+msgstr "APN"
+
+#. [Metadata name] XMP tags / exif:ComponentsConfiguration (ComponentsConfiguration)
+#. [Metadata name] Exif & Tiff tags / 0x9101 (ComponentsConfiguration)
+msgid "ComponentsConfiguration"
+msgstr "Composants de configuration"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Compressed Binary File [*.ZIP] (PKWare Inc)"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x9102 (CompressedBitsPerPixel)
+#. [Metadata name] XMP tags / exif:CompressedBitsPerPixel (CompressedBitsPerPixel)
+msgid "CompressedBitsPerPixel"
+msgstr "Compression de bits par pixel"
+
+#. [Metadata name] Exif & Tiff tags / 0x0103 (Compression)
+#. [Metadata name] XMP tags / tiff:Compression (Compression)
+msgid "Compression"
+msgstr ""
+
+#. XMP tags / exif:Mode
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "compulsory flash firing"
+msgstr "Déclenchement forcé du flash"
+
+#. XMP tags / exif:Mode
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "compulsory flash suppression"
+msgstr "Arrêt forcé du flash"
+
+#. Canon specific tags / 0x0004.18 (CanonShotInfo.ControlMode)
+msgid "Computer Remote Control"
+msgstr "Contrôlé par ordinateur"
+
+#. Exif & Tiff tags / 0x9212 (SecurityClassification)
+msgid "confidential"
+msgstr "Confidentiel"
+
+#. [Metadata name] IPTC tags / 0x090a (Confirmed ObjectData Size)
+msgid "Confirmed ObjectData Size"
+msgstr "Taille confirmée des objets de données"
+
+#. [Metadata name] IPTC tags / 0x0276 (Contact)
+msgid "Contact"
+msgstr ""
+
+#. [Metadata name] IPTC tags / 0x021a (Content Location Code)
+msgid "Content Location Code"
+msgstr ""
+
+#. [Metadata name] IPTC tags / 0x021b (Content Location Name)
+msgid "Content Location Name"
+msgstr ""
+
+#. Pentax specific tags / 0x0034 (DriveMode)
+#. Canon specific tags / 0x0001.32 (CanonCameraSettings.FocusContinuous)
+#. Canon specific tags / 0x0001.7 (CanonCameraSettings.FocusMode)
+#. Nikon specific tags / 0x0089 (ShootingMode)
+#. Canon specific tags / 0x0001.5 (CanonCameraSettings.ContinuousDrive)
+msgid "Continuous"
+msgstr "Continu"
+
+#. Pentax specific tags / 0x0034 (DriveMode)
+msgid "Continuous (Hi)"
+msgstr "Continu (Haut)"
+
+#. Canon specific tags / 0x0001.5 (CanonCameraSettings.ContinuousDrive)
+msgid "Continuous, High"
+msgstr "Continu (Haut)"
+
+#. Canon specific tags / 0x0001.5 (CanonCameraSettings.ContinuousDrive)
+msgid "Continuous, Low"
+msgstr "Continu (Bas)"
+
+#. Canon specific tags / 0x0001.5 (CanonCameraSettings.ContinuousDrive)
+msgid "Continuous, Speed Priority"
+msgstr "Continu (Priorité vitesse)"
+
+#. [Metadata name] Exif & Tiff tags / 0xa408 (Contrast)
+#. [Metadata name] XMP tags / exif:Contrast (Contrast)
+#. [Metadata name] Pentax specific tags / 0x0020 (Contrast)
+msgid "Contrast"
+msgstr "Contraste"
+
+#. [Metadata name] Nikon specific tags / 0x008c (ContrastCurve)
+msgid "ContrastCurve"
+msgstr "Courbe de contraste"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "cool white fluorescent (W 3900 - 4500K)"
+msgstr "Néon - Lumière blanche froide (W 3900 - 4500K)"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Copenhagen"
+msgstr "Copenhage"
+
+#. [Metadata name] Exif & Tiff tags / 0x8298 (Copyright)
+msgid "Copyright"
+msgstr ""
+
+#. [Metadata name] XMP tags / dc:rights (Copyright Notice)
+#. [Metadata name] IPTC tags / 0x0274 (Copyright Notice)
+msgid "Copyright Notice"
+msgstr "Copyright"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Corel Draw [*.CDR]"
+msgstr ""
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:CountryCode (Country/Primary Location Code)
+#. [Metadata name] IPTC tags / 0x0264 (Country/Primary Location Code)
+msgid "Country/Primary Location Code"
+msgstr "Pays/Code ISO"
+
+#. [Metadata name] XMP tags / photoshop:Country (Country/Primary Location Name)
+#. [Metadata name] IPTC tags / 0x0265 (Country/Primary Location Name)
+msgid "Country/Primary Location Name"
+msgstr "Pays/Nom"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "couple"
+msgstr "Couple"
+
+#. [Metadata name] Pentax specific tags / 0x0028 (CPUFirmwareVersion)
+msgid "CPUFirmwareVersion"
+msgstr "Version du firmware CPU"
+
+#. Canon specific tags / 0x0001.9 (CanonCameraSettings.RecordMode)
+msgid "CR2"
+msgstr ""
+
+#. Canon specific tags / 0x0001.9 (CanonCameraSettings.RecordMode)
+msgid "CR2+JPEG"
+msgstr ""
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Creative Auto"
+msgstr "Creatif automatique"
+
+#. Exif & Tiff tags / 0x8822 (ExposureProgram)
+msgid "creative program"
+msgstr "Creatif"
+
+#. [Metadata name] XMP tags / photoshop:Credit (Credit)
+#. [Metadata name] IPTC tags / 0x026e (Credit)
+msgid "Credit"
+msgstr "Crédits"
+
+#. [Metadata name] Nikon specific tags / 0x001b (CropHiSpeed)
+#, fuzzy
+msgid "CropHiSpeed"
+msgstr "Crop HiSpeed"
+
+#. Pentax specific tags / 0x0032 (ImageProcessing)
+msgid "Cropped"
+msgstr "Découpé"
+
+#. [Metadata name] XMP tags / crs:AutoBrightness
+msgid "crs:AutoBrightness"
+msgstr "Brillance automatique"
+
+#. [Metadata name] XMP tags / crs:AutoContrast
+msgid "crs:AutoContrast"
+msgstr "Contraste automatique"
+
+#. [Metadata name] XMP tags / crs:AutoExposure
+msgid "crs:AutoExposure"
+msgstr "Exposition automatique"
+
+#. [Metadata name] XMP tags / crs:AutoShadows
+msgid "crs:AutoShadows"
+msgstr "Ombres automatiques"
+
+#. [Metadata name] XMP tags / crs:Balance
+msgid "crs:Balance"
+msgstr "Balance"
+
+#. [Metadata name] XMP tags / crs:BlueHue
+msgid "crs:BlueHue"
+msgstr "Teinte bleue"
+
+#. [Metadata name] XMP tags / crs:BlueSaturation
+msgid "crs:BlueSaturation"
+msgstr "Saturation des bleus"
+
+#. [Metadata name] XMP tags / crs:Brightness
+msgid "crs:Brightness"
+msgstr "Brillance"
+
+#. [Metadata name] XMP tags / crs:CameraProfile
+msgid "crs:CameraProfile"
+msgstr "Profil de l'appareil"
+
+#. [Metadata name] XMP tags / crs:ChromaticAberrationB
+msgid "crs:ChromaticAberrationB"
+msgstr "Aberrations chromatiques bleues"
+
+#. [Metadata name] XMP tags / crs:ChromaticAberrationR
+msgid "crs:ChromaticAberrationR"
+msgstr "Aberrations chromatiques rouges"
+
+#. [Metadata name] XMP tags / crs:ColorNoiseReduction
+msgid "crs:ColorNoiseReduction"
+msgstr "Réduction du bruit coloré"
+
+#. [Metadata name] XMP tags / crs:Contrast
+msgid "crs:Contrast"
+msgstr "Contraste"
+
+#. [Metadata name] XMP tags / crs:CropAngle
+msgid "crs:CropAngle"
+msgstr "Angle de découpe"
+
+#. [Metadata name] XMP tags / crs:CropBottom
+msgid "crs:CropBottom"
+msgstr "Découpe basse"
+
+#. [Metadata name] XMP tags / crs:CropHeight
+msgid "crs:CropHeight"
+msgstr "Hauteur de la découpe"
+
+#. [Metadata name] XMP tags / crs:CropLeft
+msgid "crs:CropLeft"
+msgstr "Découpe gauche"
+
+#. [Metadata name] XMP tags / crs:CropRight
+msgid "crs:CropRight"
+msgstr "Découpe droite"
+
+#. [Metadata name] XMP tags / crs:CropTop
+msgid "crs:CropTop"
+msgstr "Découpe haute"
+
+#. [Metadata name] XMP tags / crs:CropUnits
+msgid "crs:CropUnits"
+msgstr "Unités de découpe"
+
+#. [Metadata name] XMP tags / crs:CropWidth
+msgid "crs:CropWidth"
+msgstr "Largeur de la découpe"
+
+#. [Metadata name] XMP tags / crs:Exposure
+msgid "crs:Exposure"
+msgstr "Exposition"
+
+#. [Metadata name] XMP tags / crs:GreenHue
+msgid "crs:GreenHue"
+msgstr "Teinte verte"
+
+#. [Metadata name] XMP tags / crs:GreenSaturation
+msgid "crs:GreenSaturation"
+msgstr "Saturation des verts"
+
+#. [Metadata name] XMP tags / crs:HasCrop
+msgid "crs:HasCrop"
+msgstr "Est découpé"
+
+#. [Metadata name] XMP tags / crs:HasSettings
+msgid "crs:HasSettings"
+msgstr "Est paramétré"
+
+#. [Metadata name] XMP tags / crs:LuminanceSmoothing
+msgid "crs:LuminanceSmoothing"
+msgstr "Adoucissement de la luminance"
+
+#. [Metadata name] XMP tags / crs:RawFileName
+msgid "crs:RawFileName"
+msgstr "Nom fichier Raw"
+
+#. [Metadata name] XMP tags / crs:RedHue
+msgid "crs:RedHue"
+msgstr "Teinte rouge"
+
+#. [Metadata name] XMP tags / crs:RedSaturation
+msgid "crs:RedSaturation"
+msgstr "Saturation des rouges"
+
+#. [Metadata name] XMP tags / crs:Saturation
+msgid "crs:Saturation"
+msgstr "Saturation"
+
+#. [Metadata name] XMP tags / crs:Shadows
+msgid "crs:Shadows"
+msgstr "Ombres"
+
+#. [Metadata name] XMP tags / crs:ShadowTint
+msgid "crs:ShadowTint"
+msgstr "Teinte des ombres"
+
+#. [Metadata name] XMP tags / crs:Sharpness
+msgid "crs:Sharpness"
+msgstr "Netteté"
+
+#. [Metadata name] XMP tags / crs:Temperature
+msgid "crs:Temperature"
+msgstr "Température"
+
+#. [Metadata name] XMP tags / crs:Tint
+msgid "crs:Tint"
+msgstr "Teinte"
+
+#. [Metadata name] XMP tags / crs:ToneCurve
+msgid "crs:ToneCurve"
+msgstr "Courbe de tonalité"
+
+#. [Metadata name] XMP tags / crs:ToneCurveName
+msgid "crs:ToneCurveName"
+msgstr "Nom de la courbe de tonalité"
+
+#. [Metadata name] XMP tags / crs:Version
+msgid "crs:Version"
+msgstr "Version"
+
+#. [Metadata name] XMP tags / crs:VignetteAmount
+msgid "crs:VignetteAmount"
+msgstr "Vignette, seuil"
+
+#. [Metadata name] XMP tags / crs:VignetteMidpoint
+msgid "crs:VignetteMidpoint"
+msgstr "Vignette, point médian"
+
+#. [Metadata name] XMP tags / crs:WhiteBalance
+msgid "crs:WhiteBalance"
+msgstr "Balance des blancs"
+
+#. Canon specific tags / 0x0001.9 (CanonCameraSettings.RecordMode)
+msgid "CRW+THM"
+msgstr ""
+
+#. XMP tags / crs:Balance
+#. Canon specific tags / 0x0001.40 (CanonCameraSettings.PhotoEffect)
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+#. XMP tags / crs:ToneCurveName
+#. XMP tags / crs:WhiteBalance
+msgid "Custom"
+msgstr "Personnalisé"
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "Custom 1"
+msgstr "Personnalisé 1"
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "Custom 2"
+msgstr "Personnalisé 2"
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "Custom 3"
+msgstr "Personnalisé 3"
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "Custom 4"
+msgstr "Personnalisé 4"
+
+#. Exif & Tiff tags / 0xa401 (CustomRendered)
+msgid "custom process"
+msgstr "Processus de personnalisation"
+
+#. [Metadata name] Canon specific tags / 0x000f (CustomFunctions)
+msgid "CustomFunctions"
+msgstr "Fonctions de personnalisation"
+
+#. [Metadata name] Canon specific tags / 0x0090 (CustomFunctions1D)
+msgid "CustomFunctions1D"
+msgstr "Fonctions de personnalisation 1D"
+
+#. [Metadata name] Canon specific tags / 0x0099 (CustomFunctions2)
+msgid "CustomFunctions2"
+msgstr "Fonctions de personnalisation 2"
+
+#. [Metadata name] Exif & Tiff tags / 0xa401 (CustomRendered)
+#. [Metadata name] XMP tags / exif:CustomRendered (CustomRendered)
+msgid "CustomRendered"
+msgstr "Processus de personnalisation"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "D50"
+msgstr ""
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "D55"
+msgstr ""
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "D65"
+msgstr ""
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "D75"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Dacca"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Dakar"
+msgstr ""
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Dark Pet"
+msgstr "Animal sombre"
+
+#. [Metadata name] Nikon specific tags / 0x0010 (DataDump)
+#. [Metadata name] Pentax specific tags / 0x03fe (DataDump)
+msgid "DataDump"
+msgstr "Déchargement des données"
+
+#. [Metadata name] Pentax specific tags / 0x0006 (Date)
+msgid "Date"
+msgstr ""
+
+#. [Metadata name] IPTC tags / 0x0237 (Date Created)
+#. [Metadata name] XMP tags / Iptc4xmpCore:DateCreated (Date Created)
+msgid "Date Created"
+msgstr "Date de création"
+
+#. [Metadata name] IPTC tags / 0x0146 (Date Sent)
+msgid "Date Sent"
+msgstr "Date d'envoi"
+
+#. [Metadata name] Canon specific tags / 0x001c (DateStampMode)
+msgid "DateStampMode"
+msgstr "Mode d'horodatage"
+
+#. [Metadata name] Exif & Tiff tags / 0x0132 (DateTime)
+#. [Metadata name] XMP tags / tiff:DateTime (DateTime)
+msgid "DateTime"
+msgstr "Date/Heure"
+
+#. [Metadata name] Exif & Tiff tags / 0x9004 (DateTimeDigitized)
+#. [Metadata name] XMP tags / exif:DateTimeDigitized (DateTimeDigitized)
+msgid "DateTimeDigitized"
+msgstr "Date/Heure de numérisation"
+
+#. [Metadata name] Exif & Tiff tags / 0x9003 (DateTimeOriginal)
+#. [Metadata name] XMP tags / exif:DateTimeOriginal (DateTimeOriginal)
+msgid "DateTimeOriginal"
+msgstr "Date/Heure originale"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "day white fluorescent (N 4600 - 5400K)"
+msgstr "Néon - Lumière blanche du jour (N 4600 - 5400K)"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+#. XMP tags / crs:WhiteBalance
+#. XMP tags / crs:Balance
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+msgid "Daylight"
+msgstr "Lumière du jour"
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "Daylight Fluorescent"
+msgstr "Néon - Lumière du jour"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "daylight fluorescent (D 5700 - 7100K)"
+msgstr "Néon - Lumière du jour (D 5700 - 7100K)"
+
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+msgid "DaylightFluorescent"
+msgstr "Néon - Lumière du jour"
+
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+msgid "DaywhiteFluorescent"
+msgstr "Néon - Lumière blanche du jour"
+
+#. [Metadata name] XMP tags / dc:contributor
+msgid "dc:contributor"
+msgstr "Collaborateur"
+
+#. [Metadata name] XMP tags / dc:coverage
+msgid "dc:coverage"
+msgstr "Couverture"
+
+#. [Metadata name] XMP tags / dc:creator
+msgid "dc:creator"
+msgstr "Créateur"
+
+#. [Metadata name] XMP tags / dc:CreatorTool
+msgid "dc:CreatorTool"
+msgstr "Outil de création"
+
+#. [Metadata name] XMP tags / dc:date
+msgid "dc:date"
+msgstr "Date"
+
+#. [Metadata name] XMP tags / dc:description
+msgid "dc:description"
+msgstr "Légende/Résumé"
+
+#. [Metadata name] XMP tags / dc:format
+msgid "dc:format"
+msgstr "Format"
+
+#. [Metadata name] XMP tags / dc:identifier
+msgid "dc:identifier"
+msgstr "Identifiant"
+
+#. [Metadata name] XMP tags / dc:language
+msgid "dc:language"
+msgstr "Langue"
+
+#. [Metadata name] XMP tags / dc:publisher
+msgid "dc:publisher"
+msgstr "Editeur"
+
+#. [Metadata name] XMP tags / dc:relation
+msgid "dc:relation"
+msgstr "Relation"
+
+#. [Metadata name] XMP tags / dc:rights
+msgid "dc:rights"
+msgstr "Copyright"
+
+#. [Metadata name] XMP tags / dc:source
+msgid "dc:source"
+msgstr "Source"
+
+#. [Metadata name] XMP tags / dc:subject
+msgid "dc:subject"
+msgstr "Mots clefs/Sujet"
+
+#. [Metadata name] XMP tags / dc:title
+msgid "dc:title"
+msgstr "Titre/Objet"
+
+#. [Metadata name] XMP tags / dc:Type
+msgid "dc:Type"
+msgstr "Type"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "DCS"
+msgstr ""
+
+#. Canon specific tags / 0x0001.17 (CanonCameraSettings.MeteringMode)
+msgid "default"
+msgstr "Défaut"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Deflate"
+msgstr ""
+
+#. Nikon specific tags / 0x0089 (ShootingMode)
+msgid "Delay"
+msgstr "Délai"
+
+#. [Metadata name] Nikon specific tags / 0x00a6 (DeletedImageCount)
+msgid "DeletedImageCount"
+msgstr "Nombre d'images supprimées"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Delhi"
+msgstr ""
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Denver"
+msgstr ""
+
+#. Canon specific tags / 0x0001.20 (CanonCameraSettings.CanonExposureMode)
+msgid "Depth-of-field AE"
+msgstr "Profondeur de champ de l'exposition automatique"
+
+#. [Metadata name] IPTC tags / 0x0105 (Destination)
+#. Pentax specific tags / 0x0022 (WorldTimeLocation)
+msgid "Destination"
+msgstr ""
+
+#. [Metadata name] Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "DestinationCityName"
+msgstr "Ville de destination"
+
+#. [Metadata name] Pentax specific tags / 0x0026 (DestinationDST)
+msgid "DestinationDST"
+msgstr "Destination DST"
+
+#. [Metadata name] Exif & Tiff tags / 0xa40b (DeviceSettingDescription)
+#. [Metadata name] XMP tags / exif:DeviceSettingDescription (DeviceSettingDescription)
+msgid "DeviceSettingDescription"
+msgstr "Description des paramètres de l'appareil"
+
+#. Nikon specific tags / 0x0087 (FlashMode)
+#. Canon specific tags / 0x0001.28 (CanonCameraSettings.FlashActivity)
+msgid "Did not fire"
+msgstr "Ne s'est pas déclenché'"
+
+#. Exif GPS tags / 0x001e (GPSDifferential)
+msgid "differential correction applied"
+msgstr "Correction différentielle appliquée"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Digital Audio File [*.WAV] (Microsoft & Creative Labs)"
+msgstr ""
+
+#. [Metadata name] IPTC tags / 0x023e (Digital Creation Date)
+msgid "Digital Creation Date"
+msgstr "Date de création numérique"
+
+#. [Metadata name] IPTC tags / 0x023f (Digital Creation Time)
+msgid "Digital Creation Time"
+msgstr "Heure de création numérique"
+
+#. Pentax specific tags / 0x0032 (ImageProcessing)
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Digital Filter"
+msgstr "Filtre numérique"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Digital Filter?"
+msgstr "Filtre numérique"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Digital Macro"
+msgstr "Macro numérique"
+
+#. [Metadata name] Pentax specific tags / 0x0041 (DigitalFilter)
+msgid "DigitalFilter"
+msgstr "Filtre numérique"
+
+#. [Metadata name] Pentax specific tags / 0x001e (DigitalZoom)
+#. [Metadata name] Nikon specific tags / 0x0086 (DigitalZoom)
+msgid "DigitalZoom"
+msgstr "Zoom numérique"
+
+#. [Metadata name] XMP tags / exif:DigitalZoomRatio (DigitalZoomRatio)
+#. [Metadata name] Exif & Tiff tags / 0xa404 (DigitalZoomRatio)
+msgid "DigitalZoomRatio"
+msgstr "Rapport du zoom numérique"
+
+#. Exif & Tiff tags / 0xa40c (SubjectDistanceRange)
+msgid "distant"
+msgstr "Distance"
+
+#. [Metadata name] Nikon specific tags / 0x002b (DistortInfo)
+msgid "DistortInfo"
+msgstr "Information sur la distortion"
+
+#. [Metadata name] Exif & Tiff tags / 0x010d (DocumentName)
+msgid "DocumentName"
+msgstr "Nom du document"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "DOF Program"
+msgstr "Profondeur de champ"
+
+#. [Metadata name] Pentax specific tags / 0x0034 (DriveMode)
+msgid "DriveMode"
+msgstr "Mode de pilotage"
+
+#. Exif & Tiff tags / 0xa300 (FileSource)
+msgid "DSC"
+msgstr ""
+
+#. [Metadata name] Pentax specific tags / 0x0027 (DSPFirmwareVersion)
+msgid "DSPFirmwareVersion"
+msgstr "Version du firmware DSP"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Dubai"
+msgstr ""
+
+#. [Metadata name] Canon specific tags / 0x0097 (DustRemovalData)
+msgid "DustRemovalData"
+msgstr "Dépoussiérage des données"
+
+#. Canon specific tags / 0x0004.26 (CanonShotInfo.CameraType)
+msgid "DV Camera"
+msgstr "Appareil DV"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Dynamic Area"
+msgstr "Zone dynamique"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Dynamic Area (closest subject)"
+msgstr "Zone dynamique (sujet le plus proche)"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Dynamic Area (wide)"
+msgstr "Zone dynamique (large)"
+
+#. [Metadata name] Pentax specific tags / 0x0069 (DynamicRangeExpansion)
+msgid "DynamicRangeExpansion"
+msgstr "Gamme dynamique d'expansion"
+
+#. Canon specific tags / 0x0001.29 (CanonCameraSettings.FlashBits)
+#. Canon specific tags / 0x000d.40D.21 (CanonCameraInfo.FlashMeteringMode)
+#. Canon specific tags / 0x000d.1DMarkIV.21 (CanonCameraInfo.FlashMeteringMode)
+msgid "E-TTL"
+msgstr ""
+
+#. Exif GPS tags / 0x0015 (GPSDestLongitudeRef)
+#. Exif GPS tags / 0x0003 (GPSLongitudeRef)
+msgid "East"
+msgstr "Est"
+
+#. Canon specific tags / 0x0001.20 (CanonCameraSettings.CanonExposureMode)
+msgid "Easy"
+msgstr "Facile"
+
+#. Canon specific tags / 0x0001.3 (CanonCameraSettings.Quality)
+msgid "Economy"
+msgstr "Economie"
+
+#. [Metadata name] IPTC tags / 0x0207 (Edit Status)
+msgid "Edit Status"
+msgstr "Modifier le statut"
+
+#. [Metadata name] IPTC tags / 0x0208 (Editorial Update)
+msgid "Editorial Update"
+msgstr "Mise à jour de l'éditorial"
+
+#. [Metadata name] Pentax specific tags / 0x002d (EffectiveLV)
+msgid "EffectiveLV"
+msgstr "LV Effectif"
+
+#. [Metadata name] IPTC tags / 0x0128 (Envelope Number)
+msgid "Envelope Number"
+msgstr "Numéro de l'enveloppe"
+
+#. [Metadata name] IPTC tags / 0x013c (Envelope Priority)
+msgid "Envelope Priority"
+msgstr "Priorité de l'enveloppe"
+
+#. Canon specific tags / 0x0004.26 (CanonShotInfo.CameraType)
+msgid "EOS High-end"
+msgstr "EOS haut de gamme"
+
+#. Canon specific tags / 0x0004.26 (CanonShotInfo.CameraType)
+msgid "EOS Mid-range"
+msgstr "EOS milieu de gamme"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Epson ERF Compressed"
+msgstr "Epson ERF Compressed"
+
+#. Canon specific tags / 0x0001.17 (CanonCameraSettings.MeteringMode)
+msgid "evaluative"
+msgstr "Evaluatif"
+
+#. IPTC tags / 0x024b (Object Cycle)
+msgid "evening"
+msgstr "Soir"
+
+#. [Metadata name] Pentax specific tags / 0x0224 (EVStepInfo)
+msgid "EVStepInfo"
+msgstr "Pas de l'EV"
+
+#. [Metadata name] Exif & Tiff tags / 0x8769 (Exif IFD Pointer)
+msgid "Exif IFD Pointer"
+msgstr "Exif IFD pointer"
+
+#. [Metadata name] XMP tags / exif:ApertureValue
+msgid "exif:ApertureValue"
+msgstr "Ouverture"
+
+#. [Metadata name] XMP tags / exif:Balance
+msgid "exif:Balance"
+msgstr "Balance"
+
+#. [Metadata name] XMP tags / exif:BrightnessValue
+msgid "exif:BrightnessValue"
+msgstr "Valeur de la brillance"
+
+#. [Metadata name] XMP tags / exif:CFAPattern
+msgid "exif:CFAPattern"
+msgstr "Motif CFA"
+
+#. [Metadata name] XMP tags / exif:ColorSpace
+msgid "exif:ColorSpace"
+msgstr "Espace colorimétrique"
+
+#. [Metadata name] XMP tags / exif:ComponentsConfiguration
+msgid "exif:ComponentsConfiguration"
+msgstr "Composants de configuration"
+
+#. [Metadata name] XMP tags / exif:CompressedBitsPerPixel
+msgid "exif:CompressedBitsPerPixel"
+msgstr "Compression des bits par pixel"
+
+#. [Metadata name] XMP tags / exif:Contrast
+msgid "exif:Contrast"
+msgstr "Contraste"
+
+#. [Metadata name] XMP tags / exif:CustomRendered
+msgid "exif:CustomRendered"
+msgstr "Processus de personnalisation"
+
+#. [Metadata name] XMP tags / exif:DateTimeDigitized
+msgid "exif:DateTimeDigitized"
+msgstr "Date/Heure de numérisation"
+
+#. [Metadata name] XMP tags / exif:DateTimeOriginal
+msgid "exif:DateTimeOriginal"
+msgstr "Date/Heure originale"
+
+#. [Metadata name] XMP tags / exif:DeviceSettingDescription
+msgid "exif:DeviceSettingDescription"
+msgstr "Description des paramètres de l'appareil"
+
+#. [Metadata name] XMP tags / exif:DigitalZoomRatio
+msgid "exif:DigitalZoomRatio"
+msgstr "Rapport du zoom numérique"
+
+#. [Metadata name] XMP tags / exif:ExifVersion
+msgid "exif:ExifVersion"
+msgstr "Version de l'Exif"
+
+#. [Metadata name] XMP tags / exif:ExposureBiasValue
+msgid "exif:ExposureBiasValue"
+msgstr "Valeur d'exposition biaisée"
+
+#. [Metadata name] XMP tags / exif:ExposureIndex
+msgid "exif:ExposureIndex"
+msgstr "Index de l'exposition"
+
+#. [Metadata name] XMP tags / exif:ExposureMode
+msgid "exif:ExposureMode"
+msgstr "Mode d'exposition"
+
+#. [Metadata name] XMP tags / exif:ExposureProgram
+msgid "exif:ExposureProgram"
+msgstr "Programme de l'exposition"
+
+#. [Metadata name] XMP tags / exif:ExposureTime
+msgid "exif:ExposureTime"
+msgstr "Temps d'exposition"
+
+#. [Metadata name] XMP tags / exif:FileSource
+msgid "exif:FileSource"
+msgstr "Fichier source"
+
+#. [Metadata name] XMP tags / exif:Fired
+msgid "exif:Fired"
+msgstr "Déclenché"
+
+#. [Metadata name] XMP tags / exif:Flash
+msgid "exif:Flash"
+msgstr "Flash"
+
+#. [Metadata name] XMP tags / exif:FlashEnergy
+msgid "exif:FlashEnergy"
+msgstr "Energie du flash"
+
+#. [Metadata name] XMP tags / exif:FlashpixVersion
+msgid "exif:FlashpixVersion"
+msgstr "Version de flashpix"
+
+#. [Metadata name] XMP tags / exif:FNumber
+msgid "exif:FNumber"
+msgstr "Ouverture"
+
+#. [Metadata name] XMP tags / exif:FocalLength
+msgid "exif:FocalLength"
+msgstr "Focale"
+
+#. [Metadata name] XMP tags / exif:FocalLengthIn35mmFilm
+msgid "exif:FocalLengthIn35mmFilm"
+msgstr "Focale en film 35mm"
+
+#. [Metadata name] XMP tags / exif:FocalPlaneResolutionUnit
+msgid "exif:FocalPlaneResolutionUnit"
+msgstr "Unité de résolution du plan"
+
+#. [Metadata name] XMP tags / exif:FocalPlaneXResolution
+msgid "exif:FocalPlaneXResolution"
+msgstr "Résolution du plan X de la focale"
+
+#. [Metadata name] XMP tags / exif:FocalPlaneYResolution
+msgid "exif:FocalPlaneYResolution"
+msgstr "Résolution du plan Y de la focale"
+
+#. [Metadata name] XMP tags / exif:Function
+msgid "exif:Function"
+msgstr "Fonction"
+
+#. [Metadata name] XMP tags / exif:GainControl
+msgid "exif:GainControl"
+msgstr "Contrôle du gain"
+
+#. [Metadata name] XMP tags / exif:GPSAltitude
+msgid "exif:GPSAltitude"
+msgstr "Altitude"
+
+#. [Metadata name] XMP tags / exif:GPSAltitudeRef
+msgid "exif:GPSAltitudeRef"
+msgstr "Référence de l'altitude"
+
+#. [Metadata name] XMP tags / exif:GPSAreaInformation
+msgid "exif:GPSAreaInformation"
+msgstr "Zone d'information"
+
+#. [Metadata name] XMP tags / exif:GPSDestBearing
+msgid "exif:GPSDestBearing"
+msgstr "Position de la destination"
+
+#. [Metadata name] XMP tags / exif:GPSDestBearingRef
+msgid "exif:GPSDestBearingRef"
+msgstr "Réference de la position de la destination"
+
+#. [Metadata name] XMP tags / exif:GPSDestDistance
+msgid "exif:GPSDestDistance"
+msgstr "Distance de la destination"
+
+#. [Metadata name] XMP tags / exif:GPSDestDistanceRef
+msgid "exif:GPSDestDistanceRef"
+msgstr "Référence de la distance de la destination"
+
+#. [Metadata name] XMP tags / exif:GPSDestLatitude
+msgid "exif:GPSDestLatitude"
+msgstr "Latitude de la destination"
+
+#. [Metadata name] XMP tags / exif:GPSDestLongitude
+msgid "exif:GPSDestLongitude"
+msgstr "Longitude de la destination"
+
+#. [Metadata name] XMP tags / exif:GPSDifferential
+msgid "exif:GPSDifferential"
+msgstr "Différentielle"
+
+#. [Metadata name] XMP tags / exif:GPSDOP
+msgid "exif:GPSDOP"
+msgstr "Degré de précision"
+
+#. [Metadata name] XMP tags / exif:GPSImgDirection
+msgid "exif:GPSImgDirection"
+msgstr "Direction du mouvement"
+
+#. [Metadata name] XMP tags / exif:GPSImgDirectionRef
+msgid "exif:GPSImgDirectionRef"
+msgstr "Réference pour la direction du mouvement"
+
+#. [Metadata name] XMP tags / exif:GPSLatitude
+msgid "exif:GPSLatitude"
+msgstr "Latitude"
+
+#. [Metadata name] XMP tags / exif:GPSLongitude
+msgid "exif:GPSLongitude"
+msgstr "Longitude"
+
+#. [Metadata name] XMP tags / exif:GPSMapDatum
+msgid "exif:GPSMapDatum"
+msgstr "Données de relevé géodésique"
+
+#. [Metadata name] XMP tags / exif:GPSMeasureMode
+msgid "exif:GPSMeasureMode"
+msgstr "Mode de mesure"
+
+#. [Metadata name] XMP tags / exif:GPSProcessingMethod
+msgid "exif:GPSProcessingMethod"
+msgstr "Méthode de calcul"
+
+#. [Metadata name] XMP tags / exif:GPSSatellites
+msgid "exif:GPSSatellites"
+msgstr "Satellites"
+
+#. [Metadata name] XMP tags / exif:GPSSpeed
+msgid "exif:GPSSpeed"
+msgstr "Vitesse"
+
+#. [Metadata name] XMP tags / exif:GPSSpeedRef
+msgid "exif:GPSSpeedRef"
+msgstr "Réference de la vitesse"
+
+#. [Metadata name] XMP tags / exif:GPSStatus
+msgid "exif:GPSStatus"
+msgstr "Status"
+
+#. [Metadata name] XMP tags / exif:GPSTimeStamp
+msgid "exif:GPSTimeStamp"
+msgstr "Horodatage"
+
+#. [Metadata name] XMP tags / exif:GPSTrack
+msgid "exif:GPSTrack"
+msgstr "Piste"
+
+#. [Metadata name] XMP tags / exif:GPSTrackRef
+msgid "exif:GPSTrackRef"
+msgstr "Réference de la piste"
+
+#. [Metadata name] XMP tags / exif:GPSVersionID
+msgid "exif:GPSVersionID"
+msgstr "ID de version"
+
+#. [Metadata name] XMP tags / exif:ImageUniqueID
+#. [Metadata name] XMP tags / exif:ISOSpeedRatings
+msgid "exif:ISOSpeedRatings"
+msgstr "Taux de la vitesse ISO"
+
+#. [Metadata name] XMP tags / exif:LightSource
+msgid "exif:LightSource"
+msgstr "Source de lumière"
+
+#. [Metadata name] XMP tags / exif:MaxApertureValue
+msgid "exif:MaxApertureValue"
+msgstr "Ouverture maximum"
+
+#. [Metadata name] XMP tags / exif:MeteringMode
+msgid "exif:MeteringMode"
+msgstr "Mode de mesure"
+
+#. [Metadata name] XMP tags / exif:Mode
+msgid "exif:Mode"
+msgstr "Mode"
+
+#. [Metadata name] XMP tags / exif:OECF
+msgid "exif:OECF"
+msgstr "OECF"
+
+#. [Metadata name] XMP tags / exif:PixelXDimension
+msgid "exif:PixelXDimension"
+msgstr "Dimension X du pixel"
+
+#. [Metadata name] XMP tags / exif:PixelYDimension
+msgid "exif:PixelYDimension"
+msgstr "Dimension Y du pixel"
+
+#. [Metadata name] XMP tags / exif:RedEyeMode
+msgid "exif:RedEyeMode"
+msgstr "Anti yeux-rouges"
+
+#. [Metadata name] XMP tags / exif:RelatedSoundFile
+msgid "exif:RelatedSoundFile"
+msgstr "Fichier son attaché"
+
+#. [Metadata name] XMP tags / exif:Return
+msgid "exif:Return"
+msgstr "Retour"
+
+#. [Metadata name] XMP tags / exif:Saturation
+msgid "exif:Saturation"
+msgstr "Saturation"
+
+#. [Metadata name] XMP tags / exif:SceneCaptureType
+msgid "exif:SceneCaptureType"
+msgstr "Type de capture de la scène"
+
+#. [Metadata name] XMP tags / exif:SceneType
+msgid "exif:SceneType"
+msgstr "Type de scène"
+
+#. [Metadata name] XMP tags / exif:SensingMethod
+msgid "exif:SensingMethod"
+msgstr "Méthode de détection"
+
+#. [Metadata name] XMP tags / exif:Sharpness
+msgid "exif:Sharpness"
+msgstr "Netteté"
+
+#. [Metadata name] XMP tags / exif:ShutterSpeedValue
+msgid "exif:ShutterSpeedValue"
+msgstr "Temps d'exposition"
+
+#. [Metadata name] XMP tags / exif:SpatialFrequencyResponse
+msgid "exif:SpatialFrequencyResponse"
+msgstr "Réponse en fréquence spatiale"
+
+#. [Metadata name] XMP tags / exif:SpectralSensitivity
+msgid "exif:SpectralSensitivity"
+msgstr "Sensibilité du spectre"
+
+#. [Metadata name] XMP tags / exif:SubjectArea
+msgid "exif:SubjectArea"
+msgstr "Zone du sujet"
+
+#. [Metadata name] XMP tags / exif:SubjectDistance
+msgid "exif:SubjectDistance"
+msgstr "Distance du sujet"
+
+#. [Metadata name] XMP tags / exif:SubjectDistanceRange
+msgid "exif:SubjectDistanceRange"
+msgstr "Distance du sujet"
+
+#. [Metadata name] XMP tags / exif:SubjectLocation
+msgid "exif:SubjectLocation"
+msgstr "Position du sujet"
+
+#. [Metadata name] XMP tags / exif:UserComment
+msgid "exif:UserComment"
+msgstr "Commentaire"
+
+#. [Metadata name] XMP tags / exif:WhiteBalance
+msgid "exif:WhiteBalance"
+msgstr "Balance des blancs"
+
+#. [Metadata name] XMP tags / exif:ExifVersion (ExifVersion)
+#. [Metadata name] Exif & Tiff tags / 0x9000 (ExifVersion)
+msgid "ExifVersion"
+msgstr "Version de l'Exif"
+
+#. [Metadata name] IPTC tags / 0x0225 (Expiration Date)
+msgid "Expiration Date"
+msgstr "Date d'expiration"
+
+#. [Metadata name] IPTC tags / 0x0226 (Expiration Time)
+msgid "Expiration Time"
+msgstr "Heure d'expiration"
+
+#. Nikon specific tags / 0x0089 (ShootingMode)
+msgid "Exposure Bracketing"
+msgstr "Bracketing de l'exposition"
+
+#. Canon specific tags / 0x0001.33 (CanonCameraSettings.AESetting)
+msgid "Exposure Compensation"
+msgstr "Compensation d'exposition"
+
+#. [Metadata name] Exif & Tiff tags / 0x9204 (ExposureBiasValue)
+#. [Metadata name] XMP tags / exif:ExposureBiasValue (ExposureBiasValue)
+msgid "ExposureBiasValue"
+msgstr "Valeur d'exposition biaisée"
+
+#. [Metadata name] Nikon specific tags / 0x0019 (ExposureBracketValue)
+msgid "ExposureBracketValue"
+msgstr "Bracketing de l'exposition"
+
+#. [Metadata name] Pentax specific tags / 0x0016 (ExposureCompensation)
+msgid "ExposureCompensation"
+msgstr "Compensation d'exposition"
+
+#. [Metadata name] Nikon specific tags / 0x000e (ExposureDifference)
+msgid "ExposureDifference"
+msgstr "Différence d'exposition"
+
+#. [Metadata name] XMP tags / exif:ExposureIndex (ExposureIndex)
+#. [Metadata name] Exif & Tiff tags / 0xa215 (ExposureIndex)
+msgid "ExposureIndex"
+msgstr "Index de l'exposition"
+
+#. [Metadata name] XMP tags / exif:ExposureMode (ExposureMode)
+#. [Metadata name] Exif & Tiff tags / 0xa402 (ExposureMode)
+msgid "ExposureMode"
+msgstr "Mode d'exposition"
+
+#. [Metadata name] XMP tags / exif:ExposureProgram (ExposureProgram)
+#. [Metadata name] Exif & Tiff tags / 0x8822 (ExposureProgram)
+msgid "ExposureProgram"
+msgstr "Programme de l'exposition"
+
+#. [Metadata name] Pentax specific tags / 0x0012 (ExposureTime)
+#. [Metadata name] XMP tags / exif:ExposureTime (ExposureTime)
+#. [Metadata name] Exif & Tiff tags / 0x829a (ExposureTime)
+msgid "ExposureTime"
+msgstr "Temps d'exposition"
+
+#. [Metadata name] Nikon specific tags / 0x001c (ExposureTuning)
+msgid "ExposureTuning"
+msgstr "Mise au point de l'exposition"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "exterior view"
+msgstr "Vue extérieure"
+
+#. Canon specific tags / 0x0001.29 (CanonCameraSettings.FlashBits)
+msgid "External"
+msgstr "Extérieur"
+
+#. Canon specific tags / 0x000d.40D.21 (CanonCameraInfo.FlashMeteringMode)
+#. Canon specific tags / 0x000d.1DMarkIV.21 (CanonCameraInfo.FlashMeteringMode)
+msgid "External Auto"
+msgstr "Extérieur, automatique"
+
+#. Canon specific tags / 0x0001.4 (CanonCameraSettings.CanonFlashMode)
+msgid "External flash"
+msgstr "Flash externe"
+
+#. Canon specific tags / 0x000d.1DMarkIV.21 (CanonCameraInfo.FlashMeteringMode)
+#. Canon specific tags / 0x000d.40D.21 (CanonCameraInfo.FlashMeteringMode)
+msgid "External Manual"
+msgstr "Externe, manuel"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "external, auto"
+msgstr "Externe, automatique"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "external, contrast-control sync"
+msgstr "Externe, synchronisation contrôlée des contrastes"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "external, flash problem"
+msgstr "Externe, problème avec le flash"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "external, high-speed sync"
+msgstr "Externe, synchronisation haute vitesse"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "external, manual"
+msgstr "Externe, manuel"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "external, p-ttl auto"
+msgstr "Externe, P-TTL auto"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "external, wireless"
+msgstr "Externe, sans fil"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "external, wireless, high-speed sync"
+msgstr "Externe, sans fil, synchronisation haute vitesse"
+
+#. Canon specific tags / 0x0001.19 (CanonCameraSettings.AFPoint)
+msgid "Face Detect"
+msgstr "Détection des visages"
+
+#. Pentax specific tags / 0x000e (AFPoint)
+msgid "Face Recognition AF"
+msgstr "Détection des visages AF"
+
+#. [Metadata name] Canon specific tags / 0x0024 (FaceDetect1)
+msgid "FaceDetect1"
+msgstr "Détection des visages 1"
+
+#. [Metadata name] Canon specific tags / 0x0025 (FaceDetect2)
+msgid "FaceDetect2"
+msgstr "Détection des visages 2"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Far Left"
+msgstr "Extrême gauche"
+
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+msgid "far range"
+msgstr "Large gamme"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Far Right"
+msgstr "Extrême droite"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Fast shutter"
+msgstr "Obturation rapide"
+
+#. [Metadata name] IPTC tags / 0x0114 (File Format)
+msgid "File Format"
+msgstr "Format de fichier"
+
+#. [Metadata name] IPTC tags / 0x0116 (File Format Version)
+msgid "File Format Version"
+msgstr "Version du format de fichier"
+
+#. [Metadata name] Nikon specific tags / 0x00b8 (FileInfo)
+msgid "FileInfo"
+msgstr "Information sur le fichier"
+
+#. [Metadata name] Canon specific tags / 0x0008 (FileNumber)
+msgid "FileNumber"
+msgstr "Numéro de fichier"
+
+#. [Metadata name] XMP tags / exif:FileSource (FileSource)
+#. [Metadata name] Exif & Tiff tags / 0xa300 (FileSource)
+msgid "FileSource"
+msgstr "Source du fichier"
+
+#. [Metadata name] Exif & Tiff tags / 0x010a (FillOrder)
+msgid "FillOrder"
+msgstr "Ordre de remplissage"
+
+#. Exif & Tiff tags / 0xa300 (FileSource)
+msgid "film scanner"
+msgstr "Film scannerisé"
+
+#. Canon specific tags / 0x0001.3 (CanonCameraSettings.Quality)
+msgid "Fine"
+msgstr "Précis"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "fine weather"
+msgstr "Beau temps"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. Canon specific tags / 0x0001.28 (CanonCameraSettings.FlashActivity)
+msgid "fired"
+msgstr "Déclenché"
+
+#. Nikon specific tags / 0x0087 (FlashMode)
+msgid "Fired, commander mode"
+msgstr "Déclenché, mode télécommandé"
+
+#. Nikon specific tags / 0x0087 (FlashMode)
+msgid "Fired, external"
+msgstr "Déclenché, externe"
+
+#. Nikon specific tags / 0x0087 (FlashMode)
+msgid "Fired, manual"
+msgstr "Déclenché, manuel"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "fired, red-eye reduction"
+msgstr "Déclenché, réduction des yeux rouges activé"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "fired, red-eye reduction, return detected"
+msgstr "Déclenché, réduction des yeux rouges activé, avec retour"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "fired, red-eye reduction, return not detected"
+msgstr "Déclenché, réduction des yeux rouges activé, sans retour"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "fired, return detected"
+msgstr "Déclenché, avec retour"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "fired, return not detected"
+msgstr "Déclenché, sans retour"
+
+#. Nikon specific tags / 0x0087 (FlashMode)
+msgid "Fired, TTL mode"
+msgstr "Déclenché, mode TTL"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Fireworks"
+msgstr "Feu d'artifice"
+
+#. [Metadata name] Canon specific tags / 0x001e (FirmwareRevision)
+msgid "FirmwareRevision"
+msgstr "Version du firmware"
+
+#. [Metadata name] Pentax specific tags / 0x0230 (FirmwareVersion)
+msgid "FirmwareVersion"
+msgstr "Version du firmware"
+
+#. Pentax specific tags / 0x000e (AFPoint)
+msgid "Fixed Center"
+msgstr "Fixe, centré"
+
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+msgid "Fixed Center or Multiple"
+msgstr "Fixe, centré ou multiple"
+
+#. [Metadata name] IPTC tags / 0x0216 (Fixture Identifier)
+msgid "Fixture Identifier"
+msgstr "Identification de l'appareil"
+
+#. [Metadata name] Exif & Tiff tags / 0x9209 (Flash)
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+#. XMP tags / crs:WhiteBalance
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+#. [Metadata name] Pentax specific tags / 0x000c (Flash)
+#. [Metadata name] XMP tags / exif:Flash (Flash)
+#. Exif & Tiff tags / 0x9208 (LightSource)
+#. XMP tags / crs:Balance
+msgid "Flash"
+msgstr ""
+
+#. XMP tags / exif:Fired
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "flash did not fire"
+msgstr "Ne s'est pas déclenché"
+
+#. [Metadata name] Exif & Tiff tags / 0xa20b (exif)
+#. [Metadata name] XMP tags / exif:FlashEnergy (exif)
+msgid "FlashEnergy"
+msgstr "Energie du flash"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. XMP tags / exif:Fired
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "flash fired"
+msgstr "Déclenché"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "flash function"
+msgstr "Fonctions du flash"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. XMP tags / exif:Function
+msgid "flash function present"
+msgstr "Fonction du flash présentes"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "flash mode"
+msgstr "Mode du flash"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Flash Off"
+msgstr "Flash désactivé"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Flash X-Sync Speed AE, 1/2 EV steps"
+msgstr "AE flash en synchro X, pas de 1/2 EV"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Flash X-Sync Speed AE, 1/3 EV steps"
+msgstr "AE flash en synchro X, pas de 1/3 EV"
+
+#. [Metadata name] Pentax specific tags / 0x020a (FlashADump)
+msgid "FlashADump"
+msgstr "Décharge du flash A"
+
+#. [Metadata name] Pentax specific tags / 0x020b (FlashBDump)
+msgid "FlashBDump"
+msgstr "Décharge du flash B"
+
+#. [Metadata name] Nikon specific tags / 0x0018 (FlashExposureBracketValue)
+msgid "FlashExposureBracketValue"
+msgstr "Bracketing de l'exposition du flash"
+
+#. [Metadata name] Nikon specific tags / 0x0012 (FlashExposureComp)
+#. [Metadata name] Nikon specific tags / 0x0017 (FlashExposureComp)
+msgid "FlashExposureComp"
+msgstr "Compensation de l'exposition du flash"
+
+#. [Metadata name] Pentax specific tags / 0x004d (FlashExposureCompensation)
+msgid "FlashExposureCompensation"
+msgstr "Compensation de l'exposition du flash"
+
+#. [Metadata name] Nikon specific tags / 0x00a8 (FlashInfo)
+#. [Metadata name] Pentax specific tags / 0x0208 (FlashInfo)
+msgid "FlashInfo"
+msgstr "Informations sur le flash"
+
+#. [Metadata name] Nikon specific tags / 0x0087 (FlashMode)
+msgid "FlashMode"
+msgstr "Mode du flash"
+
+#. [Metadata name] Exif & Tiff tags / 0xa000 (FlashpixVersion)
+#. [Metadata name] XMP tags / exif:FlashpixVersion (FlashpixVersion)
+msgid "FlashpixVersion"
+msgstr "Flashpix version"
+
+#. [Metadata name] Nikon specific tags / 0x0008 (FlashSetting)
+msgid "FlashSetting"
+msgstr "Flash setting"
+
+#. [Metadata name] Nikon specific tags / 0x0009 (FlashType)
+msgid "FlashType"
+msgstr "Type de flash"
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+#. XMP tags / crs:WhiteBalance
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+#. XMP tags / crs:Balance
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "Fluorescent"
+msgstr "Néon"
+
+#. [Metadata name] Exif & Tiff tags / 0x829d (FNumber)
+#. [Metadata name] XMP tags / exif:FNumber (FNumber)
+#. [Metadata name] Pentax specific tags / 0x0013 (FNumber)
+msgid "FNumber"
+msgstr "Ouverture"
+
+#. [Metadata name] XMP tags / exif:FocalLength (FocalLength)
+#. [Metadata name] Pentax specific tags / 0x001d (FocalLength)
+#. [Metadata name] Exif & Tiff tags / 0x920a (FocalLength)
+msgid "FocalLength"
+msgstr "Focale"
+
+#. [Metadata name] Exif & Tiff tags / 0xa405 (FocalLengthIn35mmFilm)
+#. [Metadata name] XMP tags / exif:FocalLengthIn35mmFilm (FocalLengthIn35mmFilm)
+msgid "FocalLengthIn35mmFilm"
+msgstr "Focale en film 35mm"
+
+#. [Metadata name] Exif & Tiff tags / 0xa210 (FocalPlaneResolutionUnit)
+#. [Metadata name] XMP tags / exif:FocalPlaneResolutionUnit (FocalPlaneResolutionUnit)
+msgid "FocalPlaneResolutionUnit"
+msgstr "Unité de résolution du plan"
+
+#. [Metadata name] XMP tags / exif:FocalPlaneXResolution (FocalPlaneXResolution)
+#. [Metadata name] Exif & Tiff tags / 0xa20e (FocalPlaneXResolution)
+msgid "FocalPlaneXResolution"
+msgstr "Résolution du plan X de la focale"
+
+#. [Metadata name] XMP tags / exif:FocalPlaneYResolution (FocalPlaneYResolution)
+#. [Metadata name] Exif & Tiff tags / 0xa20f (FocalPlaneYResolution)
+msgid "FocalPlaneYResolution"
+msgstr "Résolution du plan Y de la focale"
+
+#. [Metadata name] Pentax specific tags / 0x000d (Focus)
+msgid "Focus"
+msgstr "Mise au point"
+
+#. [Metadata name] Nikon specific tags / 0x0007 (FocusMode)
+msgid "FocusMode"
+msgstr "Mise au point"
+
+#. [Metadata name] Pentax specific tags / 0x0010 (FocusPosition)
+msgid "FocusPosition"
+msgstr "Position de la mise au point"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Foliage"
+msgstr "Feuillage"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Food"
+msgstr "Nourriture"
+
+#. Canon specific tags / 0x0001.29 (CanonCameraSettings.FlashBits)
+msgid "FP sync enabled"
+msgstr ""
+
+#. Canon specific tags / 0x0001.29 (CanonCameraSettings.FlashBits)
+msgid "FP sync used"
+msgstr ""
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Frame Composite"
+msgstr "Cadre en composite"
+
+#. Pentax specific tags / 0x0032 (ImageProcessing)
+msgid "Frame Synthesis?"
+msgstr "Cadre de synthèse"
+
+#. [Metadata name] Pentax specific tags / 0x0029 (FrameNumber)
+msgid "FrameNumber"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x0121 (FreeByteCounts)
+msgid "FreeByteCounts"
+msgstr "Octets libres"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Freehand (Macromedia/Aldus)"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x0120 (FreeOffsets)
+msgid "FreeOffsets"
+msgstr "Emplacement libres"
+
+#. Canon specific tags / 0x0001.41 (CanonCameraSettings.ManualFlashOutput)
+#. Pentax specific tags / 0x0009 (Size)
+msgid "Full"
+msgstr "Plein"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Full auto"
+msgstr "Plein, automatique"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "full-length"
+msgstr "Sur toute la longueur"
+
+#. Exif & Tiff tags / 0x00fe (SubfileType)
+#. Exif & Tiff tags / 0x00ff (OldSubfileType)
+msgid "full-resolution image"
+msgstr "Image en pleine résolution"
+
+#. [Metadata name] Exif & Tiff tags / 0xa407 (GainControl)
+#. [Metadata name] XMP tags / exif:GainControl (GainControl)
+msgid "GainControl"
+msgstr "Contrôle du gain"
+
+#. [Metadata name] Exif & Tiff tags / 0xa500 (Gamma)
+msgid "Gamma"
+msgstr ""
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "general view"
+msgstr "Vue générale"
+
+#. Pentax specific tags / 0x0008 (Quality)
+msgid "Good"
+msgstr "Bonne"
+
+#. [Metadata name] Exif & Tiff tags / 0x8825 (GPS IFD Pointer)
+msgid "GPS IFD Pointer"
+msgstr "GPS IFD pointer"
+
+#. [Metadata name] Magic JpegMetadata computed tags / GPS.Altitude
+msgid "GPS.Altitude"
+msgstr "Altitude"
+
+#. [Metadata name] Magic JpegMetadata computed tags / GPS.Latitude
+msgid "GPS.Latitude"
+msgstr "Latitude"
+
+#. [Metadata name] Magic JpegMetadata computed tags / GPS.LatitudeNum
+msgid "GPS.LatitudeNum"
+msgstr "Latitude"
+
+#. [Metadata name] Magic JpegMetadata computed tags / GPS.Localization
+msgid "GPS.Localization"
+msgstr "Localisation"
+
+#. [Metadata name] Magic JpegMetadata computed tags / GPS.Longitude
+msgid "GPS.Longitude"
+msgstr "Longitude"
+
+#. [Metadata name] Magic JpegMetadata computed tags / GPS.LongitudeNum
+msgid "GPS.LongitudeNum"
+msgstr "Longitude"
+
+#. [Metadata name] Exif GPS tags / 0x0006 (GPSAltitude)
+#. [Metadata name] XMP tags / exif:GPSAltitude (GPSAltitude)
+msgid "GPSAltitude"
+msgstr "Altitude"
+
+#. [Metadata name] Exif GPS tags / 0x0005 (GPSAltitudeRef)
+#. [Metadata name] XMP tags / exif:GPSAltitudeRef (GPSAltitudeRef)
+msgid "GPSAltitudeRef"
+msgstr "Référence de l'altitude"
+
+#. [Metadata name] XMP tags / exif:GPSAreaInformation (GPSAreaInformation)
+#. [Metadata name] Exif GPS tags / 0x001c (GPSAreaInformation)
+msgid "GPSAreaInformation"
+msgstr "Zone d'information"
+
+#. [Metadata name] Exif GPS tags / 0x001d (GPSDateStamp)
+msgid "GPSDateStamp"
+msgstr "Horodatage du GPS"
+
+#. [Metadata name] XMP tags / exif:GPSDestBearing (GPSDestBearing)
+#. [Metadata name] Exif GPS tags / 0x0018 (GPSDestBearing)
+msgid "GPSDestBearing"
+msgstr "Position de la destination"
+
+#. [Metadata name] Exif GPS tags / 0x0017 (GPSDestBearingRef)
+#. [Metadata name] XMP tags / exif:GPSDestBearingRef (GPSDestBearingRef)
+msgid "GPSDestBearingRef"
+msgstr "Référence de la position de destination"
+
+#. [Metadata name] Exif GPS tags / 0x001a (GPSDestDistance)
+#. [Metadata name] XMP tags / exif:GPSDestDistance (GPSDestDistance)
+msgid "GPSDestDistance"
+msgstr "Distance de la destination"
+
+#. [Metadata name] Exif GPS tags / 0x0019 (GPSDestDistanceRef)
+#. [Metadata name] XMP tags / exif:GPSDestDistanceRef (GPSDestDistanceRef)
+msgid "GPSDestDistanceRef"
+msgstr "Référence de la distance de destination"
+
+#. [Metadata name] Exif GPS tags / 0x0014 (GPSDestLatitude)
+msgid "GPSDestLatitude"
+msgstr "Latitude de la destination"
+
+#. [Metadata name] Exif GPS tags / 0x0013 (GPSDestLatitudeRef)
+msgid "GPSDestLatitudeRef"
+msgstr "Référence de la latitude de destination"
+
+#. [Metadata name] Exif GPS tags / 0x0016 (GPSDestLongitude)
+msgid "GPSDestLongitude"
+msgstr "Longitude de la destination"
+
+#. [Metadata name] Exif GPS tags / 0x0015 (GPSDestLongitudeRef)
+msgid "GPSDestLongitudeRef"
+msgstr "Référence de la longitude de destination"
+
+#. [Metadata name] Exif GPS tags / 0x001e (GPSDifferential)
+#. [Metadata name] XMP tags / exif:GPSDifferential (GPSDifferential)
+msgid "GPSDifferential"
+msgstr "Différentielle"
+
+#. [Metadata name] Exif GPS tags / 0x000b (GPSDOP)
+#. [Metadata name] XMP tags / exif:GPSDOP (GPSDOP)
+msgid "GPSDOP"
+msgstr "Degré de précision"
+
+#. [Metadata name] XMP tags / exif:GPSImgDirection (GPSImgDirection)
+#. [Metadata name] Exif GPS tags / 0x0011 (GPSImgDirection)
+msgid "GPSImgDirection"
+msgstr "Direction du mouvement"
+
+#. [Metadata name] XMP tags / exif:GPSImgDirectionRef (GPSImgDirectionRef)
+#. [Metadata name] Exif GPS tags / 0x0010 (GPSImgDirectionRef)
+msgid "GPSImgDirectionRef"
+msgstr "Référence pour la direction du mouvement"
+
+#. [Metadata name] Exif GPS tags / 0x0002 (GPSLatitude)
+msgid "GPSLatitude"
+msgstr "Latitude"
+
+#. [Metadata name] Exif GPS tags / 0x0001 (GPSLatitudeRef)
+msgid "GPSLatitudeRef"
+msgstr "Référence de la latitude"
+
+#. [Metadata name] Exif GPS tags / 0x0004 (GPSLongitude)
+msgid "GPSLongitude"
+msgstr "Longitude"
+
+#. [Metadata name] Exif GPS tags / 0x0003 (GPSLongitudeRef)
+msgid "GPSLongitudeRef"
+msgstr "Référence de la longitude"
+
+#. [Metadata name] Exif GPS tags / 0x0012 (GPSMapDatum)
+#. [Metadata name] XMP tags / exif:GPSMapDatum (GPSMapDatum)
+msgid "GPSMapDatum"
+msgstr "Données de relevé géodésique"
+
+#. [Metadata name] XMP tags / exif:GPSMeasureMode (GPSMeasureMode)
+#. [Metadata name] Exif GPS tags / 0x000a (GPSMeasureMode)
+msgid "GPSMeasureMode"
+msgstr "Mode de mesure"
+
+#. [Metadata name] XMP tags / exif:GPSProcessingMethod (GPSProcessingMethod)
+#. [Metadata name] Exif GPS tags / 0x001b (GPSProcessingMethod)
+msgid "GPSProcessingMethod"
+msgstr "Méthode de calcul"
+
+#. [Metadata name] XMP tags / exif:GPSSatellites (GPSSatellites)
+#. [Metadata name] Exif GPS tags / 0x0008 (GPSSatellites)
+msgid "GPSSatellites"
+msgstr "Satellites"
+
+#. [Metadata name] Exif GPS tags / 0x000d (GPSSpeed)
+#. [Metadata name] XMP tags / exif:GPSSpeed (GPSSpeed)
+msgid "GPSSpeed"
+msgstr "Vitesse"
+
+#. [Metadata name] Exif GPS tags / 0x000c (GPSSpeedRef)
+#. [Metadata name] XMP tags / exif:GPSSpeedRef (GPSSpeedRef)
+msgid "GPSSpeedRef"
+msgstr "Référence de la vitesse"
+
+#. [Metadata name] Exif GPS tags / 0x0009 (GPSStatus)
+#. [Metadata name] XMP tags / exif:GPSStatus (GPSStatus)
+msgid "GPSStatus"
+msgstr "Status"
+
+#. [Metadata name] Exif GPS tags / 0x0007 (GPSTimeStamp)
+msgid "GPSTimeStamp"
+msgstr "Horodatage"
+
+#. [Metadata name] Exif GPS tags / 0x000f (GPSTrack)
+#. [Metadata name] XMP tags / exif:GPSTrack (GPSTrack)
+msgid "GPSTrack"
+msgstr "Piste"
+
+#. [Metadata name] XMP tags / exif:GPSTrackRef (GPSTrackRef)
+#. [Metadata name] Exif GPS tags / 0x000e (GPSTrackRef)
+msgid "GPSTrackRef"
+msgstr "Référence de la piste"
+
+#. [Metadata name] Exif GPS tags / 0x0000 (GPSVersionID)
+#. [Metadata name] XMP tags / exif:GPSVersionID (GPSVersionID)
+msgid "GPSVersionID"
+msgstr "Id de version"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Gray Scale"
+msgstr "Echelle de gris"
+
+#. [Metadata name] Exif & Tiff tags / 0x0123 (GrayResponseCurve)
+msgid "GrayResponseCurve"
+msgstr "Courbe de réponse des gris"
+
+#. [Metadata name] Exif & Tiff tags / 0x0122 (GrayResponseUnit)
+msgid "GrayResponseUnit"
+msgstr "Unité de réponse des gris"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Green Mode"
+msgstr "Mode vert"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "group"
+msgstr "Groupe"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Group Dynamic"
+msgstr "Dynamique de groupe"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Guam"
+msgstr ""
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "half-length"
+msgstr "Demi longueur"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Half-length Portrait"
+msgstr "Demi-portrait en pied"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Halifax"
+msgstr ""
+
+#. Pentax specific tags / 0x0021 (Sharpness)
+msgid "Hard"
+msgstr "Dur"
+
+#. [Metadata name] XMP tags / photoshop:Headline (Headline)
+#. [Metadata name] IPTC tags / 0x0269 (Headline)
+msgid "Headline"
+msgstr "Titre"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "headshot"
+msgstr "Tête"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Helsinki"
+msgstr ""
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Hi-speed Program"
+msgstr "Haute vitesse"
+
+#. Nikon specific tags / 0x00b1 (HighISONoiseReduction)
+#. IPTC tags / 0x020a (Urgency)
+#. XMP tags / photoshop:Urgency
+#. Pentax specific tags / 0x001f (Saturation)
+#. Exif & Tiff tags / 0xa408 (Contrast)
+#. IPTC tags / 0x013c (Envelope Priority)
+#. Exif & Tiff tags / 0xa40a (Sharpness)
+#. Pentax specific tags / 0x0020 (Contrast)
+#. Nikon specific tags / 0x0022 (ActiveD-Lighting)
+#. Nikon specific tags / 0x002a (VignetteControl)
+#. Exif & Tiff tags / 0xa409 (Saturation)
+msgid "high"
+msgstr "Elevé"
+
+#. Exif & Tiff tags / 0xa407 (GainControl)
+msgid "high gain down"
+msgstr "Gain élevé à"
+
+#. Exif & Tiff tags / 0xa407 (GainControl)
+msgid "high gain up"
+msgstr "Gain élevé jusqu'à"
+
+#. IPTC tags / 0x020a (Urgency)
+#. IPTC tags / 0x013c (Envelope Priority)
+#. XMP tags / photoshop:Urgency
+msgid "high+"
+msgstr "Elevé+"
+
+#. XMP tags / photoshop:Urgency
+#. IPTC tags / 0x020a (Urgency)
+#. IPTC tags / 0x013c (Envelope Priority)
+msgid "high++"
+msgstr "Elevé++"
+
+#. XMP tags / photoshop:Urgency
+#. IPTC tags / 0x020a (Urgency)
+#. IPTC tags / 0x013c (Envelope Priority)
+msgid "high+++"
+msgstr "Elevé+++"
+
+#. [Metadata name] Nikon specific tags / 0x00b1 (HighISONoiseReduction)
+#. [Metadata name] Pentax specific tags / 0x0071 (HighISONoiseReduction)
+msgid "HighISONoiseReduction"
+msgstr "Réduction de bruit à haute ISO"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Ho Chi Minh"
+msgstr ""
+
+#. Pentax specific tags / 0x0022 (WorldTimeLocation)
+msgid "Home town"
+msgstr "Ville de résidence"
+
+#. [Metadata name] Pentax specific tags / 0x0023 (HomeCityName)
+msgid "HomeCityName"
+msgstr "Ville de résidence"
+
+#. [Metadata name] Pentax specific tags / 0x0025 (HometownDST)
+msgid "HometownDST"
+msgstr "Ville de résidence (DST)"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Hong Kong"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Honolulu"
+msgstr ""
+
+#. Canon specific tags / 0x000d.1DMarkIV.53 (CanonCameraInfo.CameraOrientation)
+#. Canon specific tags / 0x000d.40D.48 (CanonCameraInfo.CameraOrientation)
+msgid "Horizontal (normal)"
+msgstr ""
+
+#. Exif & Tiff tags / 0x013d (Predictor)
+msgid "horizontal differencing"
+msgstr "Différenciation horizontale"
+
+#. [Metadata name] Exif & Tiff tags / 0x013c (HostComputer)
+msgid "HostComputer"
+msgstr "Ordinateur hôte"
+
+#. [Metadata name] Nikon specific tags / 0x0092 (HueAdjustment)
+msgid "HueAdjustment"
+msgstr "Ajustement de la teinte"
+
+#. [Metadata name] Pentax specific tags / 0x0220 (HuffmanTable)
+msgid "HuffmanTable"
+msgstr "Table d'Huffman"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Hypertext Markup Language 'HTML' (The Internet Society)"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x8773 (ICC_Profile)
+msgid "ICC_Profile"
+msgstr "Profil ICC"
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "ICCLab"
+msgstr ""
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Illustrations"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Illustrator (Adobe Graphics data)"
+msgstr ""
+
+#. [Metadata name] IPTC tags / 0x0283 (Image Orientation)
+msgid "Image Orientation"
+msgstr "Orientation de la photo"
+
+#. [Metadata name] IPTC tags / 0x0282 (Image Type)
+msgid "Image Type"
+msgstr "Type de photo"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Image.Dimension
+msgid "Image.Dimension"
+msgstr "Dimensions"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Image.Height
+msgid "Image.Height"
+msgstr "Hauteur"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Image.Width
+msgid "Image.Width"
+msgstr "Largeur"
+
+#. [Metadata name] Nikon specific tags / 0x0080 (ImageAdjustment)
+msgid "ImageAdjustment"
+msgstr "Ajustement de l'image"
+
+#. [Metadata name] Pentax specific tags / 0x0038 (ImageAreaOffset)
+msgid "ImageAreaOffset"
+msgstr "Zone de décalage de l'image"
+
+#. [Metadata name] Nikon specific tags / 0x0020 (ImageAuthentication)
+msgid "ImageAuthentication"
+msgstr "Authentification de l'image"
+
+#. [Metadata name] Nikon specific tags / 0x0016 (ImageBoundary)
+msgid "ImageBoundary"
+msgstr "Limites de l'image"
+
+#. [Metadata name] Nikon specific tags / 0x00a5 (ImageCount)
+msgid "ImageCount"
+msgstr "Compteur des photos"
+
+#. [Metadata name] Nikon specific tags / 0x00a2 (ImageDataSize)
+msgid "ImageDataSize"
+msgstr "Poids des données de la photo"
+
+#. [Metadata name] XMP tags / tiff:ImageDescription (ImageDescription)
+#. [Metadata name] Exif & Tiff tags / 0x010e (ImageDescription)
+msgid "ImageDescription"
+msgstr "Description de la photo"
+
+#. [Metadata name] Exif & Tiff tags / 0x9213 (ImageHistory)
+msgid "ImageHistory"
+msgstr "Historique de la photo"
+
+#. [Metadata name] XMP tags / tiff:ImageLength (ImageLength)
+#. [Metadata name] Exif & Tiff tags / 0x0101 (ImageLength)
+msgid "ImageLength"
+msgstr "Hauteur"
+
+#. [Metadata name] Exif & Tiff tags / 0x9211 (ImageNumber)
+msgid "ImageNumber"
+msgstr "Numéro de la photo"
+
+#. [Metadata name] Nikon specific tags / 0x00a9 (ImageOptimization)
+msgid "ImageOptimization"
+msgstr "Optimisation de la photo"
+
+#. [Metadata name] Pentax specific tags / 0x0032 (ImageProcessing)
+#. [Metadata name] Nikon specific tags / 0x001a (ImageProcessing)
+msgid "ImageProcessing"
+msgstr "Traitement de la photo"
+
+#. [Metadata name] Nikon specific tags / 0x00ac (ImageStabilization)
+msgid "ImageStabilization"
+msgstr "Stabilisation"
+
+#. [Metadata name] Pentax specific tags / 0x004f (ImageTone)
+msgid "ImageTone"
+msgstr "Tons de la photo"
+
+#. [Metadata name] Exif & Tiff tags / 0xa420 (ImageUniqueID)
+#. [Metadata name] Canon specific tags / 0x0028 (ImageUniqueID)
+#. [Metadata name] XMP tags / exif:ImageUniqueID (ImageUniqueID)
+msgid "ImageUniqueID"
+msgstr "Identifiant unique de la photo"
+
+#. [Metadata name] XMP tags / tiff:ImageWidth (ImageWidth)
+#. [Metadata name] Exif & Tiff tags / 0x0100 (ImageWidth)
+msgid "ImageWidth"
+msgstr "Largeur"
+
+#. Exif & Tiff tags / 0xa210 (FocalPlaneResolutionUnit)
+#. XMP tags / crs:CropUnits
+#. Exif & Tiff tags / 0x0128 (ResolutionUnit)
+msgid "inches"
+msgstr "Pouces"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Indoor"
+msgstr "Intérieur"
+
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+#. Pentax specific tags / 0x000d (Focus)
+msgid "infinity"
+msgstr "Infini"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "interior view"
+msgstr "Vue intérieure"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "internal"
+msgstr "Interne"
+
+#. [Metadata name] Canon specific tags / 0x0096 (InternalSerialNumber)
+msgid "InternalSerialNumber"
+msgstr "Numéro de série"
+
+#. [Metadata name] Exif & Tiff tags / 0xa005 (Interoperability IFD Pointer)
+msgid "Interoperability IFD Pointer"
+msgstr "Interoperability IFD pointer"
+
+#. Hardcoded value
+msgid "invalid date format"
+msgstr "Format de date invalide"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "IPTC Unstructured Character Oriented File Format (UCOFF)"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x83bb (IPTC-NAA)
+msgid "IPTC-NAA"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "IPTC-NAA Digital Newsphoto Parameter Record"
+msgstr ""
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:CiAdrCity
+msgid "Iptc4xmpCore:CiAdrCity"
+msgstr "Ville"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:CiAdrCtry
+msgid "Iptc4xmpCore:CiAdrCtry"
+msgstr "Pays"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:CiAdrExtadr
+msgid "Iptc4xmpCore:CiAdrExtadr"
+msgstr "Adresse"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:CiAdrPcode
+msgid "Iptc4xmpCore:CiAdrPcode"
+msgstr "Code postal"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:CiEmailWork
+msgid "Iptc4xmpCore:CiEmailWork"
+msgstr "Adresse email"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:CiTelWork
+msgid "Iptc4xmpCore:CiTelWork"
+msgstr "Téléphone"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:CiUrlWork
+msgid "Iptc4xmpCore:CiUrlWork"
+msgstr "Site web"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:CreatorContactInfo
+msgid "Iptc4xmpCore:CreatorContactInfo"
+msgstr "Coordonnées de l'auteur"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:CountryCode
+msgid "Iptc4xmpCore:CountryCode"
+msgstr "Pays / Code ISO"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:DateCreated
+msgid "Iptc4xmpCore:DateCreated"
+msgstr "Date de creation"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:IntellectualGenre
+msgid "Iptc4xmpCore:IntellectualGenre"
+msgstr "Référence d'attribut de l'objet / Genre"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:Location
+msgid "Iptc4xmpCore:Location"
+msgstr "Emplacement"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:Scene
+msgid "Iptc4xmpCore:Scene"
+msgstr "Scène"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:SubjectCode
+msgid "Iptc4xmpCore:SubjectCode"
+msgstr "Sujet de référence"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "IPTC7901 Recommended Message Format"
+msgstr ""
+
+#. Nikon specific tags / 0x0089 (ShootingMode)
+msgid "IR Control"
+msgstr "Contrôlé par télécommande"
+
+#. [Metadata name] Nikon specific tags / 0x0002 (ISO)
+#. [Metadata name] Pentax specific tags / 0x0014 (ISO)
+msgid "ISO"
+msgstr ""
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "ISO 3200"
+msgstr ""
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "ISO studio tungsten"
+msgstr "Studio, tungstène"
+
+#. [Metadata name] Nikon specific tags / 0x0025 (ISOInfo)
+msgid "ISOInfo"
+msgstr "Informations sur la sensibilité"
+
+#. [Metadata name] Nikon specific tags / 0x000f (ISOSelection)
+msgid "ISOSelection"
+msgstr "Sélection de l'ISO"
+
+#. [Metadata name] Nikon specific tags / 0x0013 (ISOSetting)
+msgid "ISOSetting"
+msgstr "Configuration de l'ISO"
+
+#. [Metadata name] XMP tags / exif:ISOSpeedRatings (ISOSpeedRatings)
+#. [Metadata name] Exif & Tiff tags / 0x8827 (ISOSpeedRatings)
+msgid "ISOSpeedRatings"
+msgstr "Taux de la vitesse ISO"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Istanbul"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "IT8BL"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "IT8CTPAD"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "IT8LW"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "IT8MP"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "ITULab"
+msgstr ""
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Jakarta"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "JBIG"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "JBIG B&W"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "JBIG Color"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Jeddah"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Jerusalem"
+msgstr ""
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Johannesburg"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+#. Canon specific tags / 0x0001.9 (CanonCameraSettings.RecordMode)
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "JPEG"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "JPEG (old style)"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "JPEG 2000"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "JPEG File Interchange (JFIF)"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x0201 (JPEGInterchangeFormat)
+msgid "JPEGInterchangeFormat"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x0202 (JPEGInterchangeFormatLength)
+msgid "JPEGInterchangeFormatLength"
+msgstr ""
+
+#. Pentax specific tags / 0x003f (LensType)
+msgid "K,M Lens"
+msgstr "Objectif à monture K M"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Kabul"
+msgstr "Kaboul"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Karachi"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Kathmandu"
+msgstr "Katmandou"
+
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+msgid "Kelvin"
+msgstr ""
+
+#. [Metadata name] XMP tags / dc:subject (Keywords)
+#. [Metadata name] IPTC tags / 0x0219 (Keywords)
+msgid "Keywords"
+msgstr "Mots clefs"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Kids"
+msgstr "Enfants"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Kids & Pets"
+msgstr "Enfants et Animaux de compagnie"
+
+#. Exif GPS tags / 0x000c (GPSSpeedRef)
+#. Exif GPS tags / 0x0019 (GPSDestDistanceRef)
+msgid "kilometers per hour"
+msgstr "Kilomètres par heure"
+
+#. Exif GPS tags / 0x000c (GPSSpeedRef)
+#. Exif GPS tags / 0x0019 (GPSDestDistanceRef)
+msgid "knots"
+msgstr "Miles nautiques"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Kodak 262"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Kodak DCR Compressed"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Kodak KDC Compressed"
+msgstr ""
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Kuala Lumpur"
+msgstr ""
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+#. IPTC tags / 0x0283 (Image Orientation)
+#. Pentax specific tags / 0x004f (ImageTone)
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Exif & Tiff tags / 0xa406 (SceneCaptureType)
+msgid "Landscape"
+msgstr "Paysage"
+
+#. Exif & Tiff tags / 0x8822 (ExposureProgram)
+msgid "landscape mode"
+msgstr "Mode paysage"
+
+#. [Metadata name] IPTC tags / 0x0287 (Language Identifier)
+msgid "Language Identifier"
+msgstr "Identificateur de la langue"
+
+#. Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+msgid "Large"
+msgstr "Grand"
+
+#. Canon specific tags / 0x0001.19 (CanonCameraSettings.AFPoint)
+#. Pentax specific tags / 0x000e (AFPoint)
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+msgid "Left"
+msgstr "Gauche"
+
+#. [Metadata name] Nikon specific tags / 0x0084 (Lens)
+msgid "Lens"
+msgstr "Objectif"
+
+#. [Metadata name] Nikon specific tags / 0x0098 (LensData)
+msgid "LensData"
+msgstr "Informations sur l'objectif"
+
+#. [Metadata name] Nikon specific tags / 0x008b (LensFStops)
+msgid "LensFStops"
+msgstr "Lens FStops"
+
+#. [Metadata name] Pentax specific tags / 0x0207 (LensInfo)
+msgid "LensInfo"
+msgstr "Informations sur l'objectif"
+
+#. [Metadata name] Canon specific tags / 0x0095 (LensModel)
+msgid "LensModel"
+msgstr "Modèle de l'objectif"
+
+#. [Metadata name] Pentax specific tags / 0x003f (LensType)
+#. [Metadata name] Nikon specific tags / 0x0083 (LensType)
+msgid "LensType"
+msgstr "Type d'objectif"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Light Pet"
+msgstr "Eclairage pour animaux de compagnie"
+
+#. [Metadata name] Canon specific tags / 0x4018 (LightingOpt)
+msgid "LightingOpt"
+msgstr "Lighting Opt (?)"
+
+#. [Metadata name] Pentax specific tags / 0x0015 (LightReading)
+msgid "LightReading"
+msgstr "Lecture de la lumière"
+
+#. [Metadata name] Exif & Tiff tags / 0x9208 (LightSource)
+#. [Metadata name] Nikon specific tags / 0x0090 (LightSource)
+#. [Metadata name] XMP tags / exif:LightSource (LightSource)
+msgid "LightSource"
+msgstr "Source de lumière"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Lima"
+msgstr ""
+
+#. XMP tags / crs:ToneCurveName
+msgid "linear"
+msgstr "Linéaire"
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "Linear Raw"
+msgstr "RAW linéaire"
+
+#. [Metadata name] Nikon specific tags / 0x0096 (LinearizationTable)
+msgid "LinearizationTable"
+msgstr "Tableau de linéarisation"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Lisbon"
+msgstr "Lisbonne"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "London"
+msgstr "Londre"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Long Shutter"
+msgstr "Obturation longue"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Los Angeles"
+msgstr ""
+
+#. Exif & Tiff tags / 0xa409 (Saturation)
+#. Exif & Tiff tags / 0xa408 (Contrast)
+#. Nikon specific tags / 0x002a (VignetteControl)
+#. Pentax specific tags / 0x0020 (Contrast)
+#. Nikon specific tags / 0x0022 (ActiveD-Lighting)
+#. Pentax specific tags / 0x001f (Saturation)
+#. Canon specific tags / 0x0001.41 (CanonCameraSettings.ManualFlashOutput)
+#. Exif & Tiff tags / 0xa40a (Sharpness)
+#. IPTC tags / 0x013c (Envelope Priority)
+#. IPTC tags / 0x020a (Urgency)
+#. Nikon specific tags / 0x00b1 (HighISONoiseReduction)
+#. XMP tags / photoshop:Urgency
+msgid "low"
+msgstr "Bas"
+
+#. Exif & Tiff tags / 0xa407 (GainControl)
+msgid "low gain down"
+msgstr "Gain réduit à"
+
+#. Exif & Tiff tags / 0xa407 (GainControl)
+msgid "low gain up"
+msgstr "Gain réduit jusqu'à"
+
+#. IPTC tags / 0x020a (Urgency)
+#. XMP tags / photoshop:Urgency
+#. IPTC tags / 0x013c (Envelope Priority)
+msgid "low+"
+msgstr "Bas+"
+
+#. IPTC tags / 0x013c (Envelope Priority)
+#. XMP tags / photoshop:Urgency
+#. IPTC tags / 0x020a (Urgency)
+msgid "low++"
+msgstr "Bas++"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Pentax specific tags / 0x000e (AFPoint)
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Lower-left"
+msgstr "En bas à gauche"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Pentax specific tags / 0x000e (AFPoint)
+msgid "Lower-right"
+msgstr "En bas à droite"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "LZW"
+msgstr ""
+
+#. Pentax specific tags / 0x003f (LensType)
+msgid "M-42 or No Lens"
+msgstr "M-42 ou pas d'objectif"
+
+#. Canon specific tags / 0x0001.20 (CanonCameraSettings.CanonExposureMode)
+msgid "M-Dep"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "MacBinary II"
+msgstr ""
+
+#. Canon specific tags / 0x0001.1 (CanonCameraSettings.MacroMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Exif & Tiff tags / 0xa40c (SubjectDistanceRange)
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+#. Pentax specific tags / 0x000d (Focus)
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+msgid "macro"
+msgstr "Macro"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Madrid"
+msgstr ""
+
+#. Exif GPS tags / 0x000e (GPSTrackRef)
+#. Exif GPS tags / 0x0010 (GPSImgDirectionRef)
+#. Exif GPS tags / 0x0017 (GPSDestBearingRef)
+msgid "magnetic direction"
+msgstr "Nord magnétique"
+
+#. [Metadata name] Exif & Tiff tags / 0x010f (Make)
+#. [Metadata name] XMP tags / tiff:Make (Make)
+msgid "Make"
+msgstr "Fabriquant"
+
+#. [Metadata name] Exif & Tiff tags / 0x927c (MakerNote)
+msgid "MakerNote"
+msgstr "Données spécifiques du fabriquant"
+
+#. [Metadata name] Nikon specific tags / 0x0001 (MakerNoteVersion)
+msgid "MakerNoteVersion"
+msgstr "Version des données du fabriquant"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Male"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Manila"
+msgstr "Manille"
+
+#. Canon specific tags / 0x0001.32 (CanonCameraSettings.FocusContinuous)
+#. Pentax specific tags / 0x000d (Focus)
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+#. Canon specific tags / 0x0001.29 (CanonCameraSettings.FlashBits)
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+#. Exif & Tiff tags / 0x8822 (ExposureProgram)
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Canon specific tags / 0x0001.20 (CanonCameraSettings.CanonExposureMode)
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+#. Pentax specific tags / 0x0001 (ShootingMode)
+msgid "Manual"
+msgstr "Manuel"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Manual (Off-Auto-Aperture)"
+msgstr "Manuel (Ouverture automatique OFF)"
+
+#. Canon specific tags / 0x0001.19 (CanonCameraSettings.AFPoint)
+msgid "Manual AF point selection"
+msgstr "Sélection manuelle des collimateurs"
+
+#. Exif & Tiff tags / 0xa402 (ExposureMode)
+msgid "manual exposure"
+msgstr "Exposition manuelle"
+
+#. Canon specific tags / 0x0001.7 (CanonCameraSettings.FocusMode)
+msgid "Manual Focus (3)"
+msgstr "Mise au point manuelle (3)"
+
+#. Canon specific tags / 0x0001.7 (CanonCameraSettings.FocusMode)
+msgid "Manual Focus (6)"
+msgstr "Mise au point manuelle (6)"
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "Manual Temperature (Kelvin)"
+msgstr "Réglage manuel de la température (Kelvin)"
+
+#. Exif & Tiff tags / 0xa403 (Balance)
+msgid "manual white balance"
+msgstr "Réglage manuel de la balance des blancs"
+
+#. [Metadata name] Nikon specific tags / 0x0085 (ManualFocusDistance)
+msgid "ManualFocusDistance"
+msgstr "Réglage manuel de la distance de mise au point"
+
+#. [Metadata name] IPTC tags / 0x0714 (Max Subfile Size)
+msgid "Max Subfile Size"
+msgstr "Poids maximum du sous-fichier"
+
+#. [Metadata name] Exif & Tiff tags / 0x9205 (MaxApertureValue)
+#. [Metadata name] XMP tags / exif:MaxApertureValue (MaxApertureValue)
+msgid "MaxApertureValue"
+msgstr "Ouverture maximum"
+
+#. [Metadata name] IPTC tags / 0x075f (Maximum ObjectData Size)
+msgid "Maximum ObjectData Size"
+msgstr "Poids maximum de l'objet"
+
+#. [Metadata name] Exif & Tiff tags / 0x0119 (MaxSampleValue)
+msgid "MaxSampleValue"
+msgstr "Valeur maximum de l'échantillonnage"
+
+#. [Metadata name] Canon specific tags / 0x00aa (MeasuredColor)
+msgid "MeasuredColor"
+msgstr "Couleur mesurée"
+
+#. Exif GPS tags / 0x0009 (GPSStatus)
+msgid "measurement in progress"
+msgstr "Mesure en cours"
+
+#. Exif GPS tags / 0x0009 (GPSStatus)
+msgid "measurement interoperability"
+msgstr "Interopérabilité de la mesure"
+
+#. Exif GPS tags / 0x001e (GPSDifferential)
+msgid "measurement without differential correction"
+msgstr "Mesure sans correction différentielle"
+
+#. Pentax specific tags / 0x0021 (Sharpness)
+msgid "Med Hard"
+msgstr "Dur (Moyen)"
+
+#. Pentax specific tags / 0x0020 (Contrast)
+#. Pentax specific tags / 0x001f (Saturation)
+msgid "Med High"
+msgstr "Elevé (Moyen)"
+
+#. Pentax specific tags / 0x0020 (Contrast)
+#. Pentax specific tags / 0x001f (Saturation)
+msgid "Med Low"
+msgstr "Bas (Moyen)"
+
+#. Pentax specific tags / 0x0021 (Sharpness)
+msgid "Med Soft"
+msgstr "Doux (Moyen)"
+
+#. Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+#. Canon specific tags / 0x0001.41 (CanonCameraSettings.ManualFlashOutput)
+msgid "Medium"
+msgstr "Moyen"
+
+#. Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+msgid "Medium 1"
+msgstr "Moyen 1"
+
+#. Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+msgid "Medium 2"
+msgstr "Moyen 2"
+
+#. Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+msgid "Medium 3"
+msgstr "Moyen 3"
+
+#. XMP tags / crs:ToneCurveName
+msgid "Medium Contrast"
+msgstr "Contraste moyen"
+
+#. Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+msgid "Medium Movie"
+msgstr "Film, qualité moyenne"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Medium Pet"
+msgstr "Animaux de compagnie"
+
+#. [Metadata name] XMP tags / exif:MeteringMode (MeteringMode)
+#. [Metadata name] Pentax specific tags / 0x0017 (MeteringMode)
+#. [Metadata name] Exif & Tiff tags / 0x9207 (MeteringMode)
+msgid "MeteringMode"
+msgstr "Mode de mesure"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Mexico City"
+msgstr "Mexico"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Miami"
+msgstr ""
+
+#. Exif & Tiff tags / 0xa210 (FocalPlaneResolutionUnit)
+msgid "micrometers"
+msgstr "Micromètres"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Microsoft Bit Mapped Graphics File [*.BMP]"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Microsoft Document Imaging (MDI) Binary Level Codec"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Microsoft Document Imaging (MDI) Progressive Transform Codec"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Microsoft Document Imaging (MDI) Vector"
+msgstr ""
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Pentax specific tags / 0x000e (AFPoint)
+msgid "Mid-left"
+msgstr "Centre gauche"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Pentax specific tags / 0x000e (AFPoint)
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Mid-right"
+msgstr "Centre droit"
+
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+msgid "middle range"
+msgstr "Zone centrale"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Milan"
+msgstr ""
+
+#. Exif GPS tags / 0x000c (GPSSpeedRef)
+#. Exif GPS tags / 0x0019 (GPSDestDistanceRef)
+msgid "miles per hour"
+msgstr "Miles par heure"
+
+#. Exif & Tiff tags / 0xa210 (FocalPlaneResolutionUnit)
+msgid "millimeters"
+msgstr "Millimètres"
+
+#. Nikon specific tags / 0x00b1 (HighISONoiseReduction)
+msgid "Minimal"
+msgstr "Minimum"
+
+#. [Metadata name] Exif & Tiff tags / 0x0118 (MinSampleValue)
+msgid "MinSampleValue"
+msgstr "Valeur maximum de l'échantillonnage"
+
+#. [Metadata name] Exif & Tiff tags / 0x0110 (Model)
+#. [Metadata name] XMP tags / tiff:Model (Model)
+msgid "Model"
+msgstr "Modèle"
+
+#. [Metadata name] IPTC tags / 0x0100 (Model Version)
+msgid "Model Version"
+msgstr "Version du modèle"
+
+#. [Metadata name] Canon specific tags / 0x00b1 (ModifiedInfo)
+msgid "ModifiedInfo"
+msgstr "Informations modifiées"
+
+#. Pentax specific tags / 0x004f (ImageTone)
+msgid "Monochrome"
+msgstr ""
+
+#. IPTC tags / 0x024b (Object Cycle)
+msgid "morning"
+msgstr "Matin"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Moscow"
+msgstr "Moscou"
+
+#. Canon specific tags / 0x0001.5 (CanonCameraSettings.ContinuousDrive)
+msgid "Movie"
+msgstr "Film"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "movie scene"
+msgstr "Scène de film"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "MPEG 2 Audio Layer 2 (Musicom), ISO/IEC"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "MPEG 2 Audio Layer 3, ISO/IEC"
+msgstr ""
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "MTF Program"
+msgstr "Programme MTF"
+
+#. Pentax specific tags / 0x0017 (MeteringMode)
+msgid "Multi Segment"
+msgstr "Multi segment"
+
+#. [Metadata name] Nikon specific tags / 0x00b0 (MultiExposure)
+msgid "MultiExposure"
+msgstr "Expositions multiples"
+
+#. Pentax specific tags / 0x0034 (DriveMode)
+msgid "Multiple Exposure"
+msgstr "Expositions multiples"
+
+#. Exif & Tiff tags / 0x9207 (MeteringMode)
+msgid "multispot"
+msgstr "Points multiples"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Museum"
+msgstr "Musée"
+
+#. Canon specific tags / 0x0001.40 (CanonCameraSettings.PhotoEffect)
+msgid "My Color Data"
+msgstr "Mes données de couleur"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "My Colors"
+msgstr "Mes couleurs"
+
+#. [Metadata name] Canon specific tags / 0x001d (MyColors)
+msgid "MyColors"
+msgstr "Mes couleurs"
+
+#. Canon specific tags / 0x0001.41 (CanonCameraSettings.ManualFlashOutput)
+#. Pentax specific tags / 0x0034 (DriveMode)
+#. Canon specific tags / 0x0001.41 (CanonCameraSettings.ManualFlashOutput)
+#. Canon specific tags / 0x0001.46 (CanonCameraSettings.SRAWQuality)
+#. Canon specific tags / 0x0004.18 (CanonShotInfo.ControlMode)
+msgid "n/a"
+msgstr ""
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "n/a - off-auto-aperture"
+msgstr "n/a"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "NAA 89-3 (ANPA 1312)"
+msgstr ""
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Nairobi"
+msgstr ""
+
+#. Pentax specific tags / 0x004f (ImageTone)
+msgid "Natural"
+msgstr "Naturel"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Natural Skin Tone"
+msgstr "Ton naturel de la peau"
+
+#. [Metadata name] Nikon specific tags / 0x0e22 (NEFBitDepth)
+#, fuzzy
+msgid "NEFBitDepth"
+msgstr "NEF bit depth"
+
+#. [Metadata name] Nikon specific tags / 0x0093 (NEFCompression)
+msgid "NEFCompression"
+msgstr "Compression NEF"
+
+#. Canon specific tags / 0x0001.40 (CanonCameraSettings.PhotoEffect)
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Neutral"
+msgstr "Neutre"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "New York"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "News Industry Text Format (NITF)"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Next"
+msgstr "Suivante"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Night"
+msgstr "Nuit"
+
+#. Exif & Tiff tags / 0xa406 (SceneCaptureType)
+#. XMP tags / Iptc4xmpCore:Scene
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Canon specific tags / 0x0004.8 (CanonShotInfo.SlowShutter)
+msgid "night scene"
+msgstr "Nuit"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Night Scene Portrait"
+msgstr "Portrait de nuit"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Night Snap"
+msgstr "Instantané de nuit"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Night Snapshot"
+msgstr "Instantané de nuit"
+
+#. Pentax specific tags / 0x0001 (ShootingMode)
+msgid "Night-Scene"
+msgstr "Nuit"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Nikon NEF Compressed"
+msgstr "Compression NEF Nikon"
+
+#. [Metadata name] Nikon specific tags / 0x0e01 (NikonCaptureData)
+msgid "NikonCaptureData"
+msgstr "Capture des données"
+
+#. [Metadata name] Nikon specific tags / 0x0e0e (NikonCaptureOffsets)
+msgid "NikonCaptureOffsets"
+msgstr "Capture offsets"
+
+#. [Metadata name] Nikon specific tags / 0x0e1e (NikonCaptureOutput)
+msgid "NikonCaptureOutput"
+msgstr "Capture des sorties"
+
+#. [Metadata name] Nikon specific tags / 0x0e09 (NikonCaptureVersion)
+msgid "NikonCaptureVersion"
+msgstr "Capture version"
+
+#. [Metadata name] Nikon specific tags / 0x0e1d (NikonICCProfile)
+msgid "NikonICCProfile"
+msgstr "Profil ICC"
+
+#. [Metadata name] Nikon specific tags / 0x0011 (NikonPreview)
+msgid "NikonPreview"
+msgstr "Prévisualisation"
+
+#. [Metadata name] Nikon specific tags / 0x0e10 (NikonScanIFD)
+msgid "NikonScanIFD"
+msgstr "Scan IFD"
+
+#. Hardcoded value
+msgid "No"
+msgstr "Non"
+
+#. Canon specific tags / 0x0001.33 (CanonCameraSettings.AESetting)
+msgid "No AE"
+msgstr "Pas d'AE"
+
+#. Hardcoded value
+msgid "No extended bracketing"
+msgstr "Pas de bracketing étendu"
+
+#. Exif & Tiff tags / 0x0107 (Thresholding)
+msgid "no dithering or halftoning"
+msgstr "Aucun tramage ou demi-teintes"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "no flash"
+msgstr "Pas de flash"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. XMP tags / exif:Function
+msgid "no flash function"
+msgstr "Pas de fonctions pour le flash"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "No ObjectData"
+msgstr "Pas de données pour l'objet"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. XMP tags / exif:RedEyeMode
+msgid "no red-eye reduction mode or unknown"
+msgstr "Réduction des yeux rouges désactivé, ou état inconnu"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. XMP tags / exif:Return
+msgid "no strobe"
+msgstr "Pas de stroboscope"
+
+#. [Metadata name] Exif & Tiff tags / 0xa20d (Noise)
+msgid "Noise"
+msgstr "Bruit"
+
+#. [Metadata name] Pentax specific tags / 0x0049 (NoiseReduction)
+#. [Metadata name] Nikon specific tags / 0x0095 (NoiseReduction)
+msgid "NoiseReduction"
+msgstr "Réduction du bruit"
+
+#. IPTC tags / 0x020a (Urgency)
+#. IPTC tags / 0x013c (Envelope Priority)
+#. XMP tags / photoshop:Urgency
+#. Exif & Tiff tags / 0xa210 (FocalPlaneResolutionUnit)
+#. XMP tags / photoshop:Urgency
+#. IPTC tags / 0x020a (Urgency)
+#. Exif & Tiff tags / 0x0128 (ResolutionUnit)
+#. Exif & Tiff tags / 0x013d (Predictor)
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+#. Canon specific tags / 0x0004.8 (CanonShotInfo.SlowShutter)
+#. Canon specific tags / 0x0004.27 (CanonShotInfo.AutoRotate)
+#. IPTC tags / 0x013c (Envelope Priority)
+#. Canon specific tags / 0x0001.12 (CanonCameraSettings.DigitalZoom)
+#. Pentax specific tags / 0x001f (Saturation)
+#. Exif & Tiff tags / 0xa407 (GainControl)
+msgid "none"
+msgstr "Aucun"
+
+#. Canon specific tags / 0x0001.19 (CanonCameraSettings.AFPoint)
+msgid "None (MF)"
+msgstr "Aucun (Mise au point manuelle)"
+
+#. Exif & Tiff tags / 0xa408 (Contrast)
+#. Canon specific tags / 0x0001.1 (CanonCameraSettings.MacroMode)
+#. Exif & Tiff tags / 0xa40a (Sharpness)
+#. Nikon specific tags / 0x00b1 (HighISONoiseReduction)
+#. Pentax specific tags / 0x001f (Saturation)
+#. Canon specific tags / 0x0001.42 (CanonCameraSettings.ColorTone)
+#. Canon specific tags / 0x0001.3 (CanonCameraSettings.Quality)
+#. Exif & Tiff tags / 0xa409 (Saturation)
+#. Pentax specific tags / 0x0020 (Contrast)
+#. XMP tags / photoshop:Urgency
+#. Nikon specific tags / 0x002a (VignetteControl)
+#. Pentax specific tags / 0x0021 (Sharpness)
+#. Pentax specific tags / 0x000d (Focus)
+#. IPTC tags / 0x013c (Envelope Priority)
+#. IPTC tags / 0x020a (Urgency)
+#. Nikon specific tags / 0x0022 (ActiveD-Lighting)
+msgid "normal"
+msgstr "Normal"
+
+#. Canon specific tags / 0x0001.33 (CanonCameraSettings.AESetting)
+msgid "Normal AE"
+msgstr "AE Normal"
+
+#. Canon specific tags / 0x0001.3 (CanonCameraSettings.Quality)
+msgid "Normal Movie"
+msgstr "Film, qualité normale"
+
+#. Exif & Tiff tags / 0xa401 (CustomRendered)
+msgid "normal process"
+msgstr "Rendu normal"
+
+#. Exif & Tiff tags / 0x8822 (ExposureProgram)
+msgid "normal program"
+msgstr "Normal"
+
+#. Exif GPS tags / 0x0001 (GPSLatitudeRef)
+#. Exif GPS tags / 0x0013 (GPSDestLatitudeRef)
+msgid "North"
+msgstr "Nord"
+
+#. Exif & Tiff tags / 0xa217 (SensingMethod)
+#. Exif & Tiff tags / 0x8822 (ExposureProgram)
+msgid "not defined"
+msgstr "Non défini"
+
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+msgid "not known"
+msgstr "Inconnu"
+
+#. Nikon specific tags / 0x0087 (FlashMode)
+msgid "Not ready"
+msgstr "N'est pas prêt"
+
+#. Hardcoded value
+msgid "not yet implemented"
+msgstr "N'est pas encore implémenté"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Noumea"
+msgstr "Nouméa"
+
+#. [Metadata name] IPTC tags / 0x0204 (Object Attribute Reference)
+#. [Metadata name] XMP tags / Iptc4xmpCore:IntellectualGenre (Object Attribute Reference)
+msgid "Object Attribute Reference"
+msgstr "Référence d'attribut de l'objet / Genre"
+
+#. [Metadata name] IPTC tags / 0x024b (Object Cycle)
+msgid "Object Cycle"
+msgstr "Cycle"
+
+#. [Metadata name] IPTC tags / 0x0205 (Object Name)
+#. [Metadata name] XMP tags / dc:title (Object Name)
+msgid "Object Name"
+msgstr "Titre"
+
+#. [Metadata name] IPTC tags / 0x0203 (Object Type Reference)
+#, fuzzy
+msgid "Object Type Reference"
+msgstr "Object type reference"
+
+#. [Metadata name] IPTC tags / 0x02ca (ObjectData Preview Data)
+msgid "ObjectData Preview Data"
+msgstr "Prévisualisation des données"
+
+#. [Metadata name] IPTC tags / 0x02c8 (ObjectData Preview File Format)
+msgid "ObjectData Preview File Format"
+msgstr "Format de la prévisualisation"
+
+#. [Metadata name] IPTC tags / 0x02c9 (ObjectData Preview File Format Version)
+msgid "ObjectData Preview File Format Version"
+msgstr "Version du format de la prévisualisation"
+
+#. [Metadata name] IPTC tags / 0x075a (ObjectData Size Announced)
+msgid "ObjectData Size Announced"
+msgstr "Poids déclaré"
+
+#. [Metadata name] XMP tags / exif:OECF (OECF)
+#. [Metadata name] Exif & Tiff tags / 0x8828 (OECF)
+msgid "OECF"
+msgstr ""
+
+#. Pentax specific tags / 0x0071 (HighISONoiseReduction)
+#. Canon specific tags / 0x000d.1DMarkIV.7 (CanonCameraInfo.HighlightTonePriority)
+#. Canon specific tags / 0x000d.40D.21 (CanonCameraInfo.FlashMeteringMode)
+#. Nikon specific tags / 0x002a (VignetteControl)
+#. Nikon specific tags / 0x00b1 (HighISONoiseReduction)
+#. Canon specific tags / 0x0001.4 (CanonCameraSettings.CanonFlashMode)
+#. Pentax specific tags / 0x0069 (DynamicRangeExpansion)
+#. Nikon specific tags / 0x0022 (ActiveD-Lighting)
+#. Nikon specific tags / 0x0020 (ImageAuthentication)
+#. Canon specific tags / 0x000d.1DMarkIV.21 (CanonCameraInfo.FlashMeteringMode)
+#. Canon specific tags / 0x0004.8 (CanonShotInfo.SlowShutter)
+#. Canon specific tags / 0x0001.34 (CanonCameraSettings.ImageStabilization)
+#. Canon specific tags / 0x0004.16 (CanonShotInfo.AutoExposureBracketing)
+#. Canon specific tags / 0x0004.28 (CanonShotInfo.NDFilter)
+#. Canon specific tags / 0x0001.40 (CanonCameraSettings.PhotoEffect)
+msgid "Off"
+msgstr ""
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. Pentax specific tags / 0x000c (Flash)
+msgid "off, did not fire"
+msgstr "Eteint, ne s'est pas déclenché"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "off, did not fire, return not detected"
+msgstr "Eteint, ne s'est pas déclenché, sans retour"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "off, no flash function"
+msgstr "Eteint, pas de fonction pour le flash"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "off, red-eye reduction"
+msgstr "Eteint, réduction des yeux rouges activé"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "off-beat"
+msgstr "Excentrique"
+
+#. [Metadata name] Exif & Tiff tags / 0x00ff (OldSubfileType)
+msgid "OldSubfileType"
+msgstr "Ancien type de sous-fichier"
+
+#. Canon specific tags / 0x0004.28 (CanonShotInfo.NDFilter)
+#. Canon specific tags / 0x000d.1DMarkIV.7 (CanonCameraInfo.HighlightTonePriority)
+#. Pentax specific tags / 0x0069 (DynamicRangeExpansion)
+#. Nikon specific tags / 0x0020 (ImageAuthentication)
+#. Canon specific tags / 0x0001.4 (CanonCameraSettings.CanonFlashMode)
+#. Canon specific tags / 0x0004.16 (CanonShotInfo.AutoExposureBracketing)
+#. Canon specific tags / 0x0001.34 (CanonCameraSettings.ImageStabilization)
+#. Canon specific tags / 0x0004.8 (CanonShotInfo.SlowShutter)
+msgid "On"
+msgstr ""
+
+#. Canon specific tags / 0x0004.16 (CanonShotInfo.AutoExposureBracketing)
+msgid "On (shot 1)"
+msgstr "On (Cliché 1)"
+
+#. Canon specific tags / 0x0004.16 (CanonShotInfo.AutoExposureBracketing)
+msgid "On (shot 2)"
+msgstr "On (Cliché 2)"
+
+#. Canon specific tags / 0x0004.16 (CanonShotInfo.AutoExposureBracketing)
+msgid "On (shot 3)"
+msgstr "On (Cliché 3)"
+
+#. Pentax specific tags / 0x000c (Flash)
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "on, did not fire"
+msgstr "Activé, ne s'est pas déclenché"
+
+#. Pentax specific tags / 0x000c (Flash)
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "on, fired"
+msgstr "Activé, déclenché"
+
+#. Canon specific tags / 0x0001.34 (CanonCameraSettings.ImageStabilization)
+msgid "On, Panning"
+msgstr "Activé, panoramique"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. Pentax specific tags / 0x000c (Flash)
+msgid "on, red-eye reduction"
+msgstr "Activé, réduction des yeux rouges activé"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "on, red-eye reduction, return detected"
+msgstr "Activé, réduction des yeux rouges activé, avec retour"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "on, red-eye reduction, return not detected"
+msgstr "Activé, réduction des yeux rouges activé, sans retour"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "on, return detected"
+msgstr "Activé, avec retour"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "on, return not detected"
+msgstr "Activé, sans retour"
+
+#. Canon specific tags / 0x0001.34 (CanonCameraSettings.ImageStabilization)
+msgid "On, Shot Only"
+msgstr "Activé, cliché uniquement"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "on, slow-sync"
+msgstr "Activé, synchronisation lente"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "on, slow-sync, red-eye reduction"
+msgstr "Activé, synchronisation lente, réduction des yeux rouges activé"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "on, soft"
+msgstr "Activé, doux"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "on, trailing-curtain sync"
+msgstr "Activé, synchronisation au second rideau"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "on, wireless (control)"
+msgstr "Activé, sans fil (controlé)"
+
+#. Pentax specific tags / 0x000c (Flash)
+msgid "on, wireless (master)"
+msgstr "Activé, sans fil (maître)"
+
+#. Exif & Tiff tags / 0xa217 (SensingMethod)
+msgid "one-chip color area sensor"
+msgstr "Capteur couleur, une puce"
+
+#. Canon specific tags / 0x0001.7 (CanonCameraSettings.FocusMode)
+msgid "One-shot AF"
+msgstr "AF sur cliché"
+
+#. Exif & Tiff tags / 0x0107 (Thresholding)
+msgid "ordered dither or halftone"
+msgstr "Trames ou demi-teintes"
+
+#. [Metadata name] XMP tags / tiff:Orientation (Orientation)
+#. [Metadata name] Exif & Tiff tags / 0x0112 (Orientation)
+msgid "Orientation"
+msgstr ""
+
+#. [Metadata name] XMP tags / photoshop:TransmissionReference (Original Transmission Reference)
+#. [Metadata name] IPTC tags / 0x0267 (Original Transmission Reference)
+msgid "Original Transmission Reference"
+msgstr "Référence de la transmission d'origine"
+
+#. [Metadata name] Canon specific tags / 0x0083 (OriginalDecisionDataOffset)
+msgid "OriginalDecisionDataOffset"
+msgstr "Données originales dans la décision"
+
+#. [Metadata name] IPTC tags / 0x0241 (Originating Program)
+msgid "Originating Program"
+msgstr "Programme d'origine"
+
+#. Canon specific tags / 0x0001.12 (CanonCameraSettings.DigitalZoom)
+#. Exif & Tiff tags / 0x9207 (MeteringMode)
+msgid "other"
+msgstr "Autres"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "other light source"
+msgstr "Autre source de lumière"
+
+#. Exif GPS tags / 0x0005 (GPSAltitudeRef)
+msgid "over the sea"
+msgstr "+"
+
+#. [Metadata name] Canon specific tags / 0x0009 (OwnerName)
+msgid "OwnerName"
+msgstr "Propriétaire"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "PackBits"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x011d (PageName)
+msgid "PageName"
+msgstr "Nom de la page"
+
+#. [Metadata name] Exif & Tiff tags / 0x0129 (PageNumber)
+msgid "PageNumber"
+msgstr "Numéro de la page"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Pago Pago"
+msgstr ""
+
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+#. Pentax specific tags / 0x000d (Focus)
+#. Canon specific tags / 0x0001.7 (CanonCameraSettings.FocusMode)
+msgid "pan focus"
+msgstr "Panoramique"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Panorama"
+msgstr ""
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "panoramic view"
+msgstr "Vue panoramique"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Paris"
+msgstr ""
+
+#. Canon specific tags / 0x0001.17 (CanonCameraSettings.MeteringMode)
+#. Exif & Tiff tags / 0x9207 (MeteringMode)
+msgid "partial"
+msgstr "Partiel"
+
+#. Exif & Tiff tags / 0x9207 (MeteringMode)
+msgid "pattern"
+msgstr "Motif"
+
+#. Nikon specific tags / 0x0089 (ShootingMode)
+msgid "PC Control"
+msgstr "Contrôlé via PC"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "PC DOS/Windows Executable Files [*.COM][*.EXE]"
+msgstr ""
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "PC Set1"
+msgstr ""
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "PC Set2"
+msgstr ""
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "PC Set3"
+msgstr ""
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "PC Set4"
+msgstr ""
+
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "PC Set5"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Pentax PEF Compressed"
+msgstr "Compression PEF Pentax"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "performing"
+msgstr "De la scène"
+
+#. [Metadata name] Canon specific tags / 0x0091 (PersonalFunctions)
+msgid "PersonalFunctions"
+msgstr "Fonctions personnelles"
+
+#. [Metadata name] Canon specific tags / 0x0092 (PersonalFunctionValues)
+msgid "PersonalFunctionValues"
+msgstr "Valeurs des fonctions personnelles"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Perth"
+msgstr ""
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Pet"
+msgstr "Animaux de compagnie"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Phnom Penh"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Photo-CD Image-Pac (Eastman Kodak)"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+#. [Metadata name] XMP tags / tiff:PhotometricInterpretation (PhotometricInterpretation)
+msgid "PhotometricInterpretation"
+msgstr "Interprétation photométrique"
+
+#. [Metadata name] XMP tags / photoshop:AuthorsPosition
+msgid "photoshop:AuthorsPosition"
+msgstr "Profession de l'auteur"
+
+#. [Metadata name] XMP tags / photoshop:CaptionWriter
+msgid "photoshop:CaptionWriter"
+msgstr "Rédacteur"
+
+#. [Metadata name] XMP tags / photoshop:Category
+msgid "photoshop:Category"
+msgstr "Catégorie"
+
+#. [Metadata name] XMP tags / photoshop:City
+msgid "photoshop:City"
+msgstr "Ville"
+
+#. [Metadata name] XMP tags / photoshop:Country
+msgid "photoshop:Country"
+msgstr "Pays/Nom"
+
+#. [Metadata name] XMP tags / photoshop:ColorMode
+msgid "photoshop:ColorMode"
+msgstr "Mode de couleur"
+
+#. [Metadata name] XMP tags / photoshop:Credit
+msgid "photoshop:Credit"
+msgstr "Crédit"
+
+#. [Metadata name] XMP tags / photoshop:DateCreated
+msgid "photoshop:DateCreated"
+msgstr "Date de creation"
+
+#. [Metadata name] XMP tags / photoshop:Headline
+msgid "photoshop:Headline"
+msgstr "Titre"
+
+#. [Metadata name] XMP tags / photoshop:ICCProfile
+msgid "photoshop:ICCProfile"
+msgstr "Profil ICC"
+
+#. [Metadata name] XMP tags / photoshop:Instructions
+msgid "photoshop:Instructions"
+msgstr "Instructions spécifiques"
+
+#. [Metadata name] XMP tags / photoshop:Source
+msgid "photoshop:Source"
+msgstr "Source"
+
+#. [Metadata name] XMP tags / photoshop:State
+msgid "photoshop:State"
+msgstr "Etat/Province"
+
+#. [Metadata name] XMP tags / photoshop:SupplementalCategories
+msgid "photoshop:SupplementalCategories"
+msgstr "Catégories supplémentaires"
+
+#. [Metadata name] XMP tags / photoshop:TransmissionReference
+msgid "photoshop:TransmissionReference"
+msgstr "Référence de la transmission d'origine"
+
+#. [Metadata name] XMP tags / photoshop:Urgency
+msgid "photoshop:Urgency"
+msgstr "Urgence"
+
+#. [Metadata name] Nikon specific tags / 0x0023 (PictureControl)
+#. [Metadata name] Nikon specific tags / 0x00bd (PictureControl)
+msgid "PictureControl"
+msgstr "Contrôle de l'image"
+
+#. [Metadata name] Pentax specific tags / 0x0033 (PictureMode)
+#. [Metadata name] Pentax specific tags / 0x000b (PictureMode)
+msgid "PictureMode"
+msgstr "Mode"
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "Pixar LogL"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "Pixar LogLuv"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "PixarFilm"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "PixarLog"
+msgstr ""
+
+#. XMP tags / crs:CropUnits
+msgid "pixels"
+msgstr "Pixels"
+
+#. [Metadata name] XMP tags / exif:PixelXDimension (PixelXDimension)
+#. [Metadata name] Exif & Tiff tags / 0xa002 (PixelXDimension)
+msgid "PixelXDimension"
+msgstr "Dimensions X du pixel"
+
+#. [Metadata name] XMP tags / exif:PixelYDimension (PixelYDimension)
+#. [Metadata name] Exif & Tiff tags / 0xa003 (PixelYDimension)
+msgid "PixelYDimension"
+msgstr "Dimensions Y du pixel"
+
+#. Exif & Tiff tags / 0x011c (PlanarConfiguration)
+msgid "planar"
+msgstr "Planaire"
+
+#. [Metadata name] Exif & Tiff tags / 0x011c (PlanarConfiguration)
+#. [Metadata name] XMP tags / tiff:PlanarConfiguration (PlanarConfiguration)
+msgid "PlanarConfiguration"
+msgstr "Configuration planaire"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Portable Document File (*.PDF) Adobe"
+msgstr ""
+
+#. Pentax specific tags / 0x004f (ImageTone)
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Exif & Tiff tags / 0xa406 (SceneCaptureType)
+#. IPTC tags / 0x0283 (Image Orientation)
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "portrait"
+msgstr "Portrait"
+
+#. Exif & Tiff tags / 0x8822 (ExposureProgram)
+msgid "portrait mode"
+msgstr "Mode portrait"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "posing"
+msgstr "Posant"
+
+#. Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+msgid "Postcard"
+msgstr "Carte postale"
+
+#. [Metadata name] Nikon specific tags / 0x00b6 (PowerUpTime)
+msgid "PowerUpTime"
+msgstr "Temps passé depuis que l'appareil est allumé"
+
+#. [Metadata name] Exif & Tiff tags / 0x013d (Predictor)
+#, fuzzy
+msgid "Predictor"
+msgstr "Predictor"
+
+#. Pentax specific tags / 0x0008 (Quality)
+msgid "Premium"
+msgstr "Super"
+
+#. Pentax specific tags / 0x001a (WhiteBalanceMode)
+#, fuzzy
+msgid "Preset (Fireworks?)"
+msgstr ""
+
+#. [Metadata name] Pentax specific tags / 0x003e (PreviewImageBorders)
+msgid "PreviewImageBorders"
+msgstr "Frontières de l'aperçu de l'image"
+
+#. [Metadata name] Canon specific tags / 0x00b6 (PreviewImageInfo)
+msgid "PreviewImageInfo"
+msgstr "Informations de l'aperçu de l'image"
+
+#. [Metadata name] Pentax specific tags / 0x0003 (PreviewLength)
+msgid "PreviewLength"
+msgstr "Largeur de la prévisualisation"
+
+#. [Metadata name] Pentax specific tags / 0x0004 (PreviewOffset)
+msgid "PreviewOffset"
+msgstr "Décalage de la prévisualisation"
+
+#. [Metadata name] Pentax specific tags / 0x0002 (PreviewResolution)
+msgid "PreviewResolution"
+msgstr "Résolution de la prévisualisation"
+
+#. [Metadata name] Exif & Tiff tags / 0x013f (PrimaryChromaticities)
+#. [Metadata name] XMP tags / tiff:PrimaryChromaticities (PrimaryChromaticities)
+msgid "PrimaryChromaticities"
+msgstr "Chromaticités primaires"
+
+#. [Metadata name] Nikon specific tags / 0x0e00 (PrintIM)
+#. [Metadata name] Pentax specific tags / 0x0e00 (PrintIM)
+#. [Metadata name] Exif & Tiff tags / 0xc4a5 (PrintIM)
+msgid "PrintIM"
+msgstr ""
+
+#. [Metadata name] Magic JpegMetadata computed tags / Processing.OriginalFileName
+msgid "Processing.OriginalFileName"
+msgstr "Nom du fichier d'origine"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Processing.PostProcessingDateTime
+msgid "Processing.PostProcessingDateTime"
+msgstr "Date/heure du post-traitement"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Processing.PostProcessingSoftware
+msgid "Processing.PostProcessingSoftware"
+msgstr "Logiciel de post-traitement"
+
+#. [Metadata name] Magic JpegMetadata computed tags / Processing.Software
+msgid "Processing.Software"
+msgstr "Logiciel"
+
+#. [Metadata name] Canon specific tags / 0x00a0 (ProcessingInfo)
+msgid "ProcessingInfo"
+msgstr "Informations sur le traitement"
+
+#. [Metadata name] Exif & Tiff tags / 0x000b (ProcessingSoftware)
+msgid "ProcessingSoftware"
+msgstr "Logiciel de traitement"
+
+#. [Metadata name] IPTC tags / 0x0132 (Product I.D.)
+msgid "Product I.D."
+msgstr "ID du produit"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "profile"
+msgstr "Profil"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Program"
+msgstr "Programme"
+
+#. Canon specific tags / 0x0001.20 (CanonCameraSettings.CanonExposureMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Program AE"
+msgstr "Programme AE"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Program Av Shift"
+msgstr "Programme Av"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Program Tv Shift"
+msgstr "Programme Tv"
+
+#. [Metadata name] IPTC tags / 0x0246 (Program Version)
+msgid "Program Version"
+msgstr "Version du programme"
+
+#. [Metadata name] Nikon specific tags / 0x000d (ProgramShift)
+msgid "ProgramShift"
+msgstr "Changement de programme"
+
+#. [Metadata name] XMP tags / photoshop:State (Province/State)
+#. [Metadata name] IPTC tags / 0x025f (Province/State)
+msgid "Province/State"
+msgstr "Etat/Province"
+
+#. [Metadata name] Pentax specific tags / 0x0008 (Quality)
+#. [Metadata name] Nikon specific tags / 0x0004 (Quality)
+msgid "Quality"
+msgstr "Qualité"
+
+#. Exif & Tiff tags / 0x0107 (Thresholding)
+msgid "randomized dither"
+msgstr "Tramage aléatoire"
+
+#. [Metadata name] IPTC tags / 0x027d (Rasterized Caption)
+msgid "Rasterized Caption"
+msgstr "Légende pixellisée"
+
+#. [Metadata name] Exif & Tiff tags / 0x4746 (Rating)
+msgid "Rating"
+msgstr "Classement"
+
+#. [Metadata name] Exif & Tiff tags / 0x4749 (RatingPercent)
+msgid "RatingPercent"
+msgstr "Classement"
+
+#. Canon specific tags / 0x0001.3 (CanonCameraSettings.Quality)
+#. Pentax specific tags / 0x0008 (Quality)
+msgid "RAW"
+msgstr ""
+
+#. [Metadata name] Canon specific tags / 0x0081 (RawDataOffset)
+msgid "RawDataOffset"
+msgstr "Données brutes compensées"
+
+#. [Metadata name] Nikon specific tags / 0x0099 (RawImageCenter)
+msgid "RawImageCenter"
+msgstr "Centre de l'image Raw"
+
+#. [Metadata name] Pentax specific tags / 0x0039 (RawImageSize)
+msgid "RawImageSize"
+msgstr "Dimensions de l'image Raw"
+
+#. [Metadata name] XMP tags / rdf:about
+msgid "rdf:about"
+msgstr "A propos"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "rear view"
+msgstr "Vue arrière"
+
+#. [Metadata name] IPTC tags / 0x0200 (Record Version)
+msgid "Record Version"
+msgstr "Version de l'enregistrement"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "red-eye mode"
+msgstr "Mode de réduction des yeux rouges"
+
+#. Canon specific tags / 0x0001.4 (CanonCameraSettings.CanonFlashMode)
+msgid "Red-eye reduction"
+msgstr "Réduction des yeux rouges activé"
+
+#. Canon specific tags / 0x0001.4 (CanonCameraSettings.CanonFlashMode)
+msgid "Red-eye reduction (Auto)"
+msgstr "Réduction des yeux rouges (Automatique)"
+
+#. Canon specific tags / 0x0001.4 (CanonCameraSettings.CanonFlashMode)
+msgid "Red-eye reduction (On)"
+msgstr "Réduction des yeux rouges (Activé)"
+
+#. XMP tags / exif:RedEyeMode
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "red-eye reduction supported"
+msgstr "Réduction des yeux rouges supporté"
+
+#. [Metadata name] Pentax specific tags / 0x001c (RedBalance)
+msgid "RedBalance"
+msgstr "Balance des rouges"
+
+#. Exif & Tiff tags / 0x00fe (SubfileType)
+#. Exif & Tiff tags / 0x00ff (OldSubfileType)
+msgid "reduced-resolution image"
+msgstr "Photo à résolution réduite"
+
+#. [Metadata name] IPTC tags / 0x022f (Reference Date)
+msgid "Reference Date"
+msgstr "Date de référence"
+
+#. [Metadata name] IPTC tags / 0x0232 (Reference number)
+msgid "Reference number"
+msgstr "Numéro de référence"
+
+#. [Metadata name] IPTC tags / 0x022d (Reference Service)
+msgid "Reference Service"
+msgstr "Service de réference"
+
+#. [Metadata name] XMP tags / tiff:ReferenceBlackWhite (ReferenceBlackWhite)
+#. [Metadata name] Exif & Tiff tags / 0x0214 (ReferenceBlackWhite)
+msgid "ReferenceBlackWhite"
+msgstr "Réference du noir et blanc"
+
+#. Exif & Tiff tags / 0xa300 (FileSource)
+#, fuzzy
+msgid "reflection print scanner"
+msgstr "Reflection print scanner"
+
+#. [Metadata name] XMP tags / exif:RelatedSoundFile (RelatedSoundFile)
+#. [Metadata name] Exif & Tiff tags / 0xa004 (RelatedSoundFile)
+msgid "RelatedSoundFile"
+msgstr "Fichier son attaché"
+
+#. [Metadata name] IPTC tags / 0x021e (Release Date)
+msgid "Release Date"
+msgstr "Date de publication"
+
+#. [Metadata name] IPTC tags / 0x0223 (Release Time)
+msgid "Release Time"
+msgstr "Heure de publication"
+
+#. Pentax specific tags / 0x0034 (DriveMode)
+msgid "Remote Control"
+msgstr "Télécommande"
+
+#. Pentax specific tags / 0x0034 (DriveMode)
+msgid "Remote Control (3 sec)"
+msgstr "Télécommande (3 sec)"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Report"
+msgstr "Rapport"
+
+#. XMP tags / exif:Return
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "reserved"
+msgstr "Réservé"
+
+#. [Metadata name] XMP tags / tiff:ResolutionUnit (ResolutionUnit)
+#. [Metadata name] Exif & Tiff tags / 0x0128 (ResolutionUnit)
+msgid "ResolutionUnit"
+msgstr "Unité de résolution"
+
+#. Exif & Tiff tags / 0x9212 (SecurityClassification)
+msgid "restricted"
+msgstr "Restreint"
+
+#. [Metadata name] Nikon specific tags / 0x009e (RetouchHistory)
+msgid "RetouchHistory"
+msgstr "Historique des retouches"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+msgid "returned light"
+msgstr "Avec retour"
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "RGB"
+msgstr "RVB"
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "RGB Palette"
+msgstr "Palette RVB"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "RIFF Wave (Microsoft Corporation)"
+msgstr ""
+
+#. Pentax specific tags / 0x000e (AFPoint)
+#. Canon specific tags / 0x0001.19 (CanonCameraSettings.AFPoint)
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+msgid "Right"
+msgstr "Droite"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Rio de Janeiro"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Ritzaus Bureau NITF version (RBNITF DTD)"
+msgstr ""
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Rome"
+msgstr ""
+
+#. Canon specific tags / 0x0004.27 (CanonShotInfo.AutoRotate)
+msgid "Rotate 180"
+msgstr "Rotation 180°"
+
+#. Canon specific tags / 0x000d.40D.48 (CanonCameraInfo.CameraOrientation)
+#. Canon specific tags / 0x000d.1DMarkIV.53 (CanonCameraInfo.CameraOrientation)
+#. Canon specific tags / 0x0004.27 (CanonShotInfo.AutoRotate)
+msgid "Rotate 270 CW"
+msgstr "Rotation 270° horaire"
+
+#. Canon specific tags / 0x0004.27 (CanonShotInfo.AutoRotate)
+#. Canon specific tags / 0x000d.40D.48 (CanonCameraInfo.CameraOrientation)
+#. Canon specific tags / 0x000d.1DMarkIV.53 (CanonCameraInfo.CameraOrientation)
+msgid "Rotate 90 CW"
+msgstr "Rotation 90° horaire"
+
+#. [Metadata name] Exif & Tiff tags / 0x0116 (RowsPerStrip)
+msgid "RowsPerStrip"
+msgstr "Lignes par bande"
+
+#. [Metadata name] XMP tags / tiff:SamplesPerPixel (SamplesPerPixel)
+#. [Metadata name] Exif & Tiff tags / 0x0115 (SamplesPerPixel)
+msgid "SamplesPerPixel"
+msgstr "Echantillons par pixel"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "San Fransisco"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Santiago"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Sao Paulo"
+msgstr ""
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "satellite"
+msgstr "Satellite"
+
+#. [Metadata name] XMP tags / exif:Saturation (Saturation)
+#. [Metadata name] Exif & Tiff tags / 0xa409 (Saturation)
+#. [Metadata name] Pentax specific tags / 0x001f (Saturation)
+#. [Metadata name] Nikon specific tags / 0x00aa (Saturation)
+#. [Metadata name] Nikon specific tags / 0x0094 (Saturation)
+msgid "Saturation"
+msgstr ""
+
+#. [Metadata name] Pentax specific tags / 0x021b (SaturationInfo)
+msgid "SaturationInfo"
+msgstr "Informations sur la saturation"
+
+#. [Metadata name] Nikon specific tags / 0x009c (SceneAssist)
+msgid "SceneAssist"
+msgstr "Assistance de la scène"
+
+#. [Metadata name] XMP tags / exif:SceneCaptureType (SceneCaptureType)
+#. [Metadata name] Exif & Tiff tags / 0xa406 (SceneCaptureType)
+msgid "SceneCaptureType"
+msgstr "Type de capture de la scène"
+
+#. [Metadata name] Nikon specific tags / 0x008f (SceneMode)
+msgid "SceneMode"
+msgstr "Mode de la scène"
+
+#. [Metadata name] Exif & Tiff tags / 0xa301 (SceneType)
+#. [Metadata name] XMP tags / exif:SceneType (SceneType)
+msgid "SceneType"
+msgstr "Type de scène"
+
+#. Exif & Tiff tags / 0x9212 (SecurityClassification)
+msgid "secret"
+msgstr "Secret"
+
+#. [Metadata name] Exif & Tiff tags / 0x9212 (SecurityClassification)
+msgid "SecurityClassification"
+msgstr "Classification de sécurité"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Self Portrait"
+msgstr "Auto-portrait"
+
+#. Pentax specific tags / 0x0034 (DriveMode)
+msgid "Self-timer (12 sec)"
+msgstr "Retardateur (12 sec)"
+
+#. Pentax specific tags / 0x0034 (DriveMode)
+msgid "Self-timer (2 sec)"
+msgstr "Retardateur (2 sec)"
+
+#. [Metadata name] Exif & Tiff tags / 0x882a (SelfTimerMode)
+msgid "SelfTimerMode"
+msgstr "Retardateur"
+
+#. [Metadata name] Exif & Tiff tags / 0xa217 (SensingMethod)
+#. [Metadata name] XMP tags / exif:SensingMethod (SensingMethod)
+msgid "SensingMethod"
+msgstr "Méthode de détection"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Sensitivity Priority AE, 1/2 EV steps"
+msgstr "AE priorité à la sensibilité, pas de 1/2 EV"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Sensitivity Priority AE, 1/3 EV steps"
+msgstr "AE priorité à la sensibilité, pas de 1/3 EV"
+
+#. [Metadata name] Pentax specific tags / 0x0040 (SensitivityAdjust)
+msgid "SensitivityAdjust"
+msgstr "Ajustement de la sensibilité"
+
+#. [Metadata name] Canon specific tags / 0x00e0 (SensorInfo)
+msgid "SensorInfo"
+msgstr "Informations des capteurs"
+
+#. [Metadata name] Nikon specific tags / 0x009a (SensorPixelSize)
+msgid "SensorPixelSize"
+msgstr "Taille des pixels du capteur"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Seoul"
+msgstr "Séoul"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+#. Canon specific tags / 0x0001.40 (CanonCameraSettings.PhotoEffect)
+msgid "Sepia"
+msgstr "Sépia"
+
+#. [Metadata name] Nikon specific tags / 0x001d (SerialNumber)
+#. [Metadata name] Canon specific tags / 0x000c (SerialNumber)
+#. [Metadata name] Pentax specific tags / 0x0229 (SerialNumber)
+msgid "SerialNumber"
+msgstr "Numéro de série"
+
+#. [Metadata name] Nikon specific tags / 0x00a0 (SerialNumber2)
+msgid "SerialNumber2"
+msgstr "Numéro de série"
+
+#. [Metadata name] Canon specific tags / 0x0015 (SerialNumberFormat)
+msgid "SerialNumberFormat"
+msgstr "Format du numéro de série"
+
+#. [Metadata name] IPTC tags / 0x011e (Service Identifier)
+msgid "Service Identifier"
+msgstr "Identifiant du service"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "SGILog"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "SGILog24"
+msgstr ""
+
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+#. XMP tags / crs:Balance
+#. XMP tags / crs:WhiteBalance
+#. Exif & Tiff tags / 0x9208 (LightSource)
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "Shade"
+msgstr "Ombre"
+
+#. [Metadata name] Pentax specific tags / 0x005c (ShakeReduction)
+msgid "ShakeReduction"
+msgstr "Stabilisation"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Shanghai"
+msgstr ""
+
+#. [Metadata name] XMP tags / exif:Sharpness (Sharpness)
+#. [Metadata name] Pentax specific tags / 0x0021 (Sharpness)
+#. [Metadata name] Nikon specific tags / 0x0006 (Sharpness)
+#. [Metadata name] Exif & Tiff tags / 0xa40a (Sharpness)
+msgid "Sharpness"
+msgstr "Netteté"
+
+#. [Metadata name] Canon specific tags / 0x00a3 (SharpnessFreqTable)
+#. [Metadata name] Canon specific tags / 0x00a2 (SharpnessTable)
+#. [Metadata name] Pentax specific tags / 0x0001 (ShootingMode)
+#. [Metadata name] Nikon specific tags / 0x0089 (ShootingMode)
+msgid "ShootingMode"
+msgstr "Mode prise de vue"
+
+#. [Metadata name] Nikon specific tags / 0x0091 (ShotInfo)
+#. [Metadata name] Pentax specific tags / 0x0205 (ShotInfo)
+msgid "ShotInfo"
+msgstr "Informations sur le cliché"
+
+#. [Metadata name] Magic JpegMetadata computed tags / ShotInfo.Aperture
+msgid "ShotInfo.Aperture"
+msgstr "Ouverture"
+
+#. [Metadata name] Magic JpegMetadata computed tags / ShotInfo.DateTime
+msgid "ShotInfo.DateTime"
+msgstr "Date/Heure"
+
+#. [Metadata name] Magic JpegMetadata computed tags / ShotInfo.Exposure
+msgid "ShotInfo.Exposure"
+msgstr "Exposition"
+
+#. [Metadata name] Magic JpegMetadata computed tags / ShotInfo.Flash.Fired
+msgid "ShotInfo.Flash.Fired"
+msgstr "Etat du flash"
+
+#. [Metadata name] Magic JpegMetadata computed tags / ShotInfo.Flash.RedEyeMode
+msgid "ShotInfo.Flash.RedEyeMode"
+msgstr "Anti yeux-rouges"
+
+#. [Metadata name] Magic JpegMetadata computed tags / ShotInfo.FocalLength
+msgid "ShotInfo.FocalLength"
+msgstr "Focale"
+
+#. [Metadata name] Magic JpegMetadata computed tags / ShotInfo.FocalLengthIn35mm
+msgid "ShotInfo.FocalLengthIn35mm"
+msgstr "Focale en film 35mm"
+
+#. [Metadata name] Magic JpegMetadata computed tags / ShotInfo.ISO
+msgid "ShotInfo.ISO"
+msgstr "ISO"
+
+#. [Metadata name] Magic JpegMetadata computed tags / ShotInfo.Lens
+msgid "ShotInfo.Lens"
+msgstr "Objectif"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Shutter & Aperture Priority AE, 1/2 EV steps"
+msgstr "AE priorité à l'ouverture et à la vitesse, pas de 1/2 EV"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Shutter & Aperture Priority AE, 1/3 EV steps"
+msgstr "AE priorité à l'ouverture et à la vitesse, pas de 1/3 EV"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Exif & Tiff tags / 0x8822 (ExposureProgram)
+msgid "shutter priority"
+msgstr "Priorité à la vitesse"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Shutter Speed Priority"
+msgstr "Priorité à la vitesse"
+
+#. Canon specific tags / 0x0001.20 (CanonCameraSettings.CanonExposureMode)
+msgid "Shutter speed priority AE"
+msgstr "AE priorité à la vitesse"
+
+#. [Metadata name] Nikon specific tags / 0x00a7 (ShutterCount)
+#. [Metadata name] Pentax specific tags / 0x005d (ShutterCount)
+msgid "ShutterCount"
+msgstr "Nombre de déclenchements"
+
+#. [Metadata name] XMP tags / exif:ShutterSpeedValue (ShutterSpeedValue)
+#. [Metadata name] Exif & Tiff tags / 0x9201 (ShutterSpeedValue)
+msgid "ShutterSpeedValue"
+msgstr "Temps d'exposition"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Singapore"
+msgstr "Singapour"
+
+#. Canon specific tags / 0x0001.5 (CanonCameraSettings.ContinuousDrive)
+#. Canon specific tags / 0x0001.32 (CanonCameraSettings.FocusContinuous)
+#. Canon specific tags / 0x0001.7 (CanonCameraSettings.FocusMode)
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "Single"
+msgstr "Unique"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Single Area"
+msgstr "Zone unique"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Single Area (wide)"
+msgstr "Zone unique (large)"
+
+#. Nikon specific tags / 0x0089 (ShootingMode)
+msgid "Single frame"
+msgstr "Photo unique"
+
+#. Exif & Tiff tags / 0x00fe (SubfileType)
+#. Exif & Tiff tags / 0x00ff (OldSubfileType)
+msgid "single page of multi-page image"
+msgstr "Page unique d'une photo multi-pages"
+
+#. Exif & Tiff tags / 0x00fe (SubfileType)
+msgid "single page of multi-page reduced-resolution image"
+msgstr "Page unique d'une photo multi-pages en résolution réduite"
+
+#. Pentax specific tags / 0x0034 (DriveMode)
+msgid "Single-frame;No timer;Shutter button;Single exposure"
+msgstr "Photo unique, pas de retardeur, bouton de déclenchement, exposition unique"
+
+#. [Metadata name] Pentax specific tags / 0x0009 (Size)
+msgid "Size"
+msgstr "Taille"
+
+#. [Metadata name] IPTC tags / 0x070a (Size Mode)
+msgid "Size Mode"
+msgstr "Type de taille"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Slow shutter"
+msgstr "Obturation lente"
+
+#. Canon specific tags / 0x0001.4 (CanonCameraSettings.CanonFlashMode)
+msgid "Slow-sync"
+msgstr "Synchronisation lente"
+
+#. Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+msgid "Small"
+msgstr "Petite"
+
+#. Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+msgid "Small Movie"
+msgstr "Filme, qualité basse"
+
+#. Canon specific tags / 0x0001.40 (CanonCameraSettings.PhotoEffect)
+msgid "Smooth"
+msgstr "Lisse"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Snow"
+msgstr "Neige"
+
+#. Pentax specific tags / 0x0021 (Sharpness)
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Soft"
+msgstr "Doux"
+
+#. [Metadata name] Exif & Tiff tags / 0x0131 (Software)
+#. [Metadata name] XMP tags / tiff:Software (Software)
+msgid "Software"
+msgstr "Logiciel"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Sony ARW Compressed"
+msgstr "Compression ARW Sony"
+
+#. [Metadata name] IPTC tags / 0x0273 (Source)
+msgid "Source"
+msgstr ""
+
+#. Exif GPS tags / 0x0013 (GPSDestLatitudeRef)
+#. Exif GPS tags / 0x0001 (GPSLatitudeRef)
+msgid "South"
+msgstr "Sud"
+
+#. [Metadata name] Exif & Tiff tags / 0xa20c (SpatialFrequencyResponse)
+#. [Metadata name] XMP tags / exif:SpatialFrequencyResponse (SpatialFrequencyResponse)
+msgid "SpatialFrequencyResponse"
+msgstr "Réponse en fréquence spatiale"
+
+#. [Metadata name] IPTC tags / 0x0228 (Special Instructions)
+#. [Metadata name] XMP tags / photoshop:Instructions (Special Instructions)
+msgid "Special Instructions"
+msgstr "Instructions spécifiques"
+
+#. [Metadata name] XMP tags / exif:SpectralSensitivity (SpectralSensitivity)
+#. [Metadata name] Exif & Tiff tags / 0x8824 (SpectralSensitivity)
+msgid "SpectralSensitivity"
+msgstr "Sensibilité du spectre"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Sport"
+msgstr ""
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Sports"
+msgstr ""
+
+#. Canon specific tags / 0x0001.17 (CanonCameraSettings.MeteringMode)
+#. Exif & Tiff tags / 0x9207 (MeteringMode)
+#. Pentax specific tags / 0x0017 (MeteringMode)
+msgid "spot"
+msgstr "Point"
+
+#. IPTC tags / 0x0283 (Image Orientation)
+msgid "square"
+msgstr "Carré"
+
+#. Canon specific tags / 0x0001.46 (CanonCameraSettings.SRAWQuality)
+msgid "sRAW1 (mRAW)"
+msgstr ""
+
+#. Canon specific tags / 0x0001.46 (CanonCameraSettings.SRAWQuality)
+msgid "sRAW2 (sRAW)"
+msgstr ""
+
+#. Exif & Tiff tags / 0xa001 (ColorSpace)
+msgid "sRGB"
+msgstr "sRVB"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Stage Lighting"
+msgstr "Eclairage de scène"
+
+#. Exif & Tiff tags / 0xa406 (SceneCaptureType)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "standard"
+msgstr "Standard"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "standard light A"
+msgstr "Eclairage standard A"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "standard light B"
+msgstr "Eclairage standard B"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "standard light C"
+msgstr "Eclairage standard C"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Still Image"
+msgstr "Photo tranquille"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Stockholm"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x0117 (StripByteCounts)
+msgid "StripByteCounts"
+msgstr "Octets par bande"
+
+#. [Metadata name] Exif & Tiff tags / 0x0111 (StripOffsets)
+msgid "StripOffsets"
+msgstr "Compensations des bandes"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. XMP tags / exif:Return
+msgid "strobe return light detected"
+msgstr "Avec retour de lumière stroboscopique"
+
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. XMP tags / exif:Return
+msgid "strobe return light not detected"
+msgstr "Sans retour de lumière stroboscopique"
+
+#. Pentax specific tags / 0x0071 (HighISONoiseReduction)
+msgid "Strong"
+msgstr "Fort"
+
+#. XMP tags / crs:ToneCurveName
+msgid "Strong Contrast"
+msgstr "Contrast élevé"
+
+#. [Metadata name] IPTC tags / 0x080a (Subfile)
+msgid "Subfile"
+msgstr "Sous fichier"
+
+#. [Metadata name] Exif & Tiff tags / 0x00fe (SubfileType)
+msgid "SubfileType"
+msgstr "Type de sous fichier"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:SubjectCode (Subject Reference)
+#. [Metadata name] IPTC tags / 0x020c (Subject Reference)
+msgid "Subject Reference"
+msgstr "Sujet de référence"
+
+#. [Metadata name] Exif & Tiff tags / 0x9214 (SubjectArea)
+#. [Metadata name] XMP tags / exif:SubjectArea (SubjectArea)
+msgid "SubjectArea"
+msgstr "Zone du sujet"
+
+#. [Metadata name] XMP tags / exif:SubjectDistance (SubjectDistance)
+#. [Metadata name] Exif & Tiff tags / 0x9206 (SubjectDistance)
+msgid "SubjectDistance"
+msgstr "Distance du sujet"
+
+#. [Metadata name] Exif & Tiff tags / 0xa40c (SubjectDistanceRange)
+#. [Metadata name] XMP tags / exif:SubjectDistanceRange (SubjectDistanceRange)
+msgid "SubjectDistanceRange"
+msgstr "Distance du sujet"
+
+#. [Metadata name] Exif & Tiff tags / 0xa214 (SubjectLocation)
+#. [Metadata name] XMP tags / exif:SubjectLocation (SubjectLocation)
+msgid "SubjectLocation"
+msgstr "Position du sujet"
+
+#. [Metadata name] XMP tags / Iptc4xmpCore:Location (Sublocation)
+#. [Metadata name] IPTC tags / 0x025c (Sublocation)
+msgid "Sublocation"
+msgstr "Sous-emplacement"
+
+#. [Metadata name] Exif & Tiff tags / 0x9290 (SubsecTime)
+#, fuzzy
+msgid "SubsecTime"
+msgstr "Sub-second time"
+
+#. [Metadata name] Exif & Tiff tags / 0x9292 (SubsecTimeDigitized)
+#, fuzzy
+msgid "SubsecTimeDigitized"
+msgstr "Sub-second time digitized"
+
+#. [Metadata name] Exif & Tiff tags / 0x9291 (SubsecTimeOriginal)
+#, fuzzy
+msgid "SubsecTimeOriginal"
+msgstr "Sub-second time original"
+
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Sunset"
+msgstr ""
+
+#. Pentax specific tags / 0x000d (Focus)
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+msgid "super macro"
+msgstr "Super macro"
+
+#. Canon specific tags / 0x0001.3 (CanonCameraSettings.Quality)
+msgid "Superfine"
+msgstr "Très précis"
+
+#. [Metadata name] Canon specific tags / 0x001a (SuperMacro)
+msgid "SuperMacro"
+msgstr "Super macro"
+
+#. [Metadata name] IPTC tags / 0x0214 (Supplemental Category)
+msgid "Supplemental Category"
+msgstr "Catégorie supplémentaire"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Surf & Snow"
+msgstr "Surf & Neige"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Sydney"
+msgstr ""
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "symbolic"
+msgstr "Symbolique"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+msgid "Synchro Sound Record"
+msgstr "Enregistrement de son synchronisé"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "T4/Group 3 Fax"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x0124 (T4Options)
+msgid "T4Options"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "T6/Group 4 Fax"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x0125 (T6Options)
+msgid "T6Options"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Tagged Image File Format (Adobe/Aldus Image data)"
+msgstr ""
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Taipei"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Tape Archive (*.TAR)"
+msgstr ""
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Tehran"
+msgstr "Téhéran"
+
+#. [Metadata name] Pentax specific tags / 0x0047 (Temperature)
+msgid "Temperature"
+msgstr "Température"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Text"
+msgstr "Texte"
+
+#. Exif & Tiff tags / 0xa217 (SensingMethod)
+msgid "three-chip color area sensor"
+msgstr "Capteur couleur, trois puces"
+
+#. [Metadata name] Exif & Tiff tags / 0x0107 (Thresholding)
+msgid "Thresholding"
+msgstr "Seuillage"
+
+#. [Metadata name] Canon specific tags / 0x0013 (ThumbnailImageValidArea)
+msgid "ThumbnailImageValidArea"
+msgstr "Zone d'image valide des miniatures"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "Thunderscan"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "Tidningarnas Telegrambyrå NITF version (TTNITF DTD)"
+msgstr ""
+
+#. Canon specific tags / 0x0001.9 (CanonCameraSettings.RecordMode)
+msgid "TIF"
+msgstr ""
+
+#. Canon specific tags / 0x0001.9 (CanonCameraSettings.RecordMode)
+msgid "TIF+JPEG"
+msgstr ""
+
+#. Pentax specific tags / 0x0008 (Quality)
+msgid "TIFF"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x9216 (TIFF-EPStandardID)
+msgid "TIFF-EPStandardID"
+msgstr ""
+
+#. [Metadata name] XMP tags / tiff:Artist
+msgid "tiff:Artist"
+msgstr "Artiste"
+
+#. [Metadata name] XMP tags / tiff:BitsPerSample
+msgid "tiff:BitsPerSample"
+msgstr "Bits par échantillon"
+
+#. [Metadata name] XMP tags / tiff:Compression
+msgid "tiff:Compression"
+msgstr "Compression"
+
+#. [Metadata name] XMP tags / tiff:Copyright
+msgid "tiff:Copyright"
+msgstr "Copyright"
+
+#. [Metadata name] XMP tags / tiff:DateTime
+msgid "tiff:DateTime"
+msgstr "Date/Heure"
+
+#. [Metadata name] XMP tags / tiff:ImageDescription
+msgid "tiff:ImageDescription"
+msgstr "Description de la photo"
+
+#. [Metadata name] XMP tags / tiff:ImageLength
+msgid "tiff:ImageLength"
+msgstr "Haiteur"
+
+#. [Metadata name] XMP tags / tiff:ImageWidth
+msgid "tiff:ImageWidth"
+msgstr "Largeur"
+
+#. [Metadata name] XMP tags / tiff:Make
+msgid "tiff:Make"
+msgstr "Fabriquant"
+
+#. [Metadata name] XMP tags / tiff:Model
+msgid "tiff:Model"
+msgstr "Modèle"
+
+#. [Metadata name] XMP tags / tiff:Orientation
+msgid "tiff:Orientation"
+msgstr "Orientation"
+
+#. [Metadata name] XMP tags / tiff:PhotometricInterpretation
+msgid "tiff:PhotometricInterpretation"
+msgstr "Interprétation photométrique"
+
+#. [Metadata name] XMP tags / tiff:PlanarConfiguration
+msgid "tiff:PlanarConfiguration"
+msgstr "Configuration planaire"
+
+#. [Metadata name] XMP tags / tiff:PrimaryChromaticities
+msgid "tiff:PrimaryChromaticities"
+msgstr "Chromaticités primaire"
+
+#. [Metadata name] XMP tags / tiff:ReferenceBlackWhite
+msgid "tiff:ReferenceBlackWhite"
+msgstr "Réference du noir et blanc"
+
+#. [Metadata name] XMP tags / tiff:ResolutionUnit
+msgid "tiff:ResolutionUnit"
+msgstr "Unité de résolution"
+
+#. [Metadata name] XMP tags / tiff:SamplesPerPixel
+msgid "tiff:SamplesPerPixel"
+msgstr "Echantillons par pixel"
+
+#. [Metadata name] XMP tags / tiff:Software
+msgid "tiff:Software"
+msgstr "Logiciel"
+
+#. [Metadata name] XMP tags / tiff:TransferFunction
+msgid "tiff:TransferFunction"
+msgstr "Fonction de transfert"
+
+#. [Metadata name] XMP tags / tiff:WhitePoint
+msgid "tiff:WhitePoint"
+msgstr "Point blanc"
+
+#. [Metadata name] XMP tags / tiff:XResolution
+msgid "tiff:XResolution"
+msgstr "Résolution X"
+
+#. [Metadata name] XMP tags / tiff:YCbCrCoefficients
+msgid "tiff:YCbCrCoefficients"
+msgstr "Coefficients YCbCr"
+
+#. [Metadata name] XMP tags / tiff:YCbCrPositioning
+msgid "tiff:YCbCrPositioning"
+msgstr "Positionnement YCbCr"
+
+#. [Metadata name] XMP tags / tiff:YCbCrSubSampling
+msgid "tiff:YCbCrSubSampling"
+msgstr "Sous échantillonnage YCbCr"
+
+#. [Metadata name] XMP tags / tiff:YResolution
+msgid "tiff:YResolution"
+msgstr "Résolution Y"
+
+#. [Metadata name] Pentax specific tags / 0x0007 (Time)
+msgid "Time"
+msgstr "Heure"
+
+#. [Metadata name] IPTC tags / 0x023c (Time Created)
+msgid "Time Created"
+msgstr "Heure de création"
+
+#. [Metadata name] IPTC tags / 0x0150 (Time Sent)
+msgid "Time Sent"
+msgstr "Heure d'envoi"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Tokyo"
+msgstr ""
+
+#. [Metadata name] Nikon specific tags / 0x0081 (ToneComp)
+msgid "ToneComp"
+msgstr "Correction des tons"
+
+#. [Metadata name] Pentax specific tags / 0x0402 (ToneCurve)
+msgid "ToneCurve"
+msgstr "Courbe de tonalité"
+
+#. [Metadata name] Canon specific tags / 0x00b2 (ToneCurveMatching)
+msgid "ToneCurveMatching"
+msgstr "Courbe de tonalité correspondante"
+
+#. [Metadata name] Pentax specific tags / 0x0403 (ToneCurves)
+msgid "ToneCurves"
+msgstr "Courbes de tonalité"
+
+#. [Metadata name] Canon specific tags / 0x00a1 (ToneCurveTable)
+msgid "ToneCurveTable"
+msgstr "Table de la courbe de tonalité"
+
+#. [Metadata name] Nikon specific tags / 0x00b3 (ToningEffect)
+msgid "ToningEffect"
+msgstr "Effet tonifiant"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Pentax specific tags / 0x000e (AFPoint)
+msgid "Top"
+msgstr "Haut"
+
+#. Exif & Tiff tags / 0x9212 (SecurityClassification)
+msgid "top secret"
+msgstr "Top-secret"
+
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+msgid "Top-center"
+msgstr "En haut, au centre"
+
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+msgid "Top-left"
+msgstr "En haut, à gauche"
+
+#. Pentax specific tags / 0x000f (AFPointsInFocus)
+msgid "Top-right"
+msgstr "En haut, à droite"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Toronto"
+msgstr ""
+
+#. [Metadata name] Exif & Tiff tags / 0x012d (TransferFunction)
+#. [Metadata name] XMP tags / tiff:TransferFunction (TransferFunction)
+msgid "TransferFunction"
+msgstr "Fonction de transfert"
+
+#. Exif & Tiff tags / 0x00fe (SubfileType)
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "transparency mask"
+msgstr "Masque de transparence"
+
+#. Exif & Tiff tags / 0x00fe (SubfileType)
+msgid "transparency mask of multi-page image"
+msgstr "Masque de transparence de l'image multi-pages"
+
+#. Exif & Tiff tags / 0x00fe (SubfileType)
+msgid "transparency mask of reduced-resolution image"
+msgstr "Masque de transparence de l'image en basse résolution"
+
+#. Exif & Tiff tags / 0x00fe (SubfileType)
+msgid "transparency mask of reduced-resolution multi-page image"
+msgstr "Masque de transparence de l'image multi-pages en basse résolution"
+
+#. Exif & Tiff tags / 0xa217 (SensingMethod)
+msgid "trilinear sensor"
+msgstr "Capteur trilinéaire"
+
+#. Exif GPS tags / 0x000e (GPSTrackRef)
+#. Exif GPS tags / 0x0017 (GPSDestBearingRef)
+#. Exif GPS tags / 0x0010 (GPSImgDirectionRef)
+msgid "true direction"
+msgstr "Nord géographique"
+
+#. Canon specific tags / 0x0001.29 (CanonCameraSettings.FlashBits)
+#. Canon specific tags / 0x000d.40D.21 (CanonCameraInfo.FlashMeteringMode)
+#. Canon specific tags / 0x000d.1DMarkIV.21 (CanonCameraInfo.FlashMeteringMode)
+msgid "TTL"
+msgstr ""
+
+#. XMP tags / crs:WhiteBalance
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+#. XMP tags / crs:Balance
+msgid "Tungsten"
+msgstr "Tungstène"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "tungsten (incandescent light)"
+msgstr "Tungstène (Lumière incandescente)"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "two"
+msgstr "Deux"
+
+#. Exif & Tiff tags / 0xa217 (SensingMethod)
+msgid "two-chip color area sensor"
+msgstr "Capteur couleur, deux puces"
+
+#. Exif & Tiff tags / 0xa001 (ColorSpace)
+msgid "Uncalibrated"
+msgstr "Non calibré"
+
+#. Exif & Tiff tags / 0x9212 (SecurityClassification)
+msgid "unclassified"
+msgstr "Non classé"
+
+#. Exif & Tiff tags / 0x0103 (Compression)
+msgid "uncompressed"
+msgstr "Non compressé"
+
+#. Exif GPS tags / 0x0005 (GPSAltitudeRef)
+msgid "under the sea"
+msgstr "-"
+
+#. XMP tags / Iptc4xmpCore:Scene
+msgid "under-water"
+msgstr "Sous-marin"
+
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+#. Pentax specific tags / 0x000b (PictureMode)
+#. Canon specific tags / 0x0004.7 (CanonShotInfo.WhiteBalance)
+msgid "Underwater"
+msgstr "Sous-marin"
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "United Press International ANPA 1312 variant"
+msgstr ""
+
+#. IPTC tags / 0x0114 (File Format)
+msgid "United Press International Down-Load Message"
+msgstr ""
+
+#. Canon specific tags / 0x0001.32 (CanonCameraSettings.FocusContinuous)
+#. Exif GPS tags / 0x0017 (GPSDestBearingRef)
+#. Canon specific tags / 0x0001.40 (CanonCameraSettings.PhotoEffect)
+#. Canon specific tags / 0x0001.39 (CanonCameraSettings.SpotMeteringMode)
+#. Canon specific tags / 0x0004.27 (CanonShotInfo.AutoRotate)
+#. XMP tags / exif:Mode
+#. Exif & Tiff tags / 0x9207 (MeteringMode)
+#. Exif GPS tags / 0x0019 (GPSDestDistanceRef)
+#. Exif GPS tags / 0x0010 (GPSImgDirectionRef)
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+#. Canon specific tags / 0x0001.34 (CanonCameraSettings.ImageStabilization)
+#. Pentax specific tags / 0x003f (LensType)
+#. Canon specific tags / 0x0004.28 (CanonShotInfo.NDFilter)
+#. Exif GPS tags / 0x0009 (GPSStatus)
+#. Exif GPS tags / 0x000a (GPSMeasureMode)
+#. Exif & Tiff tags / 0xa40c (SubjectDistanceRange)
+#. Exif & Tiff tags / 0x9209 (Flash)
+#. Exif & Tiff tags / 0x9208 (LightSource)
+#. Exif GPS tags / 0x000c (GPSSpeedRef)
+#. Exif GPS tags / 0x000e (GPSTrackRef)
+msgid "Unknown"
+msgstr "Inconnu"
+
+#. Canon specific tags / 0x0001.22 (CanonCameraSettings.LensType)
+msgid "Unknown lens"
+msgstr "Objectif inconnu"
+
+#. [Metadata name] Canon specific tags / 0x000a (UnknownD30)
+msgid "UnknownD30"
+msgstr "D30 inconnu"
+
+#. [Metadata name] Pentax specific tags / 0x03ff (UnknownInfo)
+msgid "UnknownInfo"
+msgstr "Information inconnue"
+
+#. [Metadata name] IPTC tags / 0x0164 (UNO)
+msgid "UNO"
+msgstr ""
+
+#. Pentax specific tags / 0x0032 (ImageProcessing)
+msgid "Unprocessed"
+msgstr "Non traité"
+
+#. Nikon specific tags / 0x0089 (ShootingMode)
+msgid "Unused LE-NR Slowdown"
+msgstr "Ralentissement LE-NR inutilisés"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Pentax specific tags / 0x000e (AFPoint)
+msgid "Upper-left"
+msgstr "En haut, à gauche"
+
+#. Nikon specific tags / 0x0088 (AFInfo)
+#. Pentax specific tags / 0x000e (AFPoint)
+#. Nikon specific tags / 0x0088 (AFInfo)
+msgid "Upper-right"
+msgstr "En haut, à droite"
+
+#. [Metadata name] IPTC tags / 0x020a (Urgency)
+msgid "Urgency"
+msgstr "Urgence"
+
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+msgid "User Selected"
+msgstr "Sélection manuelle"
+
+#. Pentax specific tags / 0x001a (WhiteBalanceMode)
+msgid "User-Selected"
+msgstr "Sélection manuelle"
+
+#. [Metadata name] Exif & Tiff tags / 0x9286 (UserComment)
+#. [Metadata name] XMP tags / exif:UserComment (UserComment)
+msgid "UserComment"
+msgstr "Commentaire"
+
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+#. Pentax specific tags / 0x0023 (HomeCityName)
+msgid "Vancouver"
+msgstr ""
+
+#. [Metadata name] Nikon specific tags / 0x00ab (VariProgram)
+msgid "VariProgram"
+msgstr "Vari program"
+
+#. [Metadata name] Pentax specific tags / 0x0000 (Version)
+msgid "Version"
+msgstr ""
+
+#. Canon specific tags / 0x0001.18 (CanonCameraSettings.FocusRange)
+msgid "very close"
+msgstr "Très rapproché"
+
+#. Pentax specific tags / 0x0021 (Sharpness)
+msgid "Very Hard"
+msgstr "Très dur"
+
+#. Pentax specific tags / 0x0020 (Contrast)
+#. Pentax specific tags / 0x001f (Saturation)
+msgid "Very High"
+msgstr "Très élevé"
+
+#. Pentax specific tags / 0x001f (Saturation)
+#. Pentax specific tags / 0x0020 (Contrast)
+msgid "Very Low"
+msgstr "Peu élevé"
+
+#. Pentax specific tags / 0x0021 (Sharpness)
+msgid "Very Soft"
+msgstr "Très doux"
+
+#. Pentax specific tags / 0x004f (ImageTone)
+msgid "Vibrant"
+msgstr "Vibrant"
+
+#. Pentax specific tags / 0x0034 (DriveMode)
+#. Pentax specific tags / 0x0034 (DriveMode)
+msgid "Video"
+msgstr "Vidéo"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Video (24 fps)"
+msgstr "Vidéo (24 i/s)"
+
+#. Pentax specific tags / 0x0033 (PictureMode)
+msgid "Video (30 fps)"
+msgstr "Vidéo (30 i/s)"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Vientiane"
+msgstr ""
+
+#. [Metadata name] Nikon specific tags / 0x002a (VignetteControl)
+msgid "VignetteControl"
+msgstr "Vignette control"
+
+#. [Metadata name] Canon specific tags / 0x4015 (VignettingCorr)
+msgid "VignettingCorr"
+msgstr "Correction du vignetage"
+
+#. [Metadata name] Canon specific tags / 0x4016 (VignettingCorr2)
+msgid "VignettingCorr2"
+msgstr "Correction du vignetage 2"
+
+#. Canon specific tags / 0x0001.40 (CanonCameraSettings.PhotoEffect)
+#. Canon specific tags / 0x0001.11 (CanonCameraSettings.EasyMode)
+msgid "Vivid"
+msgstr ""
+
+#. [Metadata name] Canon specific tags / 0x00d0 (VRDOffset)
+msgid "VRDOffset"
+msgstr ""
+
+#. [Metadata name] Nikon specific tags / 0x001f (VRInfo)
+msgid "VRInfo"
+msgstr "Informations VR"
+
+#. [Metadata name] Nikon specific tags / 0x000c (WB_RBLevels)
+msgid "WB_RBLevels"
+msgstr "Balance des blancs, niveaux rouge/bleu"
+
+#. [Metadata name] Pentax specific tags / 0x020f (WB_RGGBLevelsCloudy)
+msgid "WB_RGGBLevelsCloudy"
+msgstr "Balance des blancs, niveaux rouge/vert & vert/bleu, nuageux"
+
+#. [Metadata name] Pentax specific tags / 0x020d (WB_RGGBLevelsDaylight)
+msgid "WB_RGGBLevelsDaylight"
+msgstr "Balance des blancs, niveaux rouge/vert & vert/bleu, lumière du jour"
+
+#. [Metadata name] Pentax specific tags / 0x0214 (WB_RGGBLevelsFlash)
+msgid "WB_RGGBLevelsFlash"
+msgstr "Balance des blancs, niveaux rouge/vert & vert/bleu, flash"
+
+#. [Metadata name] Pentax specific tags / 0x0211 (WB_RGGBLevelsFluorescentD)
+msgid "WB_RGGBLevelsFluorescentD"
+msgstr "Balance des blancs, niveaux rouge/vert & vert/bleu, néon lumière du jour"
+
+#. [Metadata name] Pentax specific tags / 0x0212 (WB_RGGBLevelsFluorescentN)
+msgid "WB_RGGBLevelsFluorescentN"
+msgstr "Balance des blancs, niveaux rouge/vert & vert/bleu, néon"
+
+#. [Metadata name] Pentax specific tags / 0x0213 (WB_RGGBLevelsFluorescentW)
+msgid "WB_RGGBLevelsFluorescentW"
+msgstr "Balance des blancs, niveaux rouge/vert & vert/bleu, néon lumière blanche"
+
+#. [Metadata name] Pentax specific tags / 0x020e (WB_RGGBLevelsShade)
+msgid "WB_RGGBLevelsShade"
+msgstr "Balance des blancs, niveaux rouge/vert & vert/bleu, ombragé"
+
+#. [Metadata name] Pentax specific tags / 0x0210 (WB_RGGBLevelsTungsten)
+msgid "WB_RGGBLevelsTungsten"
+msgstr "Balance des blancs, niveaux rouge/vert & vert/bleu, tungstène"
+
+#. Pentax specific tags / 0x0071 (HighISONoiseReduction)
+msgid "Weak"
+msgstr "Faible"
+
+#. Pentax specific tags / 0x0071 (HighISONoiseReduction)
+msgid "Weakest"
+msgstr "Le plus faible"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Wellington"
+msgstr ""
+
+#. Exif GPS tags / 0x0003 (GPSLongitudeRef)
+#. Exif GPS tags / 0x0015 (GPSDestLongitudeRef)
+msgid "West"
+msgstr "Ouest"
+
+#. Exif & Tiff tags / 0x9208 (LightSource)
+msgid "white fluorescent (WW 3200 - 3700K)"
+msgstr "Néon blanc (WW 3200 - 3700K)"
+
+#. Nikon specific tags / 0x0089 (ShootingMode)
+msgid "White-Balance Bracketing"
+msgstr "Bracketing de la balance des blancs"
+
+#. [Metadata name] Nikon specific tags / 0x0005 (WhiteBalance)
+#. [Metadata name] Pentax specific tags / 0x0019 (WhiteBalance)
+msgid "WhiteBalance"
+msgstr "Balance des blancs"
+
+#. [Metadata name] Nikon specific tags / 0x000b (WhiteBalanceFineTune)
+msgid "WhiteBalanceFineTune"
+msgstr "Réglage précis de la balance des blancs"
+
+#. [Metadata name] Canon specific tags / 0x00b3 (WhiteBalanceMatching)
+msgid "WhiteBalanceMatching"
+msgstr "Correspondance de la balance des blancs"
+
+#. [Metadata name] Pentax specific tags / 0x001a (WhiteBalanceMode)
+msgid "WhiteBalanceMode"
+msgstr "Mode de la balance des blancs"
+
+#. [Metadata name] Canon specific tags / 0x00a4 (WhiteBalanceTable)
+msgid "WhiteBalanceTable"
+msgstr "Table de la balance des blancs"
+
+#. Pentax specific tags / 0x0019 (WhiteBalance)
+msgid "WhiteFluorescent"
+msgstr "Néon blanc"
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "WhiteIsZero"
+msgstr "Le blanc est le zéro"
+
+#. [Metadata name] Pentax specific tags / 0x0201 (WhitePoint)
+#. [Metadata name] Exif & Tiff tags / 0x013e (WhitePoint)
+#. [Metadata name] XMP tags / tiff:WhitePoint (WhitePoint)
+msgid "WhitePoint"
+msgstr "Point blanc"
+
+#. Canon specific tags / 0x0001.10 (CanonCameraSettings.CanonImageSize)
+msgid "Widescreen"
+msgstr "Ecran large"
+
+#. [Metadata name] Nikon specific tags / 0x0024 (WorldTime)
+msgid "WorldTime"
+msgstr "Heure du monde"
+
+#. [Metadata name] Pentax specific tags / 0x0022 (WorldTimeLocation)
+msgid "WorldTimeLocation"
+msgstr "Lieu du monde"
+
+#. [Metadata name] IPTC tags / 0x027a (Writer/Editor)
+#. [Metadata name] XMP tags / photoshop:CaptionWriter (Writer/Editor)
+msgid "Writer/Editor"
+msgstr "Rédacteur"
+
+#. [Metadata name] XMP tags / xmp:Advisory
+msgid "xmp:Advisory"
+msgstr "Consultatif"
+
+#. [Metadata name] XMP tags / xmp:BaseURL
+msgid "xmp:BaseURL"
+msgstr "URL"
+
+#. [Metadata name] XMP tags / xmp:CreateDate
+msgid "xmp:CreateDate"
+msgstr "Date de création"
+
+#. [Metadata name] XMP tags / xmp:CreatorTool
+msgid "xmp:CreatorTool"
+msgstr "Outil de création"
+
+#. [Metadata name] XMP tags / xmp:Identifier
+msgid "xmp:Identifier"
+msgstr "Identifiant"
+
+#. [Metadata name] XMP tags / xmp:Label
+msgid "xmp:Label"
+msgstr "Étiquette"
+
+#. [Metadata name] XMP tags / xmp:MetadataDate
+msgid "xmp:MetadataDate"
+msgstr "Date des métadonnée"
+
+#. [Metadata name] XMP tags / xmp:ModifyDate
+msgid "xmp:ModifyDate"
+msgstr "Date de modification"
+
+#. [Metadata name] XMP tags / xmp:Nickname
+msgid "xmp:Nickname"
+msgstr "Surnom"
+
+#. [Metadata name] XMP tags / xmp:Rating
+msgid "xmp:Rating"
+msgstr "Classement"
+
+#. [Metadata name] XMP tags / xmp:Thumbnails
+msgid "xmp:Thumbnails"
+msgstr "Vignettes"
+
+#. [Metadata name] XMP tags / xmpBJ:JobRef
+msgid "xmpBJ:JobRef"
+msgstr "Référence de l'annonce"
+
+#. [Metadata name] XMP tags / xmpMM:DerivedFrom
+msgid "xmpMM:DerivedFrom"
+msgstr "Derivé de"
+
+#. [Metadata name] XMP tags / xmpMM:DocumentID
+msgid "xmpMM:DocumentID"
+msgstr "ID du document"
+
+#. [Metadata name] XMP tags / xmpMM:History
+msgid "xmpMM:History"
+msgstr "Historique"
+
+#. [Metadata name] XMP tags / xmpMM:InstanceID
+msgid "xmpMM:InstanceID"
+msgstr "ID de la demande"
+
+#. [Metadata name] XMP tags / xmpMM:LastURL
+msgid "xmpMM:LastURL"
+msgstr "Dernière URL"
+
+#. [Metadata name] XMP tags / xmpMM:ManagedFrom
+msgid "xmpMM:ManagedFrom"
+msgstr "Géré par"
+
+#. [Metadata name] XMP tags / xmpMM:Manager
+msgid "xmpMM:Manager"
+msgstr "Directeur"
+
+#. [Metadata name] XMP tags / xmpMM:ManagerVariant
+#, fuzzy
+msgid "xmpMM:ManagerVariant"
+msgstr "Manager variant"
+
+#. [Metadata name] XMP tags / xmpMM:ManageTo
+msgid "xmpMM:ManageTo"
+msgstr "Gérer"
+
+#. [Metadata name] XMP tags / xmpMM:ManageUI
+#, fuzzy
+msgid "xmpMM:ManageUI"
+msgstr "Manage UI"
+
+#. [Metadata name] XMP tags / xmpMM:RenditionClass
+msgid "xmpMM:RenditionClass"
+msgstr "Classe d'interprétation"
+
+#. [Metadata name] XMP tags / xmpMM:RenditionParams
+msgid "xmpMM:RenditionParams"
+msgstr "Paramètre d'interprétation"
+
+#. [Metadata name] XMP tags / xmpMM:VersionID
+msgid "xmpMM:VersionID"
+msgstr "ID de la version"
+
+#. [Metadata name] XMP tags / xmpMM:Versions
+msgid "xmpMM:Versions"
+msgstr "Versions"
+
+#. [Metadata name] XMP tags / xmpNote:HasExtendedXMP
+msgid "xmpNote:HasExtendedXMP"
+msgstr "Dispose de métadonnées XMP étendues"
+
+#. [Metadata name] XMP tags / xmpRights:Certificate
+msgid "xmpRights:Certificate"
+msgstr "Certificat"
+
+#. [Metadata name] XMP tags / xmpRights:Marked
+msgid "xmpRights:Marked"
+msgstr "Marqué"
+
+#. [Metadata name] XMP tags / xmpRights:Owner
+msgid "xmpRights:Owner"
+msgstr "Propriétaire"
+
+#. [Metadata name] XMP tags / xmpRights:UsageTerms
+msgid "xmpRights:UsageTerms"
+msgstr "Conditions d'utilisation"
+
+#. [Metadata name] XMP tags / xmpRights:WebStatement
+msgid "xmpRights:WebStatement"
+msgstr "Déclaration Web"
+
+#. [Metadata name] XMP tags / xmpTPg:Colorants
+msgid "xmpTPg:Colorants"
+msgstr "Colorants"
+
+#. [Metadata name] XMP tags / xmpTPg:Fonts
+msgid "xmpTPg:Fonts"
+msgstr "Polices"
+
+#. [Metadata name] XMP tags / xmpTPg:MaxPageSize
+msgid "xmpTPg:MaxPageSize"
+msgstr "Poids maximum des pages"
+
+#. [Metadata name] XMP tags / xmpTPg:NPages
+msgid "xmpTPg:NPages"
+msgstr "Numbre de pages"
+
+#. [Metadata name] XMP tags / xmpTPg:PlateNames
+msgid "xmpTPg:PlateNames"
+msgstr "Plate names"
+
+#. [Metadata name] Exif & Tiff tags / 0x9c9d (XPAuthor)
+msgid "XPAuthor"
+msgstr "Autheur"
+
+#. [Metadata name] Exif & Tiff tags / 0x9c9c (XPComment)
+msgid "XPComment"
+msgstr "Commentaire"
+
+#. [Metadata name] Exif & Tiff tags / 0x9c9e (XPKeywords)
+msgid "XPKeywords"
+msgstr "Mots clefs"
+
+#. [Metadata name] Exif & Tiff tags / 0x011e (XPosition)
+msgid "XPosition"
+msgstr "Position X"
+
+#. [Metadata name] Exif & Tiff tags / 0x9c9f (XPSubject)
+msgid "XPSubject"
+msgstr "Sujet"
+
+#. [Metadata name] Exif & Tiff tags / 0x9c9b (XPTitle)
+msgid "XPTitle"
+msgstr "Titre"
+
+#. [Metadata name] Exif & Tiff tags / 0x011a (XResolution)
+#. [Metadata name] XMP tags / tiff:XResolution (XResolution)
+msgid "XResolution"
+msgstr "Résolution X"
+
+#. Pentax specific tags / 0x0023 (HomeCityName)
+#. Pentax specific tags / 0x0024 (DestinationCityName)
+msgid "Yangon"
+msgstr ""
+
+#. Exif & Tiff tags / 0x0106 (PhotometricInterpretation)
+msgid "YCbCr"
+msgstr ""
+
+#. [Metadata name] XMP tags / tiff:YCbCrCoefficients (YCbCrCoefficients)
+#. [Metadata name] Exif & Tiff tags / 0x0211 (YCbCrCoefficients)
+msgid "YCbCrCoefficients"
+msgstr "Coefficients YCbCr"
+
+#. [Metadata name] Exif & Tiff tags / 0x0213 (YCbCrPositioning)
+#. [Metadata name] XMP tags / tiff:YCbCrPositioning (YCbCrPositioning)
+msgid "YCbCrPositioning"
+msgstr "Positionnement YCbCr"
+
+#. [Metadata name] XMP tags / tiff:YCbCrSubSampling (YCbCrSubSampling)
+#. [Metadata name] Exif & Tiff tags / 0x0212 (YCbCrSubSampling)
+msgid "YCbCrSubSampling"
+msgstr "Sous échantillonnage YCbCr"
+
+#. Hardcoded value
+msgid "Yes"
+msgstr "Oui"
+
+#. [Metadata name] Exif & Tiff tags / 0x011f (YPosition)
+msgid "YPosition"
+msgstr "Position Y"
+
+#. [Metadata name] XMP tags / tiff:YResolution (YResolution)
+#. [Metadata name] Exif & Tiff tags / 0x011b (YResolution)
+msgid "YResolution"
+msgstr "Résolution Y"
+
+#. [Metadata name] XMP tags / digiKam:TagsList
+msgid "digiKam:TagsList"
+msgstr "Mots clefs"
+
+#. [Metadata name] XMP tags / lr:hierarchicalSubject
+msgid "lr:hierarchicalSubject"
+msgstr "Mots clefs"
+
+#. [Metadata name] IPTC tags / 0x20c04 (Subject Reference[Detail Name])
+msgid "Subject Reference[Detail Name]"
+msgstr "Sujet de référence (nom détaillé)"
+
+#. [Metadata name] IPTC tags / 0x20c00 (Subject Reference[IPR])
+msgid "Subject Reference[IPR]"
+msgstr "Sujet de référence (IPR)"
+
+#. [Metadata name] IPTC tags / 0x20c03 (Subject Reference[Matter Name])
+msgid "Subject Reference[Matter Name]"
+msgstr "Sujet de référence (matière)"
+
+#. [Metadata name] IPTC tags / 0x20c02 (Subject Reference[Name])
+msgid "Subject Reference[Name]"
+msgstr "Sujet de référence (nom)"
+
+#. [Metadata name] IPTC tags / 0x20c01 (Subject Reference[Number])
+msgid "Subject Reference[Number]"
+msgstr "Sujet de référence (numéro)"
+
+#. [Metadata name] COM tags / 'comment'
+msgid "comment"
+msgstr "Commentaire"
+

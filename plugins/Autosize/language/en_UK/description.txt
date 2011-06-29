@@ -1,0 +1,1 @@
+Allows automatic resizing of the display with respect to explorer window.

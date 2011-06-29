@@ -1,0 +1,1 @@
+Tillater automatisk endring av størrelse på visninger med respekt for utforsker vindu.

@@ -1,0 +1,11 @@
+/* roma css */
+.ui-inputText {
+  background:#444444;
+  border:1px solid #666666;
+  color:#999999;
+}
+.ui-error, input[type='text'].ui-error, textarea.ui-error {
+  background:#ff8080;
+  border-color:#800000;
+  color:#800000;
+}

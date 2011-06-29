@@ -1,0 +1,39 @@
+/* roma css */
+
+.ui-inputList,
+.ui-inputList-list {
+  background:#444444;
+  border:1px solid #666666;
+  color:#999999;
+}
+
+.ui-inputList-arrow {
+  background:none repeat scroll 0 0 #666666;
+  border-color:#999999 #444444 #444444 #999999;
+  color:#FF3363;
+}
+
+.ui-inputList-arrow-active {
+  border-color:#444444 #999999 #999999 #444444;
+}
+
+li.ui-inputList-item:hover {
+  background-color:#666666;
+}
+
+.ui-inputList-selected-item {
+  background-color:#777777;
+}
+
+li.ui-inputList-item div.ui-inputList-check {
+  background-image:url(./../icons/check_notchecked_roma.png);
+}
+li.ui-inputList-selected-item div.ui-inputList-check {
+  background-image:url(./../icons/check_checked_roma.png);
+}
+
+.ui-error, input[type='text'].ui-error {
+  background:#ff8080;
+  border-color:#800000;
+  color:#800000;
+}

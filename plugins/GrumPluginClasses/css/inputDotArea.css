@@ -1,0 +1,15 @@
+/* for inputDotArea plugin */
+.ui-inputDotArea {
+  cursor:default;
+  padding:0px;
+  border:1px solid;
+  overflow:hidden;
+}
+.ui-inputDotArea-dot {
+  cursor:default;
+  background:url(./../icons/color_pointer.png) no-repeat 0 0  transparent ;
+  position:relative;
+  margin:0px;
+  width:12px;
+  height:12px;
+}

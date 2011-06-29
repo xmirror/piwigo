@@ -1,0 +1,1 @@
+Nechá zaznamenané alebo nezaznamenané používateľské zmeny vzhľadu galérie (cez prepínač na rôzne témy) na úvodnej stránke galérie. Na základe Prepínača jazyka. Prepínač môže zobraziť názvy tém alebo ikony tém, záleží na konfigurácii. Pozrite detaily v súbore main.inc.php.

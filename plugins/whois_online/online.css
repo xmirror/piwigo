@@ -1,0 +1,36 @@
+select.CleaningList { width: 100%; height:90px; }
+select.categoryList { height:90px; }
+td.right { text-align: right; }
+a .thumbbar {display: inline-block; color:#f70; background-color:#f70; width: 16px; }
+a:hover .thumbbar {display: inline-block; color:#f33; background-color:#f33; width: 16px; border: 1px solid #ff3363; }
+a.other { color: #666; text-decoration: none; 	border-bottom: none; }
+a.other:hover { text-decoration: none; border-bottom: none; }
+/* tables */
+.table2 thead tr .header {
+	background-image: url(icons/bg.gif); background-repeat: no-repeat;
+	background-position: center right; cursor: pointer;
+}
+.table2 thead tr .headerSortUp { background-image: url(icons/asc.gif); }
+.table2 thead tr .headerSortDown { background-image: url(icons/desc.gif); }
+.table2 thead tr .ns { background-image: none !important; }
+a.ws2 { display: inline-block; text-align: center; padding: 0px 1px; min-width: 21px; overflow: hidden; margin-left: 0px; margin-right: 1px; color: #666; background-color: #111; }
+.clear a.ws2 { background-color: #ccc;} 
+a.ws2:hover { color: #f33; background-color: #f33; border-bottom: 1px solid #ff3363;}
+a.ws1 { display: inline-block; text-align: center; padding: 0px 1px; min-width: 21px; overflow: hidden; margin-left: 0px; margin-right: 1px; color: #666; background-color: #222; }
+.clear a.ws1 { background-color: #eee;} 
+a.ws1:hover { color: #f33; background-color: #f33; border-bottom: 1px solid #ff3363;}
+a.ws { color: #111; background-color: #f33 !important; }
+#theAdminPage #content { margin-top:15px; min-height:370px; }
+.cluetip-default #cluetip-outer { border-radius: 16px; -moz-border-radius: 16px; -khtml-border-radius: 16px; -webkit-border-radius: 16px; }
+.cluetip-default h3#cluetip-title { border-radius: 16px 16px 0 0; -moz-border-radius: 16px 16px 0 0; -khtml-border-radius: 16px 16px 0 0; -webkit-border-radius: 16px 16px 0 0; }
+
+.content .errors, .content .infos { position:relative;}
+#theAdminPage  #pwgMain .Whois_Online { text-align:center; }
+#theAdminPage  #pwgMain .Whois_Online *,
+#theAdminPage  #pwgMain .Whois_Online *:hover,
+#theAdminPage  #pwgMain .Whois_Online *:focus,
+#theAdminPage  #pwgMain .Whois_Online *:active { outline: 0; }
+#theAdminPage  #pwgMain .Whois_Online  input { border-radius: 8px; -moz-border-radius: 8px; -khtml-border-radius: 8px; -webkit-border-radius: 8px; }
+#theAdminPage .Whois_Online fieldset { border-radius: 16px; -moz-border-radius: 16px; -khtml-border-radius: 16px; -webkit-border-radius: 16px; }
+#theAdminPage  #pwgMain .Whois_Online  input { padding-left:5px; }
+#theAdminPage   #pwgMain .Whois_Online input[type="submit"] { padding:0 45px; }

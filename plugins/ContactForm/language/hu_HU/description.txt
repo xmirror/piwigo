@@ -1,0 +1,1 @@
+Hozzáad egy "Kapcsolat" menüpontot a Menü blokkhoz, mellyel egy kapcsolati űrlapot biztosít a felhasználóknak.

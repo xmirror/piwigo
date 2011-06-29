@@ -1,0 +1,1 @@
+Ermöglicht die automatische Größenanpassung der Anzeige in Bezug auf das Explorer Fenster.

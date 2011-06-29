@@ -1,0 +1,2 @@
+Permet de Changer de thèmes sur la galerie facilement (invité et utilisateurs) à partir d'icônes ou d'une liste présente sur la page d'accueil.
+Voir les détails dans un fichier main.inc.php.

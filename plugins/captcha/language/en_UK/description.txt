@@ -1,0 +1,1 @@
+Add captcha to registration form

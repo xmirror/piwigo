@@ -1,0 +1,1 @@
+Permette di cambiare la data di upload delle foto nella gestione per lotti (Batch Manager)

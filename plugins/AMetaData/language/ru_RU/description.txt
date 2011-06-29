@@ -1,0 +1,1 @@
+Плагин Advanced MetaData (AMetadata) позволяет управлять отображением всех метаданных (EXIF, IPTC and XMP), имеющихся в заголовках фотографий Piwigo.

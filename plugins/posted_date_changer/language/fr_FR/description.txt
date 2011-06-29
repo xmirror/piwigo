@@ -1,0 +1,1 @@
+Permet de changer la date d'ajout des photos dans la gestion par lot.

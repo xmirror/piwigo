@@ -1,0 +1,29 @@
+
+/* roma css */
+
+.ui-inputNum {
+  background:#444444;
+  border:1px solid #666666;
+  color:#999999;
+}
+
+.ui-inputNum-btDec, .ui-inputNum-btInc ,
+div.ui-inputNum a.ui-slider-handle {
+  background:none repeat scroll 0 0 #666666;
+  border-color:#999999 #444444 #444444 #999999;
+  color:#ff3363;
+}
+
+.ui-inputNum-btDec-active, .ui-inputNum-btInc-active {
+  border-color:#444444 #999999 #999999 #444444;
+}
+
+.ui-error, input[type='text'].ui-error {
+  background:#ff8080;
+  border-color:#800000;
+  color:#800000;
+}
+
+div.ui-inputNum div.ui-slider-horizontal {
+  background:none repeat scroll 0 0 #666666;
+}

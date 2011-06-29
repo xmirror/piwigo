@@ -1,0 +1,73 @@
+/* for inputList plugin */
+.ui-inputList {
+  cursor:default;
+  padding:0px;
+  min-height:17px;
+  outline:none;
+}
+.ui-inputList-arrow {
+  border-style:solid;
+  border-width:1px;
+  cursor:pointer;
+  font-weight:bold;
+  width:14px;
+  margin-top:1px;
+  height:14px;
+  text-align:center;
+  display:inline-block;
+}
+
+.ui-inputList-list {
+  margin-top:-1px;
+  cursor:default;
+  font-family:sans-serif;
+  z-index:9999;
+}
+
+.ui-inputList-item {
+  min-height:15px;
+}
+
+.ui-inputList-value span {
+  display:inline-block;
+  overflow:hidden;
+}
+
+div.ui-inputList-multiple div.ui-inputList-check,
+div.ui-inputList-multiple div.ui-inputList-name {
+   display:inline-block;
+}
+.ui-inputList-expandable-item,
+.ui-inputList-collapsable-item {
+  background: none no-repeat scroll 0px 0px;
+}
+
+.ui-inputList-check {
+  background:none no-repeat scroll 0 0 transparent;
+  display:inline-block;
+  height:13px;
+  width:17px;
+}
+
+.ui-inputList-value { margin:0px; }
+.ui-inputList-value span { padding-top:2px; min-height:15px; }
+.ui-inputList-value ul { list-style:none; margin:1px 0 0 1px; padding:0; }
+.ui-inputList-value li.ui-inputList-selected-item {
+  -moz-border-radius:3px;
+  -webkit-border-radius:3px;
+  -khtml-border-radius:3px;
+  border-radius:3px;
+  margin-bottom:1px;
+  margin-right:1px;
+  padding:0 4px;
+  cursor:default;
+}
+.ui-inputList-value ul li.ui-inputList-selected-item span.ui-inputList-delete-item { cursor:pointer; }
+.ui-inputList-value li span.ui-inputList-delete-item {
+  font-family:sans;
+  font-size:80%;
+  font-weight:bold;
+  padding:0 3px;
+  position:relative;
+  top:-1px;
+}

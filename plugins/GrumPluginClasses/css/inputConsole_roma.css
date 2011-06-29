@@ -1,0 +1,17 @@
+/* roma css */
+.ui-inputConsole {
+  background:#444444;
+  border:1px solid #666666;
+  color:#999999;
+}
+.ui-inputConsole-history {
+  border-color:#666666;
+  background:#444444;
+  color:#999999;
+}
+
+.ui-error, input[type='text'].ui-error {
+  background:#ff8080;
+  border-color:#800000;
+  color:#800000;
+}

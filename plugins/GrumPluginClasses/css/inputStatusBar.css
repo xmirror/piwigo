@@ -1,0 +1,14 @@
+/* for inputStatusBar plugin */
+.ui-inputStatusBar {
+  cursor:default;
+  padding:0px;
+  margin:0px;
+  border-collapse:collapse;
+  border-spacing:0;
+  width:100%;
+}
+
+.ui-inputStatusBar td {
+  border-right:1px solid;
+  overflow:hidden;
+}

@@ -1,0 +1,25 @@
+/* for inputColorsFB plugin */
+.ui-inputColorsFB {
+  padding:0px;
+}
+
+.ui-inputColorsFB-clickable {
+  cursor:pointer;
+}
+
+.ui-inputColorsFB-fgopacity, .ui-inputColorsFB-bgopacity  {
+  background:url(./../icons/bgopacity.png) repeat 0 0 #000000;
+  border:1px solid;
+  position:absolute;
+}
+
+.ui-inputColorsFB-fgopacity {
+  z-index:100;
+}
+.ui-inputColorsFB-bgopacity {
+  z-index:50;
+}
+.ui-inputColorsFB-fg, .ui-inputColorsFB-bg {
+  width:100%;
+  height:100%;
+}

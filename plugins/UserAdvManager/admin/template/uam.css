@@ -1,0 +1,92 @@
+/* UAM instructions */
+#uam_leftmargin
+{
+  margin-left: 2em
+}
+
+#uam_notice
+{
+  text-align:center;
+  text-decoration: underline;
+  font-weight:bold;
+}
+
+div.uam_hide
+{
+  display: none;
+}
+
+textarea.uam_textfields
+{
+  width: 70%;
+}
+
+/* jQuery cluetip instructions */
+label.cluetip
+{
+  font-weight:bold;
+}
+
+/* Bloc expand-collapse instructions */
+.instructionBlock
+{
+  border: 1px solid #666;
+  margin: 5px;
+  overflow: hidden;
+}
+
+.instructionBlockHeaderCollapsed, .instructionBlockHeaderExpanded
+{
+  background-color: #111;
+  background-position: 15px center;
+  background-repeat: no-repeat;
+  color: #ff3363;
+  cursor: pointer;
+  font-size: 110%;
+  overflow: hidden;
+  padding: 8px 41px;
+  text-align: left;
+}
+
+.instructionBlockHeaderCollapsed span, .instructionBlockHeaderExpanded span
+{
+  border-bottom: none;
+}
+
+.instructionBlockContent
+{
+  padding: 0 15px 15px;
+}
+
+/* jQuery tablesorter instructions */
+tr.throw
+{
+cursor:pointer;
+text-align:center;
+}
+
+th.header
+{
+background-image:url("./icon/bg.png");
+background-position:right center;
+background-repeat:no-repeat;
+cursor:pointer;
+}
+
+th.headerSortDown
+{
+background-image:url("./icon/desc.png");
+}
+
+th.headerSortUp
+{
+background-image:url("./icon/asc.png");
+}
+
+.pager{
+  text-align:center;
+}
+
+#pager img {
+  margin-bottom: -3px;
+}

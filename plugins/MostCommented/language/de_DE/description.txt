@@ -1,0 +1,1 @@
+Fügt die Option "Am häufigsten kommentiert" im Menü "Erweiterte Verwaltung" ein.

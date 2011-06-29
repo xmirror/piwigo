@@ -1,0 +1,1 @@
+Lets logged or unlogged user change appearance of gallery (via switching to different theme) on gallery home page. Based on Language switch. The switch can show theme names or theme icons, depends on configuration. See details in a file main.inc.php.

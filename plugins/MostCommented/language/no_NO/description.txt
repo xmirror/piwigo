@@ -1,0 +1,1 @@
+Legg til en "Mest kommenterte" link i "Spesial" meny.

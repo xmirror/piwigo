@@ -1,0 +1,1 @@
+Rāda panorāmveida attēlus, izmantojot silvertab pamoorama skriptu (mootools atbalsts)

@@ -1,0 +1,1 @@
+Umožní přihlášenému i nepřihlášenému uživateli měnit vzhled galerie (témata) přepínačem přímo na hlavní stránce galerie. Založeno na doplňku Laguage switch (přepnutí jazyka). Přepínač může být seznam názvů témat (výchozí nastavení), nebo icon témat, záleží na konfiguraci v souboru main.inc.php. 

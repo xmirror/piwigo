@@ -1,0 +1,62 @@
+/* for tagSelector plugin */
+.ui-tag-selector-input { padding:1px; }
+.ui-tag-selector-input input { border:none; background:transparent; }
+.ui-tag-selector-list { margin-top:-1px; }
+.ui-tag-selector-selected-tag-list { list-style:none; margin:0; padding:0; }
+.ui-tag-selector-selected-tag-list li span {
+  font-family:sans;
+  font-size:80%;
+  font-weight:bold;
+  padding:0 3px;
+  position:relative;
+  top:-1px;
+}
+li.ui-tag-selector-list-item, .ui-tag-selector-text { padding:2px; }
+.ui-tag-selector-selected-tag-list li.ui-tag-selector-selected-tag {
+  -moz-border-radius:8px;
+  -webkit-border-radius:8px;
+  -khtml-border-radius:8px;
+  border-radius:8px;
+  float:left;
+  margin-bottom:1px;
+  margin-right:1px;
+  padding:0 4px;
+  cursor:default;
+}
+.ui-tag-selector-selected-tag-list li.ui-tag-selector-selected-tag span { cursor:pointer; }
+
+/* clear css */
+
+
+.ui-tag-selector-list, .ui-tag-selector-input {
+  background:#DDDDDD;
+  border:1px solid #999999;
+  color:#666666;
+}
+
+.ui-tag-selector-text {
+  font-style:italic;
+  font-size:80%;
+  border-top:1px dotted #999999;
+  background:#DDDDDD;
+  color:#666666;
+}
+
+li.ui-tag-selector-list-item:hover {
+  background:#AAAAAA;
+  color:#DDDDDD;
+  cursor:pointer;
+}
+
+.ui-tag-selector-selected-tag-list li.ui-tag-selector-selected-tag {
+  background:#999999;
+  color:#DDDDDD;
+  margin-top:1px;
+  padding-top:1px;
+}
+
+.ui-tag-selector-highlight {
+  color:#005E89;
+  font-weight:bold;
+  background:#999999;
+}

@@ -1,0 +1,1 @@
+Ermöglicht angemeldete oder nicht angemeldete Benutzer die Veränderung des Galerie-Layouts (durch die Umstellung auf ein anderes Thema) auf der Galerie-Startseite. Basierend auf "Language switch". Der Schalter kann Themanamen oder Themasymbole zeigen, dies hängt von der Konfiguration ab. Details finden Sie in der Datei main.inc.php.

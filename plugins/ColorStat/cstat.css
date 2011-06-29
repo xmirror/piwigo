@@ -1,0 +1,46 @@
+#iLargeColorTable p, #iSmallColorTable p {
+  float:left;
+  margin:0px;
+  padding:0px;
+  padding-bottom:10px;
+}
+
+#iLargeColorTable, #iSmallColorTable {
+  margin-left:30px;
+  padding:10px;
+}
+
+#iSteps fieldset p {
+  text-align:justify;
+  margin:8px;
+  margin-top:0px;
+}
+
+table .colorListSample {
+  border:1px solid #505050;
+}
+
+#iHeaderListColors { width:100%; border:1px solid; border-collapse: collapse; margin-top:3px; }
+#iListColors { width:100%; border:1px solid; height:280px; border-top:0px; overflow:auto; position:relative; left:-1px;}
+#iListColorsTable td { text-align:left; }
+
+#iListColors.roma table tr:hover { background:#303030;  }
+#iListColors.clear table tr:hover {  color: #D54E21; background:#dbe8f3; }
+
+.colorFont {
+  font-family:monospace;
+  font-size:130%;
+}
+
+.cellColorChoose {
+  width:15px;
+  height:15px;
+  margin:2px;
+  float:left;
+  cursor:pointer;
+}
+
+.color1px { border-spacing:1px; }
+.color0px { border-spacing:0px; }
+
+.estimatedTime { text-align:right; }

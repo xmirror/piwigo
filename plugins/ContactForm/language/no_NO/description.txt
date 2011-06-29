@@ -1,0 +1,1 @@
+Legg til en "Kontakt" linje i Meny blokken for å gi brukere tilgang til et kontaktskjema

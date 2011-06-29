@@ -1,0 +1,4 @@
+Permite cambiar el aspecto visual de la galería en la
+página principal, tanto a usuarios identificados como anónimos, mediante la
+elección de otro ‘tema’. El cambio aplicará literales o iconos del tema,
+dependiendo de la configuración. Vea los detalles en main.inc.php

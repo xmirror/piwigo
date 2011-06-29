@@ -1,0 +1,1 @@
+Whois Online (kas onlainā) ir monitoringa rīks, kas reālā laika režīmā rāda attēla/indeksa aktivitāti (ārpus vēstures aktivēšanas un konfigurācijas izvēles iespējām).

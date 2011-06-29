@@ -1,0 +1,1 @@
+Klasser delade mellan plugins

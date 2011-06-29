@@ -1,0 +1,1 @@
+Random Header allow you to show in the header a random picture from the choosen categorie, as a normal image, or as a background

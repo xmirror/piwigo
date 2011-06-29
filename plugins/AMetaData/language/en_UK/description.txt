@@ -1,0 +1,1 @@
+Advanced MetaData plugin is a plugin using all the metadata (EXIF, IPTC and XMP) present in the pictures.

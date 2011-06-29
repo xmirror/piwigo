@@ -1,0 +1,1 @@
+Display panoramics images using pamoorama script by silvertab (powered by mootools)
